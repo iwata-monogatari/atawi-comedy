@@ -104,8 +104,10 @@ img { display: block; max-width: 100%; }
 .rating-list { padding-left: 1.2em; }
 .article-side { position: sticky; top: 96px; padding: 16px; box-shadow: none; }
 .article-side h2 { margin: 0 0 8px; font-size: 1rem; color: var(--accent-strong); }
+.article-side-title { margin: 0 0 8px; font-size: 1rem; color: var(--accent-strong); font-weight: 900; }
 .company-cta { margin: 36px 0 0; padding: 20px; border: 2px solid var(--coral); border-radius: 8px; background: var(--soft-coral); }
 .company-cta h2 { margin-top: 0; border-top: 0; padding-top: 0; color: var(--coral); }
+.company-cta-title { margin-top: 0; color: var(--coral); font-size: 1.1rem; font-weight: 900; }
 .company-cta p { margin: 0.35em 0; font-weight: 700; }
 .stats-row { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin: 18px 0; }
 .stats-row div { padding: 14px; }
