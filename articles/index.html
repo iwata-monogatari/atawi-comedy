@@ -12,42 +12,39 @@
   <meta property="og:description" content="公開済みのお笑いネタ記事を一覧で探せます。">
   <meta property="og:url" content="https://atawicomedy.link/articles/">
   <meta property="og:image" content="https://i.ytimg.com/vi/qpIb1NKU1c8/hqdefault.jpg">
-  <link rel="stylesheet" href="/assets/css/style.css?v=20260707">
-  <script src="/assets/js/main.js?v=20260707" defer></script>
+  <link rel="stylesheet" href="/assets/css/style.css?v=20260708">
+  <script src="/assets/js/main.js?v=20260708" defer></script>
 </head>
 <body>
   <header class="site-header">
     <div class="header-inner">
-      <div class="brand-area">
-        <a class="brand" href="/">ATAWI COMEDY</a>
-        <a class="random-link" href="/?random=1" data-random-link>ランダムに1ネタと出会う</a>
-      </div>
-      <div class="nav-area">
-        <span class="presented">Presented by Hiroyuki Oishi</span>
+      <a class="brand" href="/" aria-label="ATAWI COMEDY トップへ戻る">
+        <img class="brand-logo" src="/assets/images/atawi-comedy-logo.svg" alt="ATAWI COMEDY">
+        <span class="brand-sub">笑いと記憶をたどるお笑い帖</span>
+      </a>
+      <div class="header-links">
+        <a class="presented-link" href="/about.html">Presented by Hiroyuki Oishi</a>
         <nav class="site-nav" aria-label="メインナビゲーション">
           <a href="/">トップ</a>
           <a href="/oishi-selection-viewpoint.html">大石セレクション</a>
           <a href="/articles/">記事一覧</a>
-          <a href="/about.html">プロフィール</a>
           <a href="/playlist/">大石再生リスト</a>
           <a href="/contact.html">お問い合わせ</a>
+          <a class="random-link" href="/?random=1" data-random-link>ランダムに1ネタと出会う</a>
         </nav>
       </div>
     </div>
   </header>
-
   <main class="page-main">
     <section class="page-section">
       <h1>記事一覧</h1>
       <p class="lead">公開済みのネタ記事を、芸人・年代・気分・ジャンルから探せます。</p>
     </section>
-
     <section aria-labelledby="article-list-title">
       <div class="section-head">
         <h2 id="article-list-title">すべてのネタ記事</h2>
         <span class="count" data-video-count>0件</span>
       </div>
-
       <div class="controls" data-video-controls>
         <input type="search" data-search placeholder="ネタ名・芸人名・気分で検索" aria-label="検索">
         <select data-filter-performer aria-label="芸人で絞り込む"></select>
@@ -63,16 +60,13 @@
         </select>
         <button class="button ghost" type="button" data-reset-filters>解除</button>
       </div>
-
       <div class="video-grid" data-video-list></div>
       <div class="more-row">
         <button class="button secondary" type="button" data-load-more hidden>さらに表示</button>
       </div>
     </section>
   </main>
-
   <div data-site-footer></div>
-  <script src="/assets/js/footer.js?v=20260707"></script>
+  <script src="/assets/js/footer.js?v=20260708"></script>
 </body>
 </html>
-

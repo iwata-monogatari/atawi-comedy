@@ -1,5 +1,12 @@
 /playlist /playlist/ 301
+/articles/sandwichman-001-delivery-pizza /articles/sandwichman-0001.html 301
+/articles/sandwichman-001-delivery-pizza.html /articles/sandwichman-0001.html 301
+/articles/sandwichman-002-shoes-store /articles/sandwichman-0002.html 301
+/articles/sandwichman-002-shoes-store.html /articles/sandwichman-0002.html 301
+/articles/sandwichman-003-bedding-store /articles/sandwichman-0003.html 301
+/articles/sandwichman-003-bedding-store.html /articles/sandwichman-0003.html 301
+/articles/sandwichman-004-enka-man /articles/sandwichman-0004.html 301
+/articles/sandwichman-004-enka-man.html /articles/sandwichman-0004.html 301
 /docs/* /404.html 404
 /.wrangler/* /404.html 404
 /build_site.js /404.html 404
-

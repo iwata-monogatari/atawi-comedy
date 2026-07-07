@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 150" role="img" aria-labelledby="title desc">
+  <title id="title">ATAWI COMEDY</title>
+  <desc id="desc">Bright cyan, coral, and yellow ATAWI COMEDY wordmark.</desc>
+  <rect width="680" height="150" rx="18" fill="#ffffff"/>
+  <path d="M34 106c0-42 28-73 72-73h30v23h-29c-28 0-46 20-46 50v6H34v-6z" fill="#00a6d6"/>
+  <path d="M112 32h34v87l-34-21V32z" fill="#ff4f7b"/>
+  <circle cx="83" cy="86" r="15" fill="#ffd84d"/>
+  <text x="170" y="75" font-family="Yu Gothic, Meiryo, Arial, sans-serif" font-size="42" font-weight="900" letter-spacing="0" fill="#172023">ATAWI</text>
+  <text x="170" y="116" font-family="Yu Gothic, Meiryo, Arial, sans-serif" font-size="42" font-weight="900" letter-spacing="0" fill="#006e8a">COMEDY</text>
+  <path d="M390 104h206" stroke="#ffd84d" stroke-width="10" stroke-linecap="round"/>
+  <path d="M596 104l28-24v24l-28 24z" fill="#6ddf82"/>
+</svg>
