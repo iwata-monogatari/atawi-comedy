@@ -1,0 +1,5 @@
+/playlist /playlist/ 301
+/docs/* /404.html 404
+/.wrangler/* /404.html 404
+/build_site.js /404.html 404
+

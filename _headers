@@ -1,0 +1,18 @@
+/*.html
+  Cache-Control: no-store
+
+/articles/*
+  Cache-Control: no-store
+
+/data/*
+  Cache-Control: no-store
+
+/assets/*
+  Cache-Control: max-age=0, must-revalidate
+
+/js/*
+  Cache-Control: max-age=0, must-revalidate
+
+/api/*
+  Cache-Control: no-store
+

@@ -1,0 +1,12 @@
+{
+  "name": "atawi-comedy",
+  "pages_build_output_dir": ".",
+  "compatibility_date": "2026-07-07",
+  "kv_namespaces": [
+    {
+      "binding": "ATAWI_COMEDY_PLAYLIST",
+      "id": "f1232da7d7474ee0b237f00b8e0bbb72"
+    }
+  ]
+}
+

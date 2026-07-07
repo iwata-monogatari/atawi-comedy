@@ -1,0 +1,36 @@
+[
+  {
+    "date": "2026-07-07",
+    "items": [
+      {
+        "video_id": "sandwichman-001-delivery-pizza",
+        "title": "デリバリー（ピザ）",
+        "performer": "サンドウィッチマン",
+        "youtube_url": "https://www.youtube.com/watch?v=CKv96a36_OI",
+        "article_url": "/articles/sandwichman-001-delivery-pizza.html"
+      },
+      {
+        "video_id": "sandwichman-002-shoes-store",
+        "title": "靴屋さん",
+        "performer": "サンドウィッチマン",
+        "youtube_url": "https://www.youtube.com/watch?v=qpIb1NKU1c8",
+        "article_url": "/articles/sandwichman-002-shoes-store.html"
+      },
+      {
+        "video_id": "sandwichman-003-bedding-store",
+        "title": "寝具店",
+        "performer": "サンドウィッチマン",
+        "youtube_url": "https://www.youtube.com/watch?v=TYHTRihC2hg",
+        "article_url": "/articles/sandwichman-003-bedding-store.html"
+      },
+      {
+        "video_id": "sandwichman-004-enka-man",
+        "title": "演歌の男",
+        "performer": "サンドウィッチマン",
+        "youtube_url": "https://www.youtube.com/watch?v=R7sTT-MqN4Q",
+        "article_url": "/articles/sandwichman-004-enka-man.html"
+      }
+    ]
+  }
+]
+
