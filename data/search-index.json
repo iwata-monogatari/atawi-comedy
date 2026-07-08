@@ -1121,5 +1121,1221 @@
       "世界",
       "ワード"
     ]
+  },
+  {
+    "id": "tokyo03-0001",
+    "title": "アイデアマン",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo03-0001.html",
+    "youtube_url": "https://www.youtube.com/watch?v=J8vHtsiOahU",
+    "created_at": "2026-07-08T21:00:00+09:00",
+    "summary": "企画を出す人の自信と周囲の反応が、会議室の空気ごとゆっくり傾いていくコント。",
+    "featured_order": 36,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 5,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "あいであまん"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0002",
+    "title": "店頭販売",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo03-0002.html",
+    "youtube_url": "https://www.youtube.com/watch?v=67DgBxENbfw",
+    "created_at": "2026-07-08T21:01:00+09:00",
+    "summary": "売り場に立つ人と通りかかる人の距離を、声かけの間でじわじわ笑いに変えるコント。",
+    "featured_order": 37,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "てんとうはんばい"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "間"
+    ]
+  },
+  {
+    "id": "tokyo03-0003",
+    "title": "間",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2024,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo03-0003.html",
+    "youtube_url": "https://www.youtube.com/watch?v=h-VGKGx5G4U",
+    "created_at": "2026-07-08T21:02:00+09:00",
+    "summary": "言葉と言葉のあいだにある気まずさそのものを、題名どおり丁寧に見せるコント。",
+    "featured_order": 38,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "ま"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "間"
+    ]
+  },
+  {
+    "id": "tokyo03-0004",
+    "title": "ここだけの話",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo03-0004.html",
+    "youtube_url": "https://www.youtube.com/watch?v=EavY4T5nOfY",
+    "created_at": "2026-07-08T21:03:00+09:00",
+    "summary": "秘密めいた言葉の軽さと重さが、聞く側の立場を少しずつ変えていくコント。",
+    "featured_order": 39,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "ここだけのはなし"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "ワード"
+    ]
+  },
+  {
+    "id": "tokyo03-0005",
+    "title": "ブラックアウト",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo03-0005.html",
+    "youtube_url": "https://www.youtube.com/watch?v=kk7iutVyPXA",
+    "created_at": "2026-07-08T21:04:00+09:00",
+    "summary": "記憶や場面が途切れる感覚を、周囲の説明と本人の反応でじわじわ見せるコント。",
+    "featured_order": 40,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "ぶらっくあうと"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0006",
+    "title": "いつも通り",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo03-0006.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Uj7J36-ECB4",
+    "created_at": "2026-07-08T21:05:00+09:00",
+    "summary": "いつも通りという言葉に含まれる期待と違和感を、会話の呼吸で浮かび上がらせるコント。",
+    "featured_order": 41,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "いつもどおり"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "間"
+    ]
+  },
+  {
+    "id": "tokyo03-0007",
+    "title": "エリアリーダー",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0007.html",
+    "youtube_url": "https://www.youtube.com/watch?v=7TH_XI5aX5k",
+    "created_at": "2026-07-08T21:06:00+09:00",
+    "summary": "肩書きの小さな強さが、人の態度や場の空気を変えていく職場コント。",
+    "featured_order": 42,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "えりありーだー"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0008",
+    "title": "言いにくい人",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0008.html",
+    "youtube_url": "https://www.youtube.com/watch?v=3wZvpFB4EIo",
+    "created_at": "2026-07-08T21:07:00+09:00",
+    "summary": "言うべきことがあるのに言い出せない、その手前の気配を丁寧に笑いへ変えるコント。",
+    "featured_order": 43,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "いいにくいひと"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "間"
+    ]
+  },
+  {
+    "id": "tokyo03-0009",
+    "title": "開店祝い",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0009.html",
+    "youtube_url": "https://www.youtube.com/watch?v=w5zkXCCWZ8E",
+    "created_at": "2026-07-08T21:08:00+09:00",
+    "summary": "祝うための場に混ざる本音や都合を、店の空気ごと見せていくコント。",
+    "featured_order": 44,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "かいてんいわい"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0010",
+    "title": "恥ずかしいはずの話",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0010.html",
+    "youtube_url": "https://www.youtube.com/watch?v=eCRrJ8btToQ",
+    "created_at": "2026-07-08T21:09:00+09:00",
+    "summary": "恥ずかしいという前提が、話す人と聞く人のずれで別の面白さへ変わるコント。",
+    "featured_order": 45,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "はずかしいはずのはなし"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "ワード"
+    ]
+  },
+  {
+    "id": "tokyo03-0011",
+    "title": "部長のいい話",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0011.html",
+    "youtube_url": "https://www.youtube.com/watch?v=VTvt2yLeTDg",
+    "created_at": "2026-07-08T21:10:00+09:00",
+    "summary": "いい話として語られる出来事が、聞く側の反応で職場の空気をあぶり出すコント。",
+    "featured_order": 46,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "ぶちょうのいいはなし"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0012",
+    "title": "後継者",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0012.html",
+    "youtube_url": "https://www.youtube.com/watch?v=OuMF9ph0A3s",
+    "created_at": "2026-07-08T21:11:00+09:00",
+    "summary": "継ぐ人と任せたい人の関係を、責任の重さと会話のずれで見せるコント。",
+    "featured_order": 47,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "こうけいしゃ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0013",
+    "title": "20年来の友人",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0013.html",
+    "youtube_url": "https://www.youtube.com/watch?v=QTN1TJoBOb8",
+    "created_at": "2026-07-08T21:12:00+09:00",
+    "summary": "長い付き合いという安心と面倒くささを、近い距離の会話で見せるコント。",
+    "featured_order": 48,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "にじゅうねんらいのゆうじん"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0014",
+    "title": "トヨモトのアレ",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0014.html",
+    "youtube_url": "https://www.youtube.com/watch?v=jIhTwXqUDwU",
+    "created_at": "2026-07-08T21:13:00+09:00",
+    "summary": "名前とぼかした言い方が作る引っかかりから、関係性がじわじわ見えるコント。",
+    "featured_order": 49,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "とよもとのあれ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "ワード"
+    ]
+  },
+  {
+    "id": "tokyo03-0015",
+    "title": "何かありそうな日",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2010,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0015.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ttD7PFO72LE",
+    "created_at": "2026-07-08T21:14:00+09:00",
+    "summary": "まだ何も起きていない段階の予感を、言葉の置き方と表情で育てるコント。",
+    "featured_order": 50,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "なにかありそうなひ"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "間"
+    ]
+  },
+  {
+    "id": "tokyo03-0016",
+    "title": "格安ツアー",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2005,
+    "decade": "2000年代",
+    "article_url": "/articles/tokyo03-0016.html",
+    "youtube_url": "https://www.youtube.com/watch?v=NW6TMXc2nRc",
+    "created_at": "2026-07-08T21:15:00+09:00",
+    "summary": "安さへの期待と不安が、旅の説明を聞くほど具体的になっていくコント。",
+    "featured_order": 51,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "かくやすつあー"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0017",
+    "title": "バンドマン",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2006,
+    "decade": "2000年代",
+    "article_url": "/articles/tokyo03-0017.html",
+    "youtube_url": "https://www.youtube.com/watch?v=i1fvwqgPxMA",
+    "created_at": "2026-07-08T21:16:00+09:00",
+    "summary": "音楽をやる人へのイメージと現実の会話が、人物像を少しずつずらしていくコント。",
+    "featured_order": 52,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "ばんどまん"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "ワード"
+    ]
+  },
+  {
+    "id": "tokyo03-0018",
+    "title": "美談",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2008,
+    "decade": "2000年代",
+    "article_url": "/articles/tokyo03-0018.html",
+    "youtube_url": "https://www.youtube.com/watch?v=CRDRxz2sx-8",
+    "created_at": "2026-07-08T21:17:00+09:00",
+    "summary": "いい話にしたい語り口と、聞く側の違和感がずれていくコント。",
+    "featured_order": 53,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "びだん"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "ワード"
+    ]
+  },
+  {
+    "id": "tokyo03-0019",
+    "title": "鬼才",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2010,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0019.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Uh9gLDgPyj4",
+    "created_at": "2026-07-08T21:18:00+09:00",
+    "summary": "ただ者ではないと言われる人物像を、周囲の扱いと本人の空気で見せるコント。",
+    "featured_order": 54,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "きさい"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0020",
+    "title": "心理テクニック",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo03-0020.html",
+    "youtube_url": "https://www.youtube.com/watch?v=lD9wko0HrdI",
+    "created_at": "2026-07-08T21:19:00+09:00",
+    "summary": "人の気持ちを動かす言葉が、使う側の思惑まで見せてしまうコント。",
+    "featured_order": 55,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "しんりてくにっく"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "ワード"
+    ]
+  },
+  {
+    "id": "tokyo03-0021",
+    "title": "同窓会",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0021.html",
+    "youtube_url": "https://www.youtube.com/watch?v=XfjTsex-C-Y",
+    "created_at": "2026-07-08T21:20:00+09:00",
+    "summary": "昔の関係と今の距離が同じ場所に戻ってくる、同窓会ならではのコント。",
+    "featured_order": 56,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "どうそうかい"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0022",
+    "title": "セカンドプロポーズ",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo03-0022.html",
+    "youtube_url": "https://www.youtube.com/watch?v=px-cy__fbbI",
+    "created_at": "2026-07-08T21:21:00+09:00",
+    "summary": "一度あるはずの節目をもう一度やろうとする気持ちが、関係性を浮かび上がらせるコント。",
+    "featured_order": 57,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "せかんどぷろぽーず"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0023",
+    "title": "嫌いな上司",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo03-0023.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ZWrkgzn0lvE",
+    "created_at": "2026-07-08T21:22:00+09:00",
+    "summary": "職場で言いにくい感情を、距離の取り方と返事の間で丁寧に見せるコント。",
+    "featured_order": 58,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "きらいなじょうし"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "間"
+    ]
+  },
+  {
+    "id": "tokyo03-0024",
+    "title": "小芝居",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0024.html",
+    "youtube_url": "https://www.youtube.com/watch?v=wMGx3dkG83k",
+    "created_at": "2026-07-08T21:23:00+09:00",
+    "summary": "わざとらしさを隠したい言葉と、それに気づく側の反応が楽しいコント。",
+    "featured_order": 59,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "こしばい"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "ワード"
+    ]
+  },
+  {
+    "id": "tokyo03-0025",
+    "title": "余裕",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2012,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0025.html",
+    "youtube_url": "https://www.youtube.com/watch?v=aTLLemQpMN0",
+    "created_at": "2026-07-08T21:24:00+09:00",
+    "summary": "余裕があるように見せたい人ほど余裕がなく見えてくる、間が効くコント。",
+    "featured_order": 60,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "よゆう"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "間"
+    ]
+  },
+  {
+    "id": "tokyo03-0026",
+    "title": "だけのノリ",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2010,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0026.html",
+    "youtube_url": "https://www.youtube.com/watch?v=t0b1cU4ufK4",
+    "created_at": "2026-07-08T21:25:00+09:00",
+    "summary": "ある場だけで通じる空気が、外から見ると急に不思議に見えるコント。",
+    "featured_order": 61,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "だけののり"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0027",
+    "title": "ステーキハウスにて",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0027.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ko8D-wq3rhc",
+    "created_at": "2026-07-08T21:26:00+09:00",
+    "summary": "食事の場の高揚感と気まずさを、店の空気と注文の会話で見せるコント。",
+    "featured_order": 62,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "すてーきはうすにて"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0028",
+    "title": "救世主",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2011,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0028.html",
+    "youtube_url": "https://www.youtube.com/watch?v=yyOSPXOFwM8",
+    "created_at": "2026-07-08T21:27:00+09:00",
+    "summary": "助けてくれるはずの人への期待が、会話の中で別の形に見えてくるコント。",
+    "featured_order": 63,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "きゅうせいしゅ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0029",
+    "title": "蓄積",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0029.html",
+    "youtube_url": "https://www.youtube.com/watch?v=wZSxXYqm4ik",
+    "created_at": "2026-07-08T21:28:00+09:00",
+    "summary": "小さな不満や違和感が積み上がる怖さを、言葉の前後の間で見せるコント。",
+    "featured_order": 64,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "ちくせき"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "間"
+    ]
+  },
+  {
+    "id": "tokyo03-0030",
+    "title": "家族会議",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2010,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0030.html",
+    "youtube_url": "https://www.youtube.com/watch?v=x8pmqDzZ3R8",
+    "created_at": "2026-07-08T21:29:00+09:00",
+    "summary": "家族だからこそ近すぎる距離が、会議という形で可笑しく見えてくるコント。",
+    "featured_order": 65,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "かぞくかいぎ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0031",
+    "title": "角田の秘密",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0031.html",
+    "youtube_url": "https://www.youtube.com/watch?v=k6-NqP3I-gc",
+    "created_at": "2026-07-08T21:30:00+09:00",
+    "summary": "秘密という言葉があるだけで、人物の見え方と周囲の反応が変わっていくコント。",
+    "featured_order": 66,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "かくたのひみつ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0032",
+    "title": "入居日",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2009,
+    "decade": "2000年代",
+    "article_url": "/articles/tokyo03-0032.html",
+    "youtube_url": "https://www.youtube.com/watch?v=OFriGdCrAeI",
+    "created_at": "2026-07-08T21:31:00+09:00",
+    "summary": "新しい部屋に入る日の期待と不安を、人との距離感でじわじわ見せるコント。",
+    "featured_order": 67,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "にゅうきょび"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0033",
+    "title": "二人の雰囲気",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0033.html",
+    "youtube_url": "https://www.youtube.com/watch?v=i3eH57T0Xtg",
+    "created_at": "2026-07-08T21:32:00+09:00",
+    "summary": "言葉にしなくても伝わってしまう二人の空気を、周囲の視線で見せるコント。",
+    "featured_order": 68,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "ふたりのふんいき"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "間"
+    ]
+  },
+  {
+    "id": "tokyo03-0034",
+    "title": "満を持して",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0034.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Ww0LHTyHoqI",
+    "created_at": "2026-07-08T21:33:00+09:00",
+    "summary": "満を持してという大きな言葉と、実際に起きることの差が楽しいコント。",
+    "featured_order": 69,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "まんをじして"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "ワード"
+    ]
+  },
+  {
+    "id": "tokyo03-0035",
+    "title": "スマイルハウジング",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2006,
+    "decade": "2000年代",
+    "article_url": "/articles/tokyo03-0035.html",
+    "youtube_url": "https://www.youtube.com/watch?v=7b33Fk_3Qu0",
+    "created_at": "2026-07-08T21:34:00+09:00",
+    "summary": "住まいの相談先らしい明るさと、説明のずれが重なる不動産コント。",
+    "featured_order": 70,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "すまいるはうじんぐ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0036",
+    "title": "陰口",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2007,
+    "decade": "2000年代",
+    "article_url": "/articles/tokyo03-0036.html",
+    "youtube_url": "https://www.youtube.com/watch?v=OF59yR5XYtI",
+    "created_at": "2026-07-08T21:35:00+09:00",
+    "summary": "言ってはいけない話題をめぐる気配が、聞かれそうな間で笑いになるコント。",
+    "featured_order": 71,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "かげぐち"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "間"
+    ]
+  },
+  {
+    "id": "tokyo03-0037",
+    "title": "課長の趣味",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2009,
+    "decade": "2000年代",
+    "article_url": "/articles/tokyo03-0037.html",
+    "youtube_url": "https://www.youtube.com/watch?v=G9bw8i1WJVU",
+    "created_at": "2026-07-08T21:36:00+09:00",
+    "summary": "上司の趣味という近くて遠い話題から、職場の反応が立ち上がるコント。",
+    "featured_order": 72,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "world"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "かちょうのしゅみ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界"
+    ]
+  },
+  {
+    "id": "tokyo03-0038",
+    "title": "サングラス",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2005,
+    "decade": "2000年代",
+    "article_url": "/articles/tokyo03-0038.html",
+    "youtube_url": "https://www.youtube.com/watch?v=7-FhBlkcMpA",
+    "created_at": "2026-07-08T21:37:00+09:00",
+    "summary": "小さな持ち物ひとつで人物の見え方が変わる、言葉と視線のコント。",
+    "featured_order": 73,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "とうきょうぜろさん",
+      "さんぐらす"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "ワード"
+    ]
   }
 ]
