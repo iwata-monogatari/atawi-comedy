@@ -10,5 +10,11 @@
     "name": "東京03",
     "kana": "とうきょうぜろさん",
     "type": "トリオ"
+  },
+  {
+    "id": "nobrocktv",
+    "name": "佐久間宣行のNOBROCK TV",
+    "kana": "さくまのぶゆきののぶろっくてぃーびー",
+    "type": "YouTubeチャンネル"
   }
 ]
