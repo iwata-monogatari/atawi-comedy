@@ -548,10 +548,10 @@ img {
 
 .video-card {
   position: relative;
-  display: flex;
-  flex-direction: column;
-  min-height: 0;
   overflow: hidden;
+  display: grid;
+  grid-template-columns: minmax(190px, 42%) minmax(0, 1fr);
+  min-height: 270px;
   transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
 }
 
@@ -602,7 +602,9 @@ img {
 .thumb-link img {
   width: 100%;
   height: 100%;
+  min-height: 230px;
   object-fit: cover;
+  aspect-ratio: 16 / 9;
 }
 
 .video-card-body {
@@ -1274,6 +1276,10 @@ img {
 
   .controls {
     padding: 10px;
+  }
+
+  .thumb-link img {
+    min-height: 190px;
   }
 
   .video-card-body {
