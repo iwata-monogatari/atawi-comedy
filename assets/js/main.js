@@ -1,4 +1,5 @@
-const PAGE_SIZE = 20;
+const DEFAULT_INITIAL_COUNT = 10;
+const DEFAULT_PAGE_SIZE = 20;
 
 const selectionLabels = {
   ma: "間",
@@ -14,7 +15,11 @@ const cardLabels = {
 
 let allVideos = [];
 let filteredVideos = [];
-let visibleCount = PAGE_SIZE;
+let listSettings = {
+  initialCount: DEFAULT_INITIAL_COUNT,
+  pageSize: DEFAULT_PAGE_SIZE
+};
+let visibleCount = DEFAULT_INITIAL_COUNT;
 
 function qs(selector, parent = document) {
   return parent.querySelector(selector);
@@ -22,6 +27,24 @@ function qs(selector, parent = document) {
 
 function qsa(selector, parent = document) {
   return Array.from(parent.querySelectorAll(selector));
+}
+
+function parsePositiveInt(value, fallback) {
+  const parsed = Number.parseInt(value, 10);
+  return Number.isFinite(parsed) && parsed > 0 ? parsed : fallback;
+}
+
+function getListSettings() {
+  const list = qs("[data-video-list]");
+  return {
+    initialCount: parsePositiveInt(list?.dataset.initialCount, DEFAULT_INITIAL_COUNT),
+    pageSize: parsePositiveInt(list?.dataset.pageSize, DEFAULT_PAGE_SIZE)
+  };
+}
+
+function resetVisibleCount() {
+  listSettings = getListSettings();
+  visibleCount = listSettings.initialCount;
 }
 
 function escapeHtml(value) {
@@ -73,7 +96,7 @@ function setupFilters(videos) {
 
   qsa("[data-video-controls] input, [data-video-controls] select").forEach((control) => {
     control.addEventListener("input", () => {
-      visibleCount = PAGE_SIZE;
+      resetVisibleCount();
       renderList();
     });
   });
@@ -84,7 +107,7 @@ function setupFilters(videos) {
       qsa("[data-video-controls] input, [data-video-controls] select").forEach((control) => {
         control.value = "";
       });
-      visibleCount = PAGE_SIZE;
+      resetVisibleCount();
       renderList();
     });
   }
@@ -173,8 +196,9 @@ function renderList() {
   const loadMore = qs("[data-load-more]");
   if (loadMore) {
     loadMore.hidden = visibleCount >= filteredVideos.length;
+    loadMore.textContent = `さらに${listSettings.pageSize}件表示`;
     loadMore.onclick = () => {
-      visibleCount += PAGE_SIZE;
+      visibleCount += listSettings.pageSize;
       renderList();
     };
   }
@@ -197,6 +221,7 @@ async function initVideoList() {
   try {
     allVideos = await loadJson("/data/videos.json");
     handleRandom(allVideos);
+    resetVisibleCount();
     setupFilters(allVideos);
     renderList();
   } catch (error) {
@@ -244,4 +269,3 @@ document.addEventListener("DOMContentLoaded", () => {
   initVideoList();
   initPlaylist();
 });
-
