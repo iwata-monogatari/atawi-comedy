@@ -5630,5 +5630,1302 @@
       "word": 3,
       "selection": "word"
     }
+  },
+  {
+    "id": "sissonne-0001",
+    "title": "喫茶店にて",
+    "source_title": "「喫茶店にて」 - シソンヌライブ [onze]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0001.html",
+    "youtube_url": "https://www.youtube.com/watch?v=zyc-7rFD0H4",
+    "youtube_video_id": "zyc-7rFD0H4",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "喫茶店の注文という日常的な設定から、言葉のズレと静かな間でシュールな笑いを作り上げる傑作。",
+    "status": "published",
+    "featured_order": 100,
+    "recommended": true,
+    "thumbnail_url": "https://i.ytimg.com/vi/zyc-7rFD0H4/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "じわじわ笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0002",
+    "title": "気付き",
+    "source_title": "「気付き」 - シソンヌライブ [treize]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=obi95J3F6Mk",
+    "youtube_video_id": "obi95J3F6Mk",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "気付きをテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/obi95J3F6Mk/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0003",
+    "title": "夏糸",
+    "source_title": "「夏糸」 - シソンヌライブ [treize]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=u4dfOyDNCys",
+    "youtube_video_id": "u4dfOyDNCys",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "夏糸をテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/u4dfOyDNCys/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0004",
+    "title": "千鶴様と伴",
+    "source_title": "「千鶴様と伴」 - シソンヌライブ [douze]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=jICCuQcPa98",
+    "youtube_video_id": "jICCuQcPa98",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "千鶴様と伴をテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/jICCuQcPa98/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0005",
+    "title": "青年とおじさんと猫",
+    "source_title": "「青年とおじさんと猫」 - シソンヌライブ [douze]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=E_yoq2m2aD8",
+    "youtube_video_id": "E_yoq2m2aD8",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "青年とおじさんと猫をテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/E_yoq2m2aD8/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0006",
+    "title": "ピアノの音色に誘われて",
+    "source_title": "﻿「ピアノの音色に誘われて」 - シソンヌライブ [quatorze]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=GuP1HBfCrks",
+    "youtube_video_id": "GuP1HBfCrks",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "ピアノの音色に誘われてをテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/GuP1HBfCrks/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0007",
+    "title": "議員と記者",
+    "source_title": "「議員と記者」 - シソンヌライブ [onze]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=yaKGsOyxiUI",
+    "youtube_video_id": "yaKGsOyxiUI",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "議員と記者をテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/yaKGsOyxiUI/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0008",
+    "title": "人類の、未来のために",
+    "source_title": "「人類の、未来のために」 - シソンヌライブ [dix]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=eI4ieS8fUZg",
+    "youtube_video_id": "eI4ieS8fUZg",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "人類の、未来のためにをテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/eI4ieS8fUZg/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0009",
+    "title": "野村くん、寺山さんに会う",
+    "source_title": "「野村くん、寺山さんに会う」 - シソンヌライブ [dix]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=z9OdidBrzRg",
+    "youtube_video_id": "z9OdidBrzRg",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "野村くん、寺山さんに会うをテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/z9OdidBrzRg/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0010",
+    "title": "老後",
+    "source_title": "「老後」 - シソンヌライブ [neuf]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=GHru-pusan0",
+    "youtube_video_id": "GHru-pusan0",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "老後をテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/GHru-pusan0/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0011",
+    "title": "隣人",
+    "source_title": "「隣人」 - シソンヌライブ [neuf]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=Qro6iiuc2Ww",
+    "youtube_video_id": "Qro6iiuc2Ww",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "隣人をテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/Qro6iiuc2Ww/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0012",
+    "title": "知らない自分",
+    "source_title": "「知らない自分」 - シソンヌライブ [huit]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tOGlJPKFOi4",
+    "youtube_video_id": "tOGlJPKFOi4",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "知らない自分をテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/tOGlJPKFOi4/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0013",
+    "title": "サ裸リーマン",
+    "source_title": "「サ裸リーマン」 - シソンヌライブ [six]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=blLmqPuYsto",
+    "youtube_video_id": "blLmqPuYsto",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "サ裸リーマンをテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/blLmqPuYsto/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0014",
+    "title": "俺の袋",
+    "source_title": "「俺の袋」 - シソンヌライブ [quatre]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=LizHrww9An0",
+    "youtube_video_id": "LizHrww9An0",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "俺の袋をテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/LizHrww9An0/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0015",
+    "title": "別れ",
+    "source_title": "「別れ」 - シソンヌライブ [deux]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2014,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=PH9BzuhUUwc",
+    "youtube_video_id": "PH9BzuhUUwc",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "別れをテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/PH9BzuhUUwc/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0016",
+    "title": "成美と百花",
+    "source_title": "「成美と百花」 - シソンヌライブ [sept]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=YSsgJbXJ3Ns",
+    "youtube_video_id": "YSsgJbXJ3Ns",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "成美と百花をテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/YSsgJbXJ3Ns/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0017",
+    "title": "名店への道",
+    "source_title": "「名店への道」 - シソンヌライブ [une]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2013,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=avb8dXZJI0Q",
+    "youtube_video_id": "avb8dXZJI0Q",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "名店への道をテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/avb8dXZJI0Q/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0018",
+    "title": "せいさくしゃ",
+    "source_title": "「せいさくしゃ」 - シソンヌライブ [trois]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2014,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=2z50WSR2BSU",
+    "youtube_video_id": "2z50WSR2BSU",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "せいさくしゃをテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/2z50WSR2BSU/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0019",
+    "title": "うちの息子、実は",
+    "source_title": "「うちの息子、実は」 - シソンヌライブ [cinq]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=v0knCQAkLnE",
+    "youtube_video_id": "v0knCQAkLnE",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "うちの息子、実はをテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/v0knCQAkLnE/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0020",
+    "title": "田村さんと丸山さん",
+    "source_title": "「田村さんと丸山さん」 - シソンヌライブ [monochrome] 2019",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=ovktGqjYwEw",
+    "youtube_video_id": "ovktGqjYwEw",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "田村さんと丸山さんをテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/ovktGqjYwEw/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0021",
+    "title": "あおり◯◯",
+    "source_title": "「あおり◯◯」 - シソンヌライブ [monochrome] 2019",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=18jfwdHL7aY",
+    "youtube_video_id": "18jfwdHL7aY",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "あおり◯◯をテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/18jfwdHL7aY/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0022",
+    "title": "立ち話",
+    "source_title": "「立ち話」 - シソンヌライブ [monochrome] 2019",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=gqU9II6CQnk",
+    "youtube_video_id": "gqU9II6CQnk",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "立ち話をテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/gqU9II6CQnk/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0023",
+    "title": "飲み会のあと",
+    "source_title": "「飲み会のあと」 - シソンヌライブ [huit]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=iffAj0f7Uk8",
+    "youtube_video_id": "iffAj0f7Uk8",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "飲み会のあとをテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/iffAj0f7Uk8/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0024",
+    "title": "同居人の",
+    "source_title": "東野幸治の大好きなシソンヌライブ - 「同居人の」",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=1zRz2LPe3HU",
+    "youtube_video_id": "1zRz2LPe3HU",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "同居人のをテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/1zRz2LPe3HU/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0025",
+    "title": "割烹SHU",
+    "source_title": "「割烹SHU」 - シソンヌライブ [sept]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=hm3ETOTINAI",
+    "youtube_video_id": "hm3ETOTINAI",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "割烹SHUをテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/hm3ETOTINAI/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0026",
+    "title": "ボクシングジムに通いたいけど",
+    "source_title": "「ボクシングジムに通いたいけど」 - シソンヌライブ [six]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=A0V8_GxjEts",
+    "youtube_video_id": "A0V8_GxjEts",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "ボクシングジムに通いたいけどをテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/A0V8_GxjEts/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0027",
+    "title": "ばばあの罠",
+    "source_title": "「ばばあの罠」 - シソンヌライブ [cinq]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=zJ_aBsfjzWw",
+    "youtube_video_id": "zJ_aBsfjzWw",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "ばばあの罠をテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/zJ_aBsfjzWw/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0028",
+    "title": "インドカレー",
+    "source_title": "「インドカレー」 - シソンヌライブ [deux]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2014,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=N6fgYfBF_ik",
+    "youtube_video_id": "N6fgYfBF_ik",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "インドカレーをテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/N6fgYfBF_ik/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0029",
+    "title": "ガソリンスタンド",
+    "source_title": "「ガソリンスタンド」 - シソンヌライブ [une]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2013,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=3fYo0IO31LI",
+    "youtube_video_id": "3fYo0IO31LI",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "ガソリンスタンドをテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/3fYo0IO31LI/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0030",
+    "title": "大学デビュー",
+    "source_title": "「大学デビュー」 - シソンヌライブ [quatre]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=QZ6OeyGGBB8",
+    "youtube_video_id": "QZ6OeyGGBB8",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "大学デビューをテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/QZ6OeyGGBB8/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0031",
+    "title": "先生の本性",
+    "source_title": "「先生の本性」 - シソンヌライブ [trois]",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2014,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=B8Kh2tWuGhw",
+    "youtube_video_id": "B8Kh2tWuGhw",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "先生の本性をテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/B8Kh2tWuGhw/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0032",
+    "title": "眼鏡屋",
+    "source_title": "「眼鏡屋」 - シソンヌライブ [une] 2013",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2013,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=o2NEJT4faKc",
+    "youtube_video_id": "o2NEJT4faKc",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "眼鏡屋をテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/o2NEJT4faKc/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0033",
+    "title": "汚し屋",
+    "source_title": "「汚し屋」 - シソンヌライブ [une] 2013",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2013,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=DwfPlPnKWJ8",
+    "youtube_video_id": "DwfPlPnKWJ8",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "汚し屋をテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/DwfPlPnKWJ8/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0034",
+    "title": "職員室",
+    "source_title": "「職員室」 - シソンヌライブ [une] 2013",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2013,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=tNNMx1W1vU4",
+    "youtube_video_id": "tNNMx1W1vU4",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "職員室をテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/tNNMx1W1vU4/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "sissonne-0035",
+    "title": "製作発表会2013",
+    "source_title": "「製作発表会2013」 - パ・ド・ドゥ ～ pas de deux ～ 2人の踊りの意",
+    "performer": "シソンヌ",
+    "performers": [
+      "シソンヌ"
+    ],
+    "genre": "コント",
+    "release_year": 2013,
+    "decade": "2010年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=wZpq3j4xbMs",
+    "youtube_video_id": "wZpq3j4xbMs",
+    "channel_name": "シソンヌライブ",
+    "channel_url": "https://www.youtube.com/@sissonnelive",
+    "source_owner": "シソンヌライブ公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "製作発表会2013をテーマにしたシソンヌのコント動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/wZpq3j4xbMs/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    }
   }
 ]
