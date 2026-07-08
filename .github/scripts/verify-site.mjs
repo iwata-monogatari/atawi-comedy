@@ -81,6 +81,7 @@ for (const video of publishedVideos) {
   }
 }
 
+const articleHtmlFiles = listHtmlFiles("articles");
 const htmlFilesToCheck = [
   "index.html",
   "about.html",
@@ -88,8 +89,7 @@ const htmlFilesToCheck = [
   "home-and-memory.html",
   "oishi-selection-viewpoint.html",
   "playlist/index.html",
-  "articles/index.html",
-  ...articleFiles
+  ...articleHtmlFiles
 ];
 
 for (const file of htmlFilesToCheck) {
@@ -115,6 +115,7 @@ const protectedPaths = [
   "/package.json",
   "/README.md",
   "/wrangler.jsonc",
+  "/.github/*",
   "/scripts/*",
   "/articles-md/*"
 ];

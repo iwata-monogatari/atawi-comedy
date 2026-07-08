@@ -13,9 +13,8 @@ Core settings:
 - Selection axes: 間 / 世界 / ワード
 - Published videos: official or official-related YouTube only
 - Current recovery floor: at least 16 published article pages
-- Production deploy command: `npm run deploy:production`
 
-Before deploying, run `npm run verify`. The check fails if `data/videos.json`,
-article HTML files, `sitemap.xml`, or footer injection fall back to an older
-short version.
+Before deploying, run `node .github/scripts/verify-site.mjs`. The same check
+runs on GitHub Actions and fails if `data/videos.json`, article HTML files,
+`sitemap.xml`, or footer injection fall back to an older short version.
 
