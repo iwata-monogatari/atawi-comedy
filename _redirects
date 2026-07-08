@@ -10,3 +10,10 @@
 /docs/* /404.html 404
 /.wrangler/* /404.html 404
 /build_site.js /404.html 404
+/package.json /404.html 404
+/package-lock.json /404.html 404
+/README.md /404.html 404
+/wrangler.jsonc /404.html 404
+/atawi-comedy-skill.md /404.html 404
+/scripts/* /404.html 404
+/articles-md/* /404.html 404

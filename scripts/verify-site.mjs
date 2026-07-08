@@ -110,6 +110,21 @@ if (!exists("wrangler.jsonc") || !readText("wrangler.jsonc").includes('"name": "
   fail("wrangler.jsonc must target the atawi-comedy Pages project");
 }
 
+const redirects = readText("_redirects");
+const protectedPaths = [
+  "/package.json",
+  "/README.md",
+  "/wrangler.jsonc",
+  "/scripts/*",
+  "/articles-md/*"
+];
+
+for (const protectedPath of protectedPaths) {
+  if (!redirects.includes(`${protectedPath} /404.html 404`)) {
+    fail(`${protectedPath} must be blocked in _redirects`);
+  }
+}
+
 if (process.exitCode) {
   process.exit();
 }
