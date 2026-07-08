@@ -12,6 +12,10 @@ Core settings:
 - Build output directory: /
 - Selection axes: 間 / 世界 / ワード
 - Published videos: official or official-related YouTube only
+- Current recovery floor: at least 16 published article pages
+- Production deploy command: `npm run deploy:production`
 
-Initial data starts with four official Sandwichman videos from the Grape Company channel.
+Before deploying, run `npm run verify`. The check fails if `data/videos.json`,
+article HTML files, `sitemap.xml`, or footer injection fall back to an older
+short version.
 

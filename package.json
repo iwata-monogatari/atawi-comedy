@@ -1,0 +1,12 @@
+{
+  "name": "atawi-comedy",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "verify": "node scripts/verify-site.mjs",
+    "deploy:production": "npm run verify && wrangler pages deploy . --project-name atawi-comedy --branch main"
+  },
+  "devDependencies": {
+    "wrangler": "latest"
+  }
+}
