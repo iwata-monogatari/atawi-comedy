@@ -4998,5 +4998,637 @@
       "word": 5,
       "selection": "word"
     }
+  },
+  {
+    "id": "tokyo-hoteison-0001",
+    "title": "回文",
+    "source_title": "【漫才】東京ホテイソン 『回文』",
+    "performer": "東京ホテイソン",
+    "performers": [
+      "東京ホテイソン"
+    ],
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo-hoteison-0001.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Brg094fwTnI",
+    "youtube_video_id": "Brg094fwTnI",
+    "channel_name": "東京ホテイソン オフィシャルチャンネル",
+    "channel_url": "https://www.youtube.com/@hoteison",
+    "source_owner": "東京ホテイソン公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "回文をテーマに、言葉のパズルと熱量あるツッコミが交錯する東京ホテイソンの代表作。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": true,
+    "thumbnail_url": "https://i.ytimg.com/vi/Brg094fwTnI/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のパズルを楽しみたい",
+      "熱量で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "ワード",
+      "構成"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "tokyo-hoteison-0002",
+    "title": "ことわざ",
+    "source_title": "【漫才】ことわざ",
+    "performer": "東京ホテイソン",
+    "performers": [
+      "東京ホテイソン"
+    ],
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=OQ8CaIiXbkE",
+    "youtube_video_id": "OQ8CaIiXbkE",
+    "channel_name": "東京ホテイソン オフィシャルチャンネル",
+    "channel_url": "https://www.youtube.com/@hoteison",
+    "source_owner": "東京ホテイソン公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "ことわざをテーマにした東京ホテイソンの漫才動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/OQ8CaIiXbkE/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "tokyo-hoteison-0003",
+    "title": "英語",
+    "source_title": "【漫才】英語",
+    "performer": "東京ホテイソン",
+    "performers": [
+      "東京ホテイソン"
+    ],
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=q0VB-n1O8V8",
+    "youtube_video_id": "q0VB-n1O8V8",
+    "channel_name": "東京ホテイソン オフィシャルチャンネル",
+    "channel_url": "https://www.youtube.com/@hoteison",
+    "source_owner": "東京ホテイソン公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "英語をテーマにした東京ホテイソンの漫才動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/q0VB-n1O8V8/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "tokyo-hoteison-0004",
+    "title": "体育祭",
+    "source_title": "【漫才】体育祭",
+    "performer": "東京ホテイソン",
+    "performers": [
+      "東京ホテイソン"
+    ],
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=SxLmF_ia3ZA",
+    "youtube_video_id": "SxLmF_ia3ZA",
+    "channel_name": "東京ホテイソン オフィシャルチャンネル",
+    "channel_url": "https://www.youtube.com/@hoteison",
+    "source_owner": "東京ホテイソン公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "体育祭をテーマにした東京ホテイソンの漫才動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/SxLmF_ia3ZA/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "tokyo-hoteison-0005",
+    "title": "入学式",
+    "source_title": "【漫才】入学式",
+    "performer": "東京ホテイソン",
+    "performers": [
+      "東京ホテイソン"
+    ],
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=-J9jQBybaFE",
+    "youtube_video_id": "-J9jQBybaFE",
+    "channel_name": "東京ホテイソン オフィシャルチャンネル",
+    "channel_url": "https://www.youtube.com/@hoteison",
+    "source_owner": "東京ホテイソン公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "入学式をテーマにした東京ホテイソンの漫才動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/-J9jQBybaFE/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "tokyo-hoteison-0006",
+    "title": "遠足",
+    "source_title": "【漫才】遠足",
+    "performer": "東京ホテイソン",
+    "performers": [
+      "東京ホテイソン"
+    ],
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=S9iQV84biwY",
+    "youtube_video_id": "S9iQV84biwY",
+    "channel_name": "東京ホテイソン オフィシャルチャンネル",
+    "channel_url": "https://www.youtube.com/@hoteison",
+    "source_owner": "東京ホテイソン公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "遠足をテーマにした東京ホテイソンの漫才動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/S9iQV84biwY/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "tokyo-hoteison-0007",
+    "title": "朝の情報番組",
+    "source_title": "【漫才】朝の情報番組",
+    "performer": "東京ホテイソン",
+    "performers": [
+      "東京ホテイソン"
+    ],
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=2IfDwcxSYkQ",
+    "youtube_video_id": "2IfDwcxSYkQ",
+    "channel_name": "東京ホテイソン オフィシャルチャンネル",
+    "channel_url": "https://www.youtube.com/@hoteison",
+    "source_owner": "東京ホテイソン公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "朝の情報番組をテーマにした東京ホテイソンの漫才動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/2IfDwcxSYkQ/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "tokyo-hoteison-0008",
+    "title": "ゾンビ映画",
+    "source_title": "【漫才】ゾンビ映画",
+    "performer": "東京ホテイソン",
+    "performers": [
+      "東京ホテイソン"
+    ],
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=VVztxfP7ys4",
+    "youtube_video_id": "VVztxfP7ys4",
+    "channel_name": "東京ホテイソン オフィシャルチャンネル",
+    "channel_url": "https://www.youtube.com/@hoteison",
+    "source_owner": "東京ホテイソン公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "ゾンビ映画をテーマにした東京ホテイソンの漫才動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/VVztxfP7ys4/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "tokyo-hoteison-0009",
+    "title": "合コン",
+    "source_title": "【漫才】合コン",
+    "performer": "東京ホテイソン",
+    "performers": [
+      "東京ホテイソン"
+    ],
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=A0sKFAK9BLg",
+    "youtube_video_id": "A0sKFAK9BLg",
+    "channel_name": "東京ホテイソン オフィシャルチャンネル",
+    "channel_url": "https://www.youtube.com/@hoteison",
+    "source_owner": "東京ホテイソン公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "合コンをテーマにした東京ホテイソンの漫才動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/A0sKFAK9BLg/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "tokyo-hoteison-0010",
+    "title": "水族館デート",
+    "source_title": "【漫才】水族館デート",
+    "performer": "東京ホテイソン",
+    "performers": [
+      "東京ホテイソン"
+    ],
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=XjzAfupKqyg",
+    "youtube_video_id": "XjzAfupKqyg",
+    "channel_name": "東京ホテイソン オフィシャルチャンネル",
+    "channel_url": "https://www.youtube.com/@hoteison",
+    "source_owner": "東京ホテイソン公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "水族館デートをテーマにした東京ホテイソンの漫才動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/XjzAfupKqyg/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "tokyo-hoteison-0011",
+    "title": "グーチョキパー",
+    "source_title": "【漫才】グーチョキパー",
+    "performer": "東京ホテイソン",
+    "performers": [
+      "東京ホテイソン"
+    ],
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=mrAeuS2livE",
+    "youtube_video_id": "mrAeuS2livE",
+    "channel_name": "東京ホテイソン オフィシャルチャンネル",
+    "channel_url": "https://www.youtube.com/@hoteison",
+    "source_owner": "東京ホテイソン公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "グーチョキパーをテーマにした東京ホテイソンの漫才動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/mrAeuS2livE/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "tokyo-hoteison-0012",
+    "title": "遊戯王",
+    "source_title": "【漫才】遊戯王",
+    "performer": "東京ホテイソン",
+    "performers": [
+      "東京ホテイソン"
+    ],
+    "genre": "漫才",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=62peBYn1wBE",
+    "youtube_video_id": "62peBYn1wBE",
+    "channel_name": "東京ホテイソン オフィシャルチャンネル",
+    "channel_url": "https://www.youtube.com/@hoteison",
+    "source_owner": "東京ホテイソン公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "遊戯王をテーマにした東京ホテイソンの漫才動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/62peBYn1wBE/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "tokyo-hoteison-0013",
+    "title": "謎解き",
+    "source_title": "【M-1GP2020ネタ】謎解き",
+    "performer": "東京ホテイソン",
+    "performers": [
+      "東京ホテイソン"
+    ],
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=V7Mf_VL_HpI",
+    "youtube_video_id": "V7Mf_VL_HpI",
+    "channel_name": "東京ホテイソン オフィシャルチャンネル",
+    "channel_url": "https://www.youtube.com/@hoteison",
+    "source_owner": "東京ホテイソン公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "謎解きをテーマにした東京ホテイソンの漫才動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/V7Mf_VL_HpI/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "tokyo-hoteison-0014",
+    "title": "サッカーの実況",
+    "source_title": "【漫才】サッカーの実況",
+    "performer": "東京ホテイソン",
+    "performers": [
+      "東京ホテイソン"
+    ],
+    "genre": "漫才",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=D55dLNUFkz4",
+    "youtube_video_id": "D55dLNUFkz4",
+    "channel_name": "東京ホテイソン オフィシャルチャンネル",
+    "channel_url": "https://www.youtube.com/@hoteison",
+    "source_owner": "東京ホテイソン公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "サッカーの実況をテーマにした東京ホテイソンの漫才動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/D55dLNUFkz4/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "tokyo-hoteison-0015",
+    "title": "デート",
+    "source_title": "【漫才】ネタギリッシュNIGHT優勝ネタ「デート」",
+    "performer": "東京ホテイソン",
+    "performers": [
+      "東京ホテイソン"
+    ],
+    "genre": "漫才",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=N2MgMhBpeow",
+    "youtube_video_id": "N2MgMhBpeow",
+    "channel_name": "東京ホテイソン オフィシャルチャンネル",
+    "channel_url": "https://www.youtube.com/@hoteison",
+    "source_owner": "東京ホテイソン公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "デートをテーマにした東京ホテイソンの漫才動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/N2MgMhBpeow/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "tokyo-hoteison-0016",
+    "title": "ツッコミ間違え",
+    "source_title": "【漫才】ツッコミ間違え（普段やれない漫才シリーズ）",
+    "performer": "東京ホテイソン",
+    "performers": [
+      "東京ホテイソン"
+    ],
+    "genre": "漫才",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=-027R44Oe34",
+    "youtube_video_id": "-027R44Oe34",
+    "channel_name": "東京ホテイソン オフィシャルチャンネル",
+    "channel_url": "https://www.youtube.com/@hoteison",
+    "source_owner": "東京ホテイソン公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "ツッコミ間違えをテーマにした東京ホテイソンの漫才動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/-027R44Oe34/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "tokyo-hoteison-0017",
+    "title": "お・も・て・な・し",
+    "source_title": "【漫才】お・も・て・な・し（普段やれない漫才シリーズ）",
+    "performer": "東京ホテイソン",
+    "performers": [
+      "東京ホテイソン"
+    ],
+    "genre": "漫才",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=xW8WCEpmmUY",
+    "youtube_video_id": "xW8WCEpmmUY",
+    "channel_name": "東京ホテイソン オフィシャルチャンネル",
+    "channel_url": "https://www.youtube.com/@hoteison",
+    "source_owner": "東京ホテイソン公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "お・も・て・な・しをテーマにした東京ホテイソンの漫才動画。",
+    "status": "draft",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/xW8WCEpmmUY/hqdefault.jpg",
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ],
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    }
   }
 ]
