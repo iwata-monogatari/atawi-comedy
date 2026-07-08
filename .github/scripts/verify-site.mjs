@@ -111,6 +111,7 @@ if (!exists("wrangler.jsonc") || !readText("wrangler.jsonc").includes('"name": "
 }
 
 const redirects = readText("_redirects");
+const middleware = readText("functions/_middleware.js");
 const protectedPaths = [
   "/package.json",
   "/README.md",
@@ -123,6 +124,20 @@ const protectedPaths = [
 for (const protectedPath of protectedPaths) {
   if (!redirects.includes(`${protectedPath} /404.html 404`)) {
     fail(`${protectedPath} must be blocked in _redirects`);
+  }
+}
+
+const middlewareNeedles = [
+  '"/package.json"',
+  '"/.github/"',
+  '"/articles-md/"',
+  'status: 404',
+  "context.next()"
+];
+
+for (const needle of middlewareNeedles) {
+  if (!middleware.includes(needle)) {
+    fail(`functions/_middleware.js is missing ${needle}`);
   }
 }
 
