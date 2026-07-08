@@ -127,5 +127,389 @@
       "世界",
       "ワード"
     ]
+  },
+  {
+    "id": "sandwichman-0005",
+    "title": "パソコン教室",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0005.html",
+    "youtube_url": "https://www.youtube.com/watch?v=5cWZhw3rYM0",
+    "created_at": "2026-07-08T10:00:00+09:00",
+    "summary": "体験入学という身近な入口から、教える側と習う側のずれを一拍ずつ育てるコント。",
+    "featured_order": 5,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "さんどうぃっちまん",
+      "ぱそこんきょうしつ"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい",
+      "会話の呼吸を味わいたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "間"
+    ]
+  },
+  {
+    "id": "sandwichman-0006",
+    "title": "エステ",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2014,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0006.html",
+    "youtube_url": "https://www.youtube.com/watch?v=-MDNIG8a3q4",
+    "created_at": "2026-07-08T10:05:00+09:00",
+    "summary": "癒やしの場に似合わない説明と言葉の飛躍で、受付の段階から笑いを広げるコント。",
+    "featured_order": 6,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "さんどうぃっちまん",
+      "えすて"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "言葉のセンスを味わいたい"
+    ]
+  },
+  {
+    "id": "sandwichman-0007",
+    "title": "警察24時",
+    "performer": "サンドウィッチマン",
+    "genre": "漫才",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0007.html",
+    "youtube_url": "https://www.youtube.com/watch?v=mdPUInNdlCc",
+    "created_at": "2026-07-08T10:10:00+09:00",
+    "summary": "密着番組の記憶を言葉でずらし、番組あるあるを軽やかに笑いへ変える漫才。",
+    "featured_order": 7,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "さんどうぃっちまん",
+      "けいさつにじゅうよじ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "ワード",
+      "言葉のセンスを味わいたい"
+    ]
+  },
+  {
+    "id": "sandwichman-0008",
+    "title": "お化け屋敷",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0008.html",
+    "youtube_url": "https://www.youtube.com/watch?v=WHKaYg_gTNk",
+    "created_at": "2026-07-08T10:15:00+09:00",
+    "summary": "怖がらせるための会議が、集客やサービスの発想と混ざっていく企画ものコント。",
+    "featured_order": 8,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さんどうぃっちまん",
+      "おばけやしき"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界観に入りたい"
+    ]
+  },
+  {
+    "id": "sandwichman-0009",
+    "title": "蜂の巣駆除",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0009.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Gpy-8na4zSQ",
+    "created_at": "2026-07-08T10:20:00+09:00",
+    "summary": "生活の困りごとと電話越しの聞き違いから、現場の緊張を笑いへ変えるコント。",
+    "featured_order": 9,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 5,
+      "selection": "ma"
+    },
+    "kana": [
+      "さんどうぃっちまん",
+      "はちのすくじょ"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい",
+      "会話の呼吸を味わいたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "間"
+    ]
+  },
+  {
+    "id": "sandwichman-0010",
+    "title": "結婚相談所",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2011,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0010.html",
+    "youtube_url": "https://www.youtube.com/watch?v=aHh-_QmGESk",
+    "created_at": "2026-07-08T10:25:00+09:00",
+    "summary": "真剣な相談の入口に販促や数字の妙な熱量が入り込み、窓口の世界が立ち上がるコント。",
+    "featured_order": 10,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さんどうぃっちまん",
+      "けっこんそうだんじょ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界観に入りたい"
+    ]
+  },
+  {
+    "id": "sandwichman-0011",
+    "title": "ラグビー",
+    "performer": "サンドウィッチマン",
+    "genre": "漫才",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0011.html",
+    "youtube_url": "https://www.youtube.com/watch?v=hFJVtAHB0Y0",
+    "created_at": "2026-07-08T10:30:00+09:00",
+    "summary": "競技説明から別ジャンルの記憶へ飛び、言葉の連想と訂正で進むスポーツ漫才。",
+    "featured_order": 11,
+    "rating": {
+      "ma": 5,
+      "world": 3,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "さんどうぃっちまん",
+      "らぐびー"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "ワード",
+      "言葉のセンスを味わいたい"
+    ]
+  },
+  {
+    "id": "sandwichman-0012",
+    "title": "深夜のラシオ",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2007,
+    "decade": "2000年代",
+    "article_url": "/articles/sandwichman-0012.html",
+    "youtube_url": "https://www.youtube.com/watch?v=m3DNFwJTTec",
+    "created_at": "2026-07-08T10:35:00+09:00",
+    "summary": "深夜ラジオの定型句と投稿文化をずらし、一方通行の声を会話のように笑わせるコント。",
+    "featured_order": 12,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "さんどうぃっちまん",
+      "しんやのらじお"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "言葉のセンスを味わいたい"
+    ]
+  },
+  {
+    "id": "sandwichman-0013",
+    "title": "レストラン",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0013.html",
+    "youtube_url": "https://www.youtube.com/watch?v=KJv_H4Tw6I8",
+    "created_at": "2026-07-08T10:40:00+09:00",
+    "summary": "特別な食事の下調べが、店側の案内と説明のずれで別の施設のように見えてくるコント。",
+    "featured_order": 13,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さんどうぃっちまん",
+      "れすとらん"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界観に入りたい"
+    ]
+  },
+  {
+    "id": "sandwichman-0014",
+    "title": "旅館",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2013,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0014.html",
+    "youtube_url": "https://www.youtube.com/watch?v=hyqzA4LRcOE",
+    "created_at": "2026-07-08T10:45:00+09:00",
+    "summary": "宿のもてなしと案内の順番が少しずつずれ、静かな旅館の空気に笑いが生まれるコント。",
+    "featured_order": 14,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "さんどうぃっちまん",
+      "りょかん"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい",
+      "会話の呼吸を味わいたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "間"
+    ]
+  },
+  {
+    "id": "sandwichman-0015",
+    "title": "保育園",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0015.html",
+    "youtube_url": "https://www.youtube.com/watch?v=fx3g93Ocz0M",
+    "created_at": "2026-07-08T10:50:00+09:00",
+    "summary": "見学に来た保護者の不安と、園側の日常の濃さがぶつかる世界観の強いコント。",
+    "featured_order": 15,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さんどうぃっちまん",
+      "ほいくえん"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界観に入りたい"
+    ]
+  },
+  {
+    "id": "sandwichman-0016",
+    "title": "シェアハウス",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/sandwichman-0016.html",
+    "youtube_url": "https://www.youtube.com/watch?v=i3K1THOkPPk",
+    "created_at": "2026-07-08T10:55:00+09:00",
+    "summary": "共同生活へ入る緊張と、迎える側の生活リズムがじわじわ見えてくる長尺コント。",
+    "featured_order": 16,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さんどうぃっちまん",
+      "しぇあはうす"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "世界観に入りたい"
+    ]
   }
 ]

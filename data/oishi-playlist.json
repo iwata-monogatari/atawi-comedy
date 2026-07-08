@@ -1,5 +1,94 @@
 [
   {
+    "date": "2026-07-08",
+    "items": [
+      {
+        "video_id": "sandwichman-0005",
+        "title": "パソコン教室",
+        "performer": "サンドウィッチマン",
+        "youtube_url": "https://www.youtube.com/watch?v=5cWZhw3rYM0",
+        "article_url": "/articles/sandwichman-0005.html"
+      },
+      {
+        "video_id": "sandwichman-0006",
+        "title": "エステ",
+        "performer": "サンドウィッチマン",
+        "youtube_url": "https://www.youtube.com/watch?v=-MDNIG8a3q4",
+        "article_url": "/articles/sandwichman-0006.html"
+      },
+      {
+        "video_id": "sandwichman-0007",
+        "title": "警察24時",
+        "performer": "サンドウィッチマン",
+        "youtube_url": "https://www.youtube.com/watch?v=mdPUInNdlCc",
+        "article_url": "/articles/sandwichman-0007.html"
+      },
+      {
+        "video_id": "sandwichman-0008",
+        "title": "お化け屋敷",
+        "performer": "サンドウィッチマン",
+        "youtube_url": "https://www.youtube.com/watch?v=WHKaYg_gTNk",
+        "article_url": "/articles/sandwichman-0008.html"
+      },
+      {
+        "video_id": "sandwichman-0009",
+        "title": "蜂の巣駆除",
+        "performer": "サンドウィッチマン",
+        "youtube_url": "https://www.youtube.com/watch?v=Gpy-8na4zSQ",
+        "article_url": "/articles/sandwichman-0009.html"
+      },
+      {
+        "video_id": "sandwichman-0010",
+        "title": "結婚相談所",
+        "performer": "サンドウィッチマン",
+        "youtube_url": "https://www.youtube.com/watch?v=aHh-_QmGESk",
+        "article_url": "/articles/sandwichman-0010.html"
+      },
+      {
+        "video_id": "sandwichman-0011",
+        "title": "ラグビー",
+        "performer": "サンドウィッチマン",
+        "youtube_url": "https://www.youtube.com/watch?v=hFJVtAHB0Y0",
+        "article_url": "/articles/sandwichman-0011.html"
+      },
+      {
+        "video_id": "sandwichman-0012",
+        "title": "深夜のラシオ",
+        "performer": "サンドウィッチマン",
+        "youtube_url": "https://www.youtube.com/watch?v=m3DNFwJTTec",
+        "article_url": "/articles/sandwichman-0012.html"
+      },
+      {
+        "video_id": "sandwichman-0013",
+        "title": "レストラン",
+        "performer": "サンドウィッチマン",
+        "youtube_url": "https://www.youtube.com/watch?v=KJv_H4Tw6I8",
+        "article_url": "/articles/sandwichman-0013.html"
+      },
+      {
+        "video_id": "sandwichman-0014",
+        "title": "旅館",
+        "performer": "サンドウィッチマン",
+        "youtube_url": "https://www.youtube.com/watch?v=hyqzA4LRcOE",
+        "article_url": "/articles/sandwichman-0014.html"
+      },
+      {
+        "video_id": "sandwichman-0015",
+        "title": "保育園",
+        "performer": "サンドウィッチマン",
+        "youtube_url": "https://www.youtube.com/watch?v=fx3g93Ocz0M",
+        "article_url": "/articles/sandwichman-0015.html"
+      },
+      {
+        "video_id": "sandwichman-0016",
+        "title": "シェアハウス",
+        "performer": "サンドウィッチマン",
+        "youtube_url": "https://www.youtube.com/watch?v=i3K1THOkPPk",
+        "article_url": "/articles/sandwichman-0016.html"
+      }
+    ]
+  },
+  {
     "date": "2026-07-07",
     "items": [
       {
