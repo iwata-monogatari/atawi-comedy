@@ -1,0 +1,22 @@
+{
+  "name": "ATAWI COMEDY",
+  "short_name": "ATAWI COMEDY",
+  "description": "笑いと記憶をたどるお笑い帖",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF7E8",
+  "theme_color": "#182033",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/ogp-atawi-comedy.png",
+      "sizes": "1200x630",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="ja">
 <head>
   <meta charset="utf-8">
@@ -12,8 +12,8 @@
   <meta property="og:description" content="公開済みのお笑いネタ記事を一覧で探せます。">
   <meta property="og:url" content="https://atawicomedy.link/articles/">
   <meta property="og:image" content="https://i.ytimg.com/vi/qpIb1NKU1c8/hqdefault.jpg">
-  <link rel="stylesheet" href="/assets/css/style.css?v=20260709">
-  <script src="/assets/js/main.js?v=20260708b" defer></script>
+  <link rel="stylesheet" href="/assets/css/style.css?v=20260708g">
+  <script src="/assets/js/main.js?v=20260708f" defer></script>
 </head>
 <body>
   <header class="site-header">
@@ -51,6 +51,7 @@
         <select data-filter-decade aria-label="年代で絞り込む"></select>
         <select data-filter-theme aria-label="ジャンル・テーマで絞り込む"></select>
         <select data-sort aria-label="並び替え">
+          <option value="random" selected>ランダム</option>
           <option value="featured">おすすめ順</option>
           <option value="created-desc">新着順</option>
           <option value="year-desc">公開年が新しい順</option>
@@ -62,11 +63,11 @@
       </div>
       <div class="video-grid" data-video-list data-initial-count="10" data-page-size="20"></div>
       <div class="more-row">
-        <button class="button secondary" type="button" data-load-more hidden>さらに表示</button>
+        <nav class="pagination" data-pagination aria-label="記事ページ"></nav>
       </div>
     </section>
   </main>
   <div data-site-footer></div>
-  <script src="/assets/js/footer.js?v=20260708"></script>
+  <script src="/assets/js/footer.js?v=20260708f"></script>
 </body>
 </html>

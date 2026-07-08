@@ -1,5 +1,6 @@
 const DEFAULT_INITIAL_COUNT = 10;
 const DEFAULT_PAGE_SIZE = 20;
+const DEFAULT_SORT = "random";
 
 const selectionLabels = {
   ma: "間",
@@ -15,11 +16,12 @@ const cardLabels = {
 
 let allVideos = [];
 let filteredVideos = [];
+let randomOrder = new Map();
 let listSettings = {
   initialCount: DEFAULT_INITIAL_COUNT,
   pageSize: DEFAULT_PAGE_SIZE
 };
-let visibleCount = DEFAULT_INITIAL_COUNT;
+let currentPage = 1;
 
 function qs(selector, parent = document) {
   return parent.querySelector(selector);
@@ -42,9 +44,38 @@ function getListSettings() {
   };
 }
 
-function resetVisibleCount() {
-  listSettings = getListSettings();
-  visibleCount = listSettings.initialCount;
+function getPageFromUrl() {
+  return parsePositiveInt(new URLSearchParams(window.location.search).get("page"), 1);
+}
+
+function setPage(page, updateUrl = false) {
+  currentPage = Math.max(1, page);
+  if (updateUrl) {
+    const url = new URL(window.location.href);
+    if (currentPage === 1) {
+      url.searchParams.delete("page");
+    } else {
+      url.searchParams.set("page", String(currentPage));
+    }
+    window.history.pushState({}, "", url);
+  }
+}
+
+function resetToFirstPage() {
+  setPage(1, true);
+}
+
+function getVideoKey(video) {
+  return video.id || video.article_url || video.youtube_url || `${video.performer}-${video.title}`;
+}
+
+function setupRandomOrder(videos) {
+  const shuffled = videos.map((video) => getVideoKey(video));
+  for (let index = shuffled.length - 1; index > 0; index -= 1) {
+    const swapIndex = Math.floor(Math.random() * (index + 1));
+    [shuffled[index], shuffled[swapIndex]] = [shuffled[swapIndex], shuffled[index]];
+  }
+  randomOrder = new Map(shuffled.map((key, index) => [key, index]));
 }
 
 function escapeHtml(value) {
@@ -96,7 +127,7 @@ function setupFilters(videos) {
 
   qsa("[data-video-controls] input, [data-video-controls] select").forEach((control) => {
     control.addEventListener("input", () => {
-      resetVisibleCount();
+      resetToFirstPage();
       renderList();
     });
   });
@@ -105,9 +136,9 @@ function setupFilters(videos) {
   if (reset) {
     reset.addEventListener("click", () => {
       qsa("[data-video-controls] input, [data-video-controls] select").forEach((control) => {
-        control.value = "";
+        control.value = control.matches("[data-sort]") ? DEFAULT_SORT : "";
       });
-      resetVisibleCount();
+      resetToFirstPage();
       renderList();
     });
   }
@@ -118,7 +149,7 @@ function getFilteredVideos() {
   const performer = qs("[data-filter-performer]")?.value || "";
   const decade = qs("[data-filter-decade]")?.value || "";
   const theme = qs("[data-filter-theme]")?.value || "";
-  const sort = qs("[data-sort]")?.value || "featured";
+  const sort = qs("[data-sort]")?.value || DEFAULT_SORT;
 
   const result = allVideos.filter((video) => {
     if (!isPublicVideo(video)) return false;
@@ -139,6 +170,11 @@ function getFilteredVideos() {
   });
 
   result.sort((a, b) => {
+    if (sort === "random") {
+      const aOrder = randomOrder.get(getVideoKey(a)) ?? Number.MAX_SAFE_INTEGER;
+      const bOrder = randomOrder.get(getVideoKey(b)) ?? Number.MAX_SAFE_INTEGER;
+      return aOrder - bOrder;
+    }
     if (sort === "year-desc") return (b.release_year || 0) - (a.release_year || 0);
     if (sort === "year-asc") return (a.release_year || 0) - (b.release_year || 0);
     if (sort === "performer") return a.performer.localeCompare(b.performer, "ja");
@@ -153,9 +189,10 @@ function getFilteredVideos() {
 function renderCard(video) {
   const selection = getSelection(video);
   const selectionLabel = selectionLabels[selection] || "間";
-  const tags = [video.genre, ...(video.mood_tags || []).slice(0, 2)].filter(Boolean);
+  const tags = [selectionLabel, video.genre, ...(video.mood_tags || []).slice(0, 2)].filter(Boolean);
+  const officialText = video.official_status === "verified" ? "公式YouTube確認済み" : "公式リンク確認中";
   return `
-    <article class="video-card">
+    <article class="video-card" data-selection="${escapeHtml(selection)}">
       <a class="thumb-link" href="${escapeHtml(video.article_url)}" aria-label="${escapeHtml(video.performer)} ${escapeHtml(video.title)}の記事を読む">
         <img src="${escapeHtml(video.thumbnail_url)}" alt="${escapeHtml(video.performer)} ${escapeHtml(video.title)}" loading="lazy">
       </a>
@@ -163,6 +200,7 @@ function renderCard(video) {
         <p class="eyebrow">${escapeHtml(video.performer)} / ${escapeHtml(video.genre)} / ${escapeHtml(video.release_year)}年</p>
         <h3><a href="${escapeHtml(video.article_url)}">${escapeHtml(video.title)}</a></h3>
         <p class="summary">${escapeHtml(video.summary)}</p>
+        <div class="source-badge">${escapeHtml(officialText)}</div>
         <div class="selection-pill">大石セレクション：${escapeHtml(selectionLabel)}</div>
         <dl class="rating-grid" aria-label="大石セレクション評価">
           <div><dt>間</dt><dd>${stars(video.rating?.ma)}</dd></div>
@@ -170,10 +208,10 @@ function renderCard(video) {
           <div><dt>ワード</dt><dd>${stars(video.rating?.word)}</dd></div>
         </dl>
         <p class="card-label">${escapeHtml(cardLabels[selection] || "大石が出会った一本")}</p>
-        <div class="tag-row">${tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}</div>
+        <div class="tag-row">${tags.map((tag) => `<span>#${escapeHtml(tag)}</span>`).join("")}</div>
         <div class="card-actions">
-          <a class="button primary" href="${escapeHtml(video.article_url)}">記事を読む</a>
-          <a class="button secondary" href="${escapeHtml(video.youtube_url)}" target="_blank" rel="noopener">公式YouTube</a>
+          <a class="button primary" href="${escapeHtml(video.article_url)}">読む</a>
+          <a class="button secondary" href="${escapeHtml(video.youtube_url)}" target="_blank" rel="noopener">YouTubeで見る</a>
         </div>
       </div>
     </article>
@@ -184,24 +222,108 @@ function renderList() {
   const list = qs("[data-video-list]");
   if (!list) return;
 
+  listSettings = getListSettings();
   filteredVideos = getFilteredVideos();
-  const visibleVideos = filteredVideos.slice(0, visibleCount);
-  list.innerHTML = visibleVideos.map(renderCard).join("");
+  const totalPages = getTotalPages(filteredVideos.length);
+  if (currentPage > totalPages) {
+    setPage(totalPages, true);
+  }
+  const { start, end } = getPageBounds(currentPage, filteredVideos.length);
+  const visibleVideos = filteredVideos.slice(start, end);
+  if (visibleVideos.length) {
+    list.innerHTML = visibleVideos.map(renderCard).join("");
+  } else {
+    list.innerHTML = `
+      <div class="empty-state">
+        <strong>ただいま、今日出会ってほしい一本を準備しています。</strong>
+        <p>条件を変えるか、少し時間を置いて再読み込みしてください。</p>
+      </div>
+    `;
+  }
 
   const count = qs("[data-video-count]");
   if (count) {
-    count.textContent = `${filteredVideos.length}件`;
+    count.textContent = formatCount(filteredVideos.length, start, end);
   }
 
-  const loadMore = qs("[data-load-more]");
-  if (loadMore) {
-    loadMore.hidden = visibleCount >= filteredVideos.length;
-    loadMore.textContent = `さらに${listSettings.pageSize}件表示`;
-    loadMore.onclick = () => {
-      visibleCount += listSettings.pageSize;
-      renderList();
+  renderPagination(filteredVideos.length);
+}
+
+function getTotalPages(total) {
+  if (total <= listSettings.initialCount) return 1;
+  return 1 + Math.ceil((total - listSettings.initialCount) / listSettings.pageSize);
+}
+
+function getPageBounds(page, total) {
+  if (page <= 1) {
+    return {
+      start: 0,
+      end: Math.min(listSettings.initialCount, total)
     };
   }
+  const start = listSettings.initialCount + (page - 2) * listSettings.pageSize;
+  return {
+    start,
+    end: Math.min(start + listSettings.pageSize, total)
+  };
+}
+
+function formatCount(total, start, end) {
+  if (!total) return "0件";
+  return `${total}件中${start + 1}〜${end}件を表示`;
+}
+
+function getPageHref(page) {
+  const url = new URL(window.location.href);
+  if (page <= 1) {
+    url.searchParams.delete("page");
+  } else {
+    url.searchParams.set("page", String(page));
+  }
+  url.searchParams.delete("random");
+  return `${url.pathname}${url.search}${url.hash}`;
+}
+
+function renderPagination(total) {
+  const pagination = qs("[data-pagination]");
+  if (!pagination) return;
+
+  const totalPages = getTotalPages(total);
+  if (totalPages <= 1) {
+    pagination.innerHTML = "";
+    pagination.hidden = true;
+    return;
+  }
+
+  pagination.hidden = false;
+  const previousPage = Math.max(1, currentPage - 1);
+  const nextPage = Math.min(totalPages, currentPage + 1);
+  const pageLinks = Array.from({ length: totalPages }, (_, index) => {
+    const page = index + 1;
+    const bounds = getPageBounds(page, total);
+    const label = `${bounds.start + 1}-${bounds.end}`;
+    return `<a class="pagination-link${page === currentPage ? " is-active" : ""}" href="${escapeHtml(getPageHref(page))}" data-page="${page}"${page === currentPage ? ' aria-current="page"' : ""}>${escapeHtml(label)}</a>`;
+  }).join("");
+
+  pagination.innerHTML = `
+    <a class="pagination-link" href="${escapeHtml(getPageHref(previousPage))}" data-page="${previousPage}" ${currentPage === 1 ? 'aria-disabled="true"' : ""}>前へ</a>
+    <div class="pagination-pages">${pageLinks}</div>
+    <a class="pagination-link" href="${escapeHtml(getPageHref(nextPage))}" data-page="${nextPage}" ${currentPage === totalPages ? 'aria-disabled="true"' : ""}>次へ</a>
+  `;
+
+  qsa("[data-page]", pagination).forEach((link) => {
+    link.addEventListener("click", (event) => {
+      const page = parsePositiveInt(link.dataset.page, 1);
+      if (page === currentPage) {
+        event.preventDefault();
+        return;
+      }
+      event.preventDefault();
+      setPage(page, true);
+      renderList();
+      qs("#video-list-title, #article-list-title")?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+  });
 }
 
 function handleRandom(videos) {
@@ -220,13 +342,19 @@ async function initVideoList() {
 
   try {
     allVideos = await loadJson("/data/videos.json");
+    setupRandomOrder(allVideos.filter(isPublicVideo));
     handleRandom(allVideos);
-    resetVisibleCount();
+    setPage(getPageFromUrl());
     setupFilters(allVideos);
     renderList();
   } catch (error) {
     if (list) {
-      list.innerHTML = `<p class="notice">ネタデータを読み込めませんでした。</p>`;
+      list.innerHTML = `
+        <div class="empty-state">
+          <strong>ネタデータをうまく読み込めませんでした。</strong>
+          <p>少し時間を置いて再読み込みしてください。公式YouTubeへの敬意を保ったまま、表示を整え直します。</p>
+        </div>
+      `;
     }
     console.error(error);
   }
@@ -268,4 +396,9 @@ async function initPlaylist() {
 document.addEventListener("DOMContentLoaded", () => {
   initVideoList();
   initPlaylist();
+});
+
+window.addEventListener("popstate", () => {
+  setPage(getPageFromUrl());
+  renderList();
 });
