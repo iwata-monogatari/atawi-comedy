@@ -1,5 +1,5 @@
 const DEFAULT_INITIAL_COUNT = 10;
-const DEFAULT_PAGE_SIZE = 20;
+const DEFAULT_PAGE_SIZE = 10;
 const DEFAULT_SORT = "random";
 
 const selectionLabels = {
@@ -90,6 +90,16 @@ function escapeHtml(value) {
 function stars(value) {
   const score = Math.max(0, Math.min(5, Number(value || 0)));
   return "★".repeat(score) + "☆".repeat(5 - score);
+}
+
+function formatDate(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "日付未設定";
+  return new Intl.DateTimeFormat("ja-JP", {
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  }).format(date);
 }
 
 function getSelection(video) {
@@ -191,15 +201,21 @@ function renderCard(video) {
   const selectionLabel = selectionLabels[selection] || "間";
   const tags = [selectionLabel, video.genre, ...(video.mood_tags || []).slice(0, 2)].filter(Boolean);
   const officialText = video.official_status === "verified" ? "公式YouTube確認済み" : "公式リンク確認中";
+  const postedDate = formatDate(video.created_at);
+  const releaseText = video.release_year ? `${video.release_year}年公開` : "公開年未設定";
   return `
     <article class="video-card" data-selection="${escapeHtml(selection)}">
       <a class="thumb-link" href="${escapeHtml(video.article_url)}" aria-label="${escapeHtml(video.performer)} ${escapeHtml(video.title)}の記事を読む">
         <img src="${escapeHtml(video.thumbnail_url)}" alt="${escapeHtml(video.performer)} ${escapeHtml(video.title)}" loading="lazy">
       </a>
       <div class="video-card-body">
-        <p class="eyebrow">${escapeHtml(video.performer)} / ${escapeHtml(video.genre)} / ${escapeHtml(video.release_year)}年</p>
+        <p class="eyebrow">${escapeHtml(video.performer)} / ${escapeHtml(video.genre)}</p>
         <h3><a href="${escapeHtml(video.article_url)}">${escapeHtml(video.title)}</a></h3>
         <p class="summary">${escapeHtml(video.summary)}</p>
+        <div class="video-meta">
+          <span>投稿日 ${escapeHtml(postedDate)}</span>
+          <span>${escapeHtml(releaseText)}</span>
+        </div>
         <div class="source-badge">${escapeHtml(officialText)}</div>
         <div class="selection-pill">大石セレクション：${escapeHtml(selectionLabel)}</div>
         <dl class="rating-grid" aria-label="大石セレクション評価">
