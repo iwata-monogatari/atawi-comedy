@@ -9932,5 +9932,1763 @@
       "漫才",
       "間"
     ]
+  },
+  {
+    "id": "parpar-0001",
+    "title": "告白",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2024,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0001.html",
+    "youtube_url": "https://www.youtube.com/watch?v=iMdO6H1xpo0",
+    "created_at": "2026-07-11T09:01:00+09:00",
+    "summary": "告白という場面で徐々にずれていく言葉選びを、ワードを軸にして丁寧に読み解く一本です。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ぱーぱー",
+      "こくはく"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "世界観に入りたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "恋愛"
+    ]
+  },
+  {
+    "id": "parpar-0002",
+    "title": "別れ話",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0002.html",
+    "youtube_url": "https://www.youtube.com/watch?v=98fq1Mv3kLw",
+    "created_at": "2026-07-11T09:02:00+09:00",
+    "summary": "別れ話という重い言葉の前後に流れる沈黙を、間を軸にしてじっくり読み解く一本です。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 3,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ぱーぱー",
+      "わかればなし"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "恋愛"
+    ]
+  },
+  {
+    "id": "parpar-0003",
+    "title": "碇シンジ",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0003.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Z0kDoFVnk4k",
+    "created_at": "2026-07-11T09:03:00+09:00",
+    "summary": "有名な名前がふと会話に紛れ込む面白さを、ワードを軸にしてじっくり読み解く一本です。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ぱーぱー",
+      "いかりしんじ"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい",
+      "世界観に入りたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0004",
+    "title": "友達のお店",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0004.html",
+    "youtube_url": "https://www.youtube.com/watch?v=hUSn6pRuk4k",
+    "created_at": "2026-07-11T09:04:00+09:00",
+    "summary": "友達のお店に足を運んだときの独特の気まずさと温かさを、世界を軸にして読み解く一本です。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 3,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "ともだちのおみせ"
+    ],
+    "mood_tags": [
+      "人間味で笑いたい",
+      "家族で見やすい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "職場"
+    ]
+  },
+  {
+    "id": "parpar-0005",
+    "title": "プレゼント",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2024,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0005.html",
+    "youtube_url": "https://www.youtube.com/watch?v=cZpmil63r6s",
+    "created_at": "2026-07-11T09:05:00+09:00",
+    "summary": "プレゼントを渡す前後に流れる独特の間合いを、間を軸にしてじっくり読み解く一本です。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ぱーぱー",
+      "ぷれぜんと"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "家族で見やすい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0006",
+    "title": "高校野球",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0006.html",
+    "youtube_url": "https://www.youtube.com/watch?v=kG2iVeGoeZA",
+    "created_at": "2026-07-11T09:06:00+09:00",
+    "summary": "本気で打ち込む部活動特有の空気と、そこに乗り込む人物の熱量のギャップを丁寧に描くコントです。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "こうこうやきゅう"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい",
+      "家族で見やすい"
+    ],
+    "theme_tags": [
+      "学校",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0007",
+    "title": "同級生",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0007.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ZcxHG47z91g",
+    "created_at": "2026-07-11T09:07:00+09:00",
+    "summary": "久しぶりに再会した同級生同士の、間合いと呼び方に滲む時間の経過を丁寧に描くコントです。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 3,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ぱーぱー",
+      "どうきゅうせい"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "学校",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0008",
+    "title": "痴漢したでしょ",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0008.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ks4URCIgu5U",
+    "created_at": "2026-07-11T09:08:00+09:00",
+    "summary": "強い言葉から始まる誤解が、会話の中で少しずつ解けていく過程を丁寧に描くコントです。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 3,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ぱーぱー",
+      "ちかんしたでしょ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "じわじわ来る笑いがほしい"
+    ],
+    "theme_tags": [
+      "日常",
+      "ワード"
+    ]
+  },
+  {
+    "id": "parpar-0009",
+    "title": "ヒッチハイク",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0009.html",
+    "youtube_url": "https://www.youtube.com/watch?v=8RGmEQu10iU",
+    "created_at": "2026-07-11T09:09:00+09:00",
+    "summary": "見知らぬ二人が車内という密室で少しずつ距離を詰めていく過程を丁寧に描くコントです。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 3,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "ひっちはいく"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "日常",
+      "世界"
+    ]
+  },
+  {
+    "id": "parpar-0010",
+    "title": "おてんばナース",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0010.html",
+    "youtube_url": "https://www.youtube.com/watch?v=GqV_bGZx4mU",
+    "created_at": "2026-07-11T09:10:00+09:00",
+    "summary": "几帳面さが求められる医療現場に自由な人柄が入り込む温度差を丁寧に描くコントです。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "ぱーぱー",
+      "おてんばなーす"
+    ],
+    "mood_tags": [
+      "家族で見やすい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "職場",
+      "間"
+    ]
+  },
+  {
+    "id": "parpar-0011",
+    "title": "チャイナドレス",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0011.html",
+    "youtube_url": "https://www.youtube.com/watch?v=RwlIy6DreQ0",
+    "created_at": "2026-07-11T09:11:00+09:00",
+    "summary": "衣装ひとつで変わる空気を入口に、二人の掛け合いで世界がじわじわ立ち上がるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "ちゃいなどれす"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "じわじわ来る笑いがほしい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "恋愛"
+    ]
+  },
+  {
+    "id": "parpar-0012",
+    "title": "修学旅行",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0012.html",
+    "youtube_url": "https://www.youtube.com/watch?v=2tMXjnd0_Xk",
+    "created_at": "2026-07-11T09:12:00+09:00",
+    "summary": "誰もが知る集団行動の記憶を入口に、小さなずれで世界がじわじわ立ち上がるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 3,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "しゅうがくりょこう"
+    ],
+    "mood_tags": [
+      "家族で見やすい",
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "学校",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0013",
+    "title": "バレンタインデー",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0013.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Qtu-ai5hJIY",
+    "created_at": "2026-07-11T09:13:00+09:00",
+    "summary": "言葉を選ぶ緊張を入口に、二人の言い回しでワードがじわじわ立ち上がるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ぱーぱー",
+      "ばれんたいんでー"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "恋愛",
+      "ワード"
+    ]
+  },
+  {
+    "id": "parpar-0014",
+    "title": "訪問販売",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0014.html",
+    "youtube_url": "https://www.youtube.com/watch?v=39R0qiM101I",
+    "created_at": "2026-07-11T09:14:00+09:00",
+    "summary": "玄関先の押し引きを入口に、言葉の応酬でワードがじわじわ立ち上がるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 3,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ぱーぱー",
+      "ほうもんはんばい"
+    ],
+    "mood_tags": [
+      "仕事帰りに見たい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "職場",
+      "ワード"
+    ]
+  },
+  {
+    "id": "parpar-0015",
+    "title": "やり直そう",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0015.html",
+    "youtube_url": "https://www.youtube.com/watch?v=9jFqQckGDEQ",
+    "created_at": "2026-07-11T09:15:00+09:00",
+    "summary": "言い出すまでの沈黙を入口に、二人の間で関係の修復がじわじわ立ち上がるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "ぱーぱー",
+      "やりなおそう"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "恋愛",
+      "間"
+    ]
+  },
+  {
+    "id": "parpar-0016",
+    "title": "私と付き合う資格",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0016.html",
+    "youtube_url": "https://www.youtube.com/watch?v=dn1FsQ9NSpM",
+    "created_at": "2026-07-11T09:16:00+09:00",
+    "summary": "交際の条件を突きつける言葉の強さと受け止め方を、ワードの視点で読み解く一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ぱーぱー",
+      "わたしとつきあうしかく"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "世界観に入りたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "恋愛",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0017",
+    "title": "お金貸して",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0017.html",
+    "youtube_url": "https://www.youtube.com/watch?v=MRvp7AGo1-s",
+    "created_at": "2026-07-11T09:17:00+09:00",
+    "summary": "切り出しにくい頼みごとの前後にある沈黙と間を丁寧に見せるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ぱーぱー",
+      "おかねかして"
+    ],
+    "mood_tags": [
+      "仕事帰りに見たい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0018",
+    "title": "告白（夜公演）",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0018.html",
+    "youtube_url": "https://www.youtube.com/watch?v=owmVuEtg5C0",
+    "created_at": "2026-07-11T09:18:00+09:00",
+    "summary": "気持ちが言葉になるまでの緊張と関係の積み重ねを、世界観で味わう夜公演版。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "こくはく"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "恋愛"
+    ]
+  },
+  {
+    "id": "parpar-0019",
+    "title": "厳しい彼女",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0019.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Cx7WvFW_2To",
+    "created_at": "2026-07-11T09:19:00+09:00",
+    "summary": "厳しい指摘の裏にある事情を、言葉の間から見つめ直せるカップルのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 3,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ぱーぱー",
+      "きびしいかのじょ"
+    ],
+    "mood_tags": [
+      "人間味で笑いたい",
+      "家族で見やすい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "恋愛",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0020",
+    "title": "新入社員",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0020.html",
+    "youtube_url": "https://www.youtube.com/watch?v=squ_NKpcO34",
+    "created_at": "2026-07-11T09:20:00+09:00",
+    "summary": "指導する側とされる側、職場の言葉のずれをワードで丁寧に読み解く一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ぱーぱー",
+      "しんにゅうしゃいん"
+    ],
+    "mood_tags": [
+      "仕事帰りに見たい",
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "職場",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0021",
+    "title": "早く空港行きな",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0021.html",
+    "youtube_url": "https://www.youtube.com/watch?v=g8HZejBoNqU",
+    "created_at": "2026-07-11T09:21:00+09:00",
+    "summary": "空港へ向かうよう急かす声と、それでも動けない側との温度差から、間の取り方を丁寧に読み解く一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ぱーぱー",
+      "はやくくうこういきな"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0022",
+    "title": "初デート",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0022.html",
+    "youtube_url": "https://www.youtube.com/watch?v=tHQHxC_bDyA",
+    "created_at": "2026-07-11T09:22:00+09:00",
+    "summary": "初めて会う相手を前にした緊張の空気を、世界の軸から時間をかけて丁寧に読み解いていく一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "はつでーと"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "じわじわ来る笑いがほしい"
+    ],
+    "theme_tags": [
+      "コント",
+      "恋愛",
+      "世界"
+    ]
+  },
+  {
+    "id": "parpar-0023",
+    "title": "告白",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0023.html",
+    "youtube_url": "https://www.youtube.com/watch?v=kBdJc7ENMnI",
+    "created_at": "2026-07-11T09:23:00+09:00",
+    "summary": "気持ちを言葉にするまでの迷いと沈黙の重さを、ワードの視点から丁寧に読み解いていく一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ぱーぱー",
+      "こくはく"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "恋愛",
+      "ワード"
+    ]
+  },
+  {
+    "id": "parpar-0024",
+    "title": "店長とバイト",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0024.html",
+    "youtube_url": "https://www.youtube.com/watch?v=peML7F19mJU",
+    "created_at": "2026-07-11T09:24:00+09:00",
+    "summary": "職場という限られた空間で生まれる立場の違いと距離感を、世界の軸から読み解いていく一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "てんちょうとばいと"
+    ],
+    "mood_tags": [
+      "仕事帰りに見たい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "職場",
+      "世界"
+    ]
+  },
+  {
+    "id": "parpar-0025",
+    "title": "引っ越しの挨拶",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0025.html",
+    "youtube_url": "https://www.youtube.com/watch?v=WB56M9HwCTI",
+    "created_at": "2026-07-11T09:25:00+09:00",
+    "summary": "初対面同士が礼儀を探り合う玄関先のやり取りを、間の軸から時間をかけて丁寧に読み解く一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ぱーぱー",
+      "ひっこしのあいさつ"
+    ],
+    "mood_tags": [
+      "家族で見やすい",
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "日常",
+      "間"
+    ]
+  },
+  {
+    "id": "parpar-0026",
+    "title": "未来からの使者",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0026.html",
+    "youtube_url": "https://www.youtube.com/watch?v=rFBOgPFX5vw",
+    "created_at": "2026-07-11T09:26:00+09:00",
+    "summary": "未来から来たと名乗る一言が、日常会話の空気を静かに変えていく様子を描いたコントです。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "みらいからのししゃ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "じわじわ来る笑いがほしい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0027",
+    "title": "秘密を言い合う",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0027.html",
+    "youtube_url": "https://www.youtube.com/watch?v=lAN9GhZddSU",
+    "created_at": "2026-07-11T09:27:00+09:00",
+    "summary": "秘密を打ち明け合う二人の呼吸と間の取り方を丁寧に読み解くコントです。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 3,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ぱーぱー",
+      "ひみつをいいあう"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0028",
+    "title": "沖縄旅行",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0028.html",
+    "youtube_url": "https://www.youtube.com/watch?v=EsQJgRDpq9s",
+    "created_at": "2026-07-11T09:28:00+09:00",
+    "summary": "旅先という非日常で浮かび上がる二人の温度差を世界観から楽しむコントです。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "おきなわりょこう"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0029",
+    "title": "ベランダ",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0029.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ucuUuVvju7Y",
+    "created_at": "2026-07-11T09:29:00+09:00",
+    "summary": "部屋の内と外の境目にあるベランダで生まれる静かな間を味わうコントです。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "ぱーぱー",
+      "べらんだ"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0030",
+    "title": "プロポーズ",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0030.html",
+    "youtube_url": "https://www.youtube.com/watch?v=uAJrMLiK960",
+    "created_at": "2026-07-11T09:30:00+09:00",
+    "summary": "大事な言葉を選ぶ緊張と不器用さを、ワードの視点から読み解くコントです。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ぱーぱー",
+      "ぷろぽーず"
+    ],
+    "mood_tags": [
+      "人間味で笑いたい",
+      "家族で見やすい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "恋愛"
+    ]
+  },
+  {
+    "id": "parpar-0031",
+    "title": "患者と医者",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0031.html",
+    "youtube_url": "https://www.youtube.com/watch?v=OnQ5D8ezQ3w",
+    "created_at": "2026-07-11T09:31:00+09:00",
+    "summary": "診察室という誰もが知る場所で、間の取り方が二人の関係を静かに動かしていくコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "ぱーぱー",
+      "かんじゃといしゃ"
+    ],
+    "mood_tags": [
+      "仕事帰りに見たい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "職場",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0032",
+    "title": "女子のリコーダー（オーディション時代）",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0032.html",
+    "youtube_url": "https://www.youtube.com/watch?v=3rUIFyKqSzc",
+    "created_at": "2026-07-11T09:32:00+09:00",
+    "summary": "学校の記憶を土台に、オーディション時代の記録映像として公開された懐かしい一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "じょしのりこーだー"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "家族で見やすい"
+    ],
+    "theme_tags": [
+      "コント",
+      "学校",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0033",
+    "title": "バイトと店長",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0033.html",
+    "youtube_url": "https://www.youtube.com/watch?v=yuQlM2GPKZM",
+    "created_at": "2026-07-11T09:33:00+09:00",
+    "summary": "上下関係と近さが同居する職場の距離感を、呼び方や言葉選びで読み解くコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 3,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ぱーぱー",
+      "ばいととてんちょう"
+    ],
+    "mood_tags": [
+      "仕事帰りに見たい",
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "職場",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0034",
+    "title": "スポーツ用品店",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0034.html",
+    "youtube_url": "https://www.youtube.com/watch?v=0W0KiHqf9A4",
+    "created_at": "2026-07-11T09:34:00+09:00",
+    "summary": "誰もが一度は訪れた店の空気を、丁寧な世界観のディテールですくい上げる一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 3,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "すぽーつようひんてん"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "職場",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0035",
+    "title": "やり直そう（MGC Ver.）",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0035.html",
+    "youtube_url": "https://www.youtube.com/watch?v=hTpsgmFEqY0",
+    "created_at": "2026-07-11T09:35:00+09:00",
+    "summary": "短い一言が持つ重さと軽さを、MGC Ver.という別収録の温度差で味わうコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ぱーぱー",
+      "やりなおそう"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0036",
+    "title": "美術の先生",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0036.html",
+    "youtube_url": "https://www.youtube.com/watch?v=kHEl_8IlmMw",
+    "created_at": "2026-07-11T09:36:00+09:00",
+    "summary": "教室に現れる規格外な人物と、それを受け止める間合いの呼吸を楽しむコント紹介。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 3,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "びじゅつのせんせい"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "学校"
+    ]
+  },
+  {
+    "id": "parpar-0037",
+    "title": "財布落としましたよ",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0037.html",
+    "youtube_url": "https://www.youtube.com/watch?v=OrU_Z2BmqK8",
+    "created_at": "2026-07-11T09:37:00+09:00",
+    "summary": "見知らぬ相手への一声から始まる、パーパーらしい間合いのやり取りを味わうコント紹介。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 3,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ぱーぱー",
+      "さいふおとしましたよ"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0038",
+    "title": "上京",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0038.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Cja6J3b9skQ",
+    "created_at": "2026-07-11T09:38:00+09:00",
+    "summary": "地元を離れる決断に宿る「上京」という言葉の重みを丁寧にたどるコント紹介。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ぱーぱー",
+      "じょうきょう"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0039",
+    "title": "結婚前夜",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0039.html",
+    "youtube_url": "https://www.youtube.com/watch?v=KhiMyNfUVfE",
+    "created_at": "2026-07-11T09:39:00+09:00",
+    "summary": "人生の節目を前にした一晩の緊張と高揚感を味わう、世界観コント紹介。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "けっこんぜんや"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "家族で見やすい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "恋愛"
+    ]
+  },
+  {
+    "id": "parpar-0040",
+    "title": "告白",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0040.html",
+    "youtube_url": "https://www.youtube.com/watch?v=oYk8OXHtbyk",
+    "created_at": "2026-07-11T09:40:00+09:00",
+    "summary": "言葉が出るまでの間合いと緊張感を丁寧に味わう、パーパー「告白」のコント紹介。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "ぱーぱー",
+      "こくはく"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "恋愛"
+    ]
+  },
+  {
+    "id": "parpar-0041",
+    "title": "記憶喪失",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0041.html",
+    "youtube_url": "https://www.youtube.com/watch?v=wRWMk46tlI4",
+    "created_at": "2026-07-11T09:41:00+09:00",
+    "summary": "記憶が欠けた前提のもとで交わされる会話のずれを、世界観としてじっくり味わう一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "きおくそうしつ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "じわじわ来る笑いがほしい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0042",
+    "title": "形成外科",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0042.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Zq249H4NGuM",
+    "created_at": "2026-07-11T09:42:00+09:00",
+    "summary": "診察室の丁寧な言葉遣いから本音がこぼれる落差を、ワードの軸で読み解く一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ぱーぱー",
+      "けいせいげか"
+    ],
+    "mood_tags": [
+      "仕事帰りに見たい",
+      "じわじわ来る笑いがほしい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0043",
+    "title": "整形手術",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0043.html",
+    "youtube_url": "https://www.youtube.com/watch?v=hJftiV6cSO8",
+    "created_at": "2026-07-11T09:43:00+09:00",
+    "summary": "変化に気づいてから言葉にするまでの間を、じっくり味わうための一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 3,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ぱーぱー",
+      "せいけいしゅじゅつ"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0044",
+    "title": "店長とアルバイトの話",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0044.html",
+    "youtube_url": "https://www.youtube.com/watch?v=r_XSt3eqX9Y",
+    "created_at": "2026-07-11T09:44:00+09:00",
+    "summary": "誰もが知る店長とアルバイトの上下関係が揺れていく様子を読み解く一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 3,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "てんちょうとあるばいとのはなし"
+    ],
+    "mood_tags": [
+      "仕事帰りに見たい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "職場",
+      "世界"
+    ]
+  },
+  {
+    "id": "parpar-0045",
+    "title": "占い",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0045.html",
+    "youtube_url": "https://www.youtube.com/watch?v=GKvzkaEGuAA",
+    "created_at": "2026-07-11T09:45:00+09:00",
+    "summary": "断定と余白を行き来する占いの言葉づかいを、ワードの軸で味わう一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ぱーぱー",
+      "うらない"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "じわじわ来る笑いがほしい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "世界"
+    ]
+  },
+  {
+    "id": "parpar-0046",
+    "title": "卒業旅行",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0046.html",
+    "youtube_url": "https://www.youtube.com/watch?v=MWbjR7mIxnw",
+    "created_at": "2026-07-11T09:46:00+09:00",
+    "summary": "旅先という非日常が、二人の会話の距離を少しずつ変えていく卒業旅行の一本です。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 3,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "そつぎょうりょこう"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "じわじわ来る笑いがほしい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0047",
+    "title": "出産祝い",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0047.html",
+    "youtube_url": "https://www.youtube.com/watch?v=1_Je4hKEmdk",
+    "created_at": "2026-07-11T09:47:00+09:00",
+    "summary": "祝う気持ちと戸惑いが同居する場の間合いを、大石セレクションで丁寧に読み解きます。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 3,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ぱーぱー",
+      "しゅっさんいわい"
+    ],
+    "mood_tags": [
+      "人間味で笑いたい",
+      "家族で見やすい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0048",
+    "title": "ブランコ",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0048.html",
+    "youtube_url": "https://www.youtube.com/watch?v=0Po-VFE-IgY",
+    "created_at": "2026-07-11T09:48:00+09:00",
+    "summary": "公園という身近な場所で揺れる二人の距離を、世界の視点から丁寧にたどる一本です。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "ぶらんこ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "じわじわ来る笑いがほしい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0049",
+    "title": "付き合って2周年",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0049.html",
+    "youtube_url": "https://www.youtube.com/watch?v=zocnYnJpqvU",
+    "created_at": "2026-07-11T09:49:00+09:00",
+    "summary": "記念日という言葉の重さと二人の温度差を、ワードの視点から丁寧に読み解く一本です。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ぱーぱー",
+      "つきあってにしゅうねん"
+    ],
+    "mood_tags": [
+      "人間味で笑いたい",
+      "じわじわ来る笑いがほしい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "恋愛"
+    ]
+  },
+  {
+    "id": "parpar-0050",
+    "title": "記憶喪失（MGC ver.）",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0050.html",
+    "youtube_url": "https://www.youtube.com/watch?v=DfwQhykc7kE",
+    "created_at": "2026-07-11T09:50:00+09:00",
+    "summary": "思い出せない側と見守る側、二人の間の取り方をMGC ver.として独立に読み解きます。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 3,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ぱーぱー",
+      "きおくそうしつ"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0051",
+    "title": "星野さんを愛してる",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0051.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Kb0ifytvo7U",
+    "created_at": "2026-07-11T09:51:00+09:00",
+    "summary": "名前を呼ぶ気持ちの一言に至るまでの間と距離感を、ワード視点でじっくり味わえる一本です。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ぱーぱー",
+      "ほしのさんをあいしてる"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "じわじわ来る笑いがほしい"
+    ],
+    "theme_tags": [
+      "恋愛",
+      "ワード",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0052",
+    "title": "親子",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0052.html",
+    "youtube_url": "https://www.youtube.com/watch?v=OTB1gECqd_U",
+    "created_at": "2026-07-11T09:52:00+09:00",
+    "summary": "身近すぎる親子の距離感を、世界の空気からじっくり読み解く一本です。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "おやこ"
+    ],
+    "mood_tags": [
+      "家族で見やすい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "家族",
+      "世界",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0053",
+    "title": "転校",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0053.html",
+    "youtube_url": "https://www.youtube.com/watch?v=A6sDwknt9DU",
+    "created_at": "2026-07-11T09:53:00+09:00",
+    "summary": "新しい場所に踏み出す前の緊張と沈黙を、間の視点で味わえる一本です。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ぱーぱー",
+      "てんこう"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "世界観に入りたい"
+    ],
+    "theme_tags": [
+      "学校",
+      "間",
+      "日常"
+    ]
+  },
+  {
+    "id": "parpar-0054",
+    "title": "告白",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0054.html",
+    "youtube_url": "https://www.youtube.com/watch?v=whQXCOupVxM",
+    "created_at": "2026-07-11T09:54:00+09:00",
+    "summary": "気持ちを伝える前の間と言葉選びを、ワード視点でじっくり楽しめる一本です。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ぱーぱー",
+      "こくはく"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "世界観に入りたい"
+    ],
+    "theme_tags": [
+      "恋愛",
+      "ワード",
+      "間"
+    ]
+  },
+  {
+    "id": "parpar-0055",
+    "title": "転校するキミへ",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0055.html",
+    "youtube_url": "https://www.youtube.com/watch?v=uRUqxFjZ2OI",
+    "created_at": "2026-07-11T09:55:00+09:00",
+    "summary": "見送る側の視点から日常に差し込む別れの空気を、世界観で味わい深い一本です。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ぱーぱー",
+      "てんこうするきみへ"
+    ],
+    "mood_tags": [
+      "じわじわ来る笑いがほしい",
+      "世界観に入りたい"
+    ],
+    "theme_tags": [
+      "学校",
+      "世界",
+      "日常"
+    ]
   }
 ]
