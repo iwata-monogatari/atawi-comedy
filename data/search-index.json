@@ -4001,5 +4001,5936 @@
       "ワード",
       "バトル"
     ]
+  },
+  {
+    "id": "tokyo-hoteison-0001",
+    "title": "回文",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo-hoteison-0001.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Brg094fwTnI",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "回文をテーマに、言葉のパズルと熱量あるツッコミが交錯する東京ホテイソンの代表作。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "東京ホテイソン",
+      "回文"
+    ],
+    "mood_tags": [
+      "言葉のパズルを楽しみたい",
+      "熱量で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "ワード",
+      "構成"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0002",
+    "title": "ことわざ",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=OQ8CaIiXbkE",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "ことわざをテーマにした東京ホテイソンの漫才動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    },
+    "kana": [
+      "東京ホテイソン",
+      "ことわざ"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0003",
+    "title": "英語",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=q0VB-n1O8V8",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "英語をテーマにした東京ホテイソンの漫才動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    },
+    "kana": [
+      "東京ホテイソン",
+      "英語"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0004",
+    "title": "体育祭",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=SxLmF_ia3ZA",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "体育祭をテーマにした東京ホテイソンの漫才動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    },
+    "kana": [
+      "東京ホテイソン",
+      "体育祭"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0005",
+    "title": "入学式",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=-J9jQBybaFE",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "入学式をテーマにした東京ホテイソンの漫才動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    },
+    "kana": [
+      "東京ホテイソン",
+      "入学式"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0006",
+    "title": "遠足",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=S9iQV84biwY",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "遠足をテーマにした東京ホテイソンの漫才動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    },
+    "kana": [
+      "東京ホテイソン",
+      "遠足"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0007",
+    "title": "朝の情報番組",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=2IfDwcxSYkQ",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "朝の情報番組をテーマにした東京ホテイソンの漫才動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    },
+    "kana": [
+      "東京ホテイソン",
+      "朝の情報番組"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0008",
+    "title": "ゾンビ映画",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=VVztxfP7ys4",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "ゾンビ映画をテーマにした東京ホテイソンの漫才動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    },
+    "kana": [
+      "東京ホテイソン",
+      "ゾンビ映画"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0009",
+    "title": "合コン",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=A0sKFAK9BLg",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "合コンをテーマにした東京ホテイソンの漫才動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    },
+    "kana": [
+      "東京ホテイソン",
+      "合コン"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0010",
+    "title": "水族館デート",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=XjzAfupKqyg",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "水族館デートをテーマにした東京ホテイソンの漫才動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    },
+    "kana": [
+      "東京ホテイソン",
+      "水族館デート"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0011",
+    "title": "グーチョキパー",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=mrAeuS2livE",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "グーチョキパーをテーマにした東京ホテイソンの漫才動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    },
+    "kana": [
+      "東京ホテイソン",
+      "グーチョキパー"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0012",
+    "title": "遊戯王",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=62peBYn1wBE",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "遊戯王をテーマにした東京ホテイソンの漫才動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    },
+    "kana": [
+      "東京ホテイソン",
+      "遊戯王"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0013",
+    "title": "謎解き",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=V7Mf_VL_HpI",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "謎解きをテーマにした東京ホテイソンの漫才動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    },
+    "kana": [
+      "東京ホテイソン",
+      "謎解き"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0014",
+    "title": "サッカーの実況",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=D55dLNUFkz4",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "サッカーの実況をテーマにした東京ホテイソンの漫才動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    },
+    "kana": [
+      "東京ホテイソン",
+      "サッカーの実況"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0015",
+    "title": "デート",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=N2MgMhBpeow",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "デートをテーマにした東京ホテイソンの漫才動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    },
+    "kana": [
+      "東京ホテイソン",
+      "デート"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0016",
+    "title": "ツッコミ間違え",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=-027R44Oe34",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "ツッコミ間違えをテーマにした東京ホテイソンの漫才動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    },
+    "kana": [
+      "東京ホテイソン",
+      "ツッコミ間違え"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0017",
+    "title": "お・も・て・な・し",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=xW8WCEpmmUY",
+    "created_at": "2026-07-09T00:30:00+09:00",
+    "summary": "お・も・て・な・しをテーマにした東京ホテイソンの漫才動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "word"
+    },
+    "kana": [
+      "東京ホテイソン",
+      "お・も・て・な・し"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "漫才"
+    ]
+  },
+  {
+    "id": "sissonne-0001",
+    "title": "喫茶店にて",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0001.html",
+    "youtube_url": "https://www.youtube.com/watch?v=zyc-7rFD0H4",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "喫茶店の注文という日常的な設定から、言葉のズレと静かな間でシュールな笑いを作り上げる傑作。",
+    "featured_order": 100,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "喫茶店にて"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "じわじわ笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "sissonne-0002",
+    "title": "気付き",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/sissonne-0002.html",
+    "youtube_url": "https://www.youtube.com/watch?v=obi95J3F6Mk",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "気付きをテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "気付き"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0003",
+    "title": "夏糸",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/sissonne-0003.html",
+    "youtube_url": "https://www.youtube.com/watch?v=u4dfOyDNCys",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "夏糸をテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "夏糸"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0004",
+    "title": "千鶴様と伴",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/sissonne-0004.html",
+    "youtube_url": "https://www.youtube.com/watch?v=jICCuQcPa98",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "千鶴様と伴をテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "千鶴様と伴"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0005",
+    "title": "青年とおじさんと猫",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/sissonne-0005.html",
+    "youtube_url": "https://www.youtube.com/watch?v=E_yoq2m2aD8",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "青年とおじさんと猫をテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "青年とおじさんと猫"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0006",
+    "title": "ピアノの音色に誘われて",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/sissonne-0006.html",
+    "youtube_url": "https://www.youtube.com/watch?v=GuP1HBfCrks",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "ピアノの音色に誘われてをテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "ピアノの音色に誘われて"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0007",
+    "title": "議員と記者",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0007.html",
+    "youtube_url": "https://www.youtube.com/watch?v=yaKGsOyxiUI",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "議員と記者をテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "議員と記者"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0008",
+    "title": "人類の、未来のために",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0008.html",
+    "youtube_url": "https://www.youtube.com/watch?v=eI4ieS8fUZg",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "人類の、未来のためにをテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "人類の、未来のために"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0009",
+    "title": "野村くん、寺山さんに会う",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0009.html",
+    "youtube_url": "https://www.youtube.com/watch?v=z9OdidBrzRg",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "野村くん、寺山さんに会うをテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "野村くん、寺山さんに会う"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0010",
+    "title": "老後",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0010.html",
+    "youtube_url": "https://www.youtube.com/watch?v=GHru-pusan0",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "老後をテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "老後"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0011",
+    "title": "隣人",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0011.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Qro6iiuc2Ww",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "隣人をテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "隣人"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0012",
+    "title": "知らない自分",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0012.html",
+    "youtube_url": "https://www.youtube.com/watch?v=tOGlJPKFOi4",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "知らない自分をテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "知らない自分"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0013",
+    "title": "サ裸リーマン",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0013.html",
+    "youtube_url": "https://www.youtube.com/watch?v=blLmqPuYsto",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "サ裸リーマンをテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "サ裸リーマン"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0014",
+    "title": "俺の袋",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0014.html",
+    "youtube_url": "https://www.youtube.com/watch?v=LizHrww9An0",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "俺の袋をテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "俺の袋"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0015",
+    "title": "別れ",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2014,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0015.html",
+    "youtube_url": "https://www.youtube.com/watch?v=PH9BzuhUUwc",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "別れをテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "別れ"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0016",
+    "title": "成美と百花",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0016.html",
+    "youtube_url": "https://www.youtube.com/watch?v=YSsgJbXJ3Ns",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "成美と百花をテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "成美と百花"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0017",
+    "title": "名店への道",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2013,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0017.html",
+    "youtube_url": "https://www.youtube.com/watch?v=avb8dXZJI0Q",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "名店への道をテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "名店への道"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0018",
+    "title": "せいさくしゃ",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2014,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0018.html",
+    "youtube_url": "https://www.youtube.com/watch?v=2z50WSR2BSU",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "せいさくしゃをテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "せいさくしゃ"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0019",
+    "title": "うちの息子、実は",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0019.html",
+    "youtube_url": "https://www.youtube.com/watch?v=v0knCQAkLnE",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "うちの息子、実はをテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "うちの息子、実は"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0020",
+    "title": "田村さんと丸山さん",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0020.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ovktGqjYwEw",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "田村さんと丸山さんをテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "田村さんと丸山さん"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0021",
+    "title": "あおり◯◯",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0021.html",
+    "youtube_url": "https://www.youtube.com/watch?v=18jfwdHL7aY",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "あおり◯◯をテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "あおり◯◯"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0022",
+    "title": "立ち話",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0022.html",
+    "youtube_url": "https://www.youtube.com/watch?v=gqU9II6CQnk",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "立ち話をテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "立ち話"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0023",
+    "title": "飲み会のあと",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0023.html",
+    "youtube_url": "https://www.youtube.com/watch?v=iffAj0f7Uk8",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "飲み会のあとをテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "飲み会のあと"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0024",
+    "title": "同居人の",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/sissonne-0024.html",
+    "youtube_url": "https://www.youtube.com/watch?v=1zRz2LPe3HU",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "同居人のをテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "同居人の"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0025",
+    "title": "割烹SHU",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0025.html",
+    "youtube_url": "https://www.youtube.com/watch?v=hm3ETOTINAI",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "割烹SHUをテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "割烹SHU"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0026",
+    "title": "ボクシングジムに通いたいけど",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0026.html",
+    "youtube_url": "https://www.youtube.com/watch?v=A0V8_GxjEts",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "ボクシングジムに通いたいけどをテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "ボクシングジムに通いたいけど"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0027",
+    "title": "ばばあの罠",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0027.html",
+    "youtube_url": "https://www.youtube.com/watch?v=zJ_aBsfjzWw",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "ばばあの罠をテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "ばばあの罠"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0028",
+    "title": "インドカレー",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2014,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0028.html",
+    "youtube_url": "https://www.youtube.com/watch?v=N6fgYfBF_ik",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "インドカレーをテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "インドカレー"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0029",
+    "title": "ガソリンスタンド",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2013,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0029.html",
+    "youtube_url": "https://www.youtube.com/watch?v=3fYo0IO31LI",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "ガソリンスタンドをテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "ガソリンスタンド"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0030",
+    "title": "大学デビュー",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0030.html",
+    "youtube_url": "https://www.youtube.com/watch?v=QZ6OeyGGBB8",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "大学デビューをテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "大学デビュー"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0031",
+    "title": "先生の本性",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2014,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0031.html",
+    "youtube_url": "https://www.youtube.com/watch?v=B8Kh2tWuGhw",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "先生の本性をテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "先生の本性"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0032",
+    "title": "眼鏡屋",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2013,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0032.html",
+    "youtube_url": "https://www.youtube.com/watch?v=o2NEJT4faKc",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "眼鏡屋をテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "眼鏡屋"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0033",
+    "title": "汚し屋",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2013,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0033.html",
+    "youtube_url": "https://www.youtube.com/watch?v=DwfPlPnKWJ8",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "汚し屋をテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "汚し屋"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0034",
+    "title": "職員室",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2013,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0034.html",
+    "youtube_url": "https://www.youtube.com/watch?v=tNNMx1W1vU4",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "職員室をテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "職員室"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "sissonne-0035",
+    "title": "製作発表会2013",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2013,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0035.html",
+    "youtube_url": "https://www.youtube.com/watch?v=wZpq3j4xbMs",
+    "created_at": "2026-07-09T00:45:00+09:00",
+    "summary": "製作発表会2013をテーマにしたシソンヌのコント動画。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 3,
+      "world": 3,
+      "word": 3,
+      "selection": "ma"
+    },
+    "kana": [
+      "シソンヌ",
+      "製作発表会2013"
+    ],
+    "mood_tags": [
+      "何も考えず笑いたい"
+    ],
+    "theme_tags": [
+      "コント"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0001",
+    "title": "伝えたいことがあるんだ",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0001.html",
+    "youtube_url": "https://www.youtube.com/watch?v=H-O8_fuN5m0",
+    "created_at": "2026-07-09T18:40:00+09:00",
+    "summary": "伝えたいことを抱えた人物の温度差から、会話の距離と空気が少しずつ見えてくるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "つたえたいことがあるんだ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0002",
+    "title": "命の授業",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0002.html",
+    "youtube_url": "https://www.youtube.com/watch?v=2esiker973U",
+    "created_at": "2026-07-09T18:41:00+09:00",
+    "summary": "授業のまじめさを入口に、言葉を受け取る側の戸惑いまで含めて世界を立ち上げる一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "いのちのじゅぎょう"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "学校"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0003",
+    "title": "ゴッドハンド",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2025,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0003.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Hzo0N18E-gk",
+    "created_at": "2026-07-09T18:42:00+09:00",
+    "summary": "強い響きの言葉をきっかけに、期待と疑いが会話の中で揺れていくコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "ごっどはんど"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0004",
+    "title": "若菜まもる",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2025,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0004.html",
+    "youtube_url": "https://www.youtube.com/watch?v=XC24NayGhiE",
+    "created_at": "2026-07-09T18:43:00+09:00",
+    "summary": "名前の持つ気配を入口に、人物像と周囲の反応がゆっくり輪郭を帯びるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "わかなまもる"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0005",
+    "title": "本番いきます！",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2024,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0005.html",
+    "youtube_url": "https://www.youtube.com/watch?v=1vbV6E5_Tfs",
+    "created_at": "2026-07-09T18:44:00+09:00",
+    "summary": "合図ひとつで空気が切り替わる瞬間を、間の置き方で楽しませるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "ほんばんいきます"
+    ],
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "仕事"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0006",
+    "title": "オレオレ",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2025,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0006.html",
+    "youtube_url": "https://www.youtube.com/watch?v=2U2VPa0y18Y",
+    "created_at": "2026-07-09T18:45:00+09:00",
+    "summary": "聞き覚えのある言葉を入口に、確認の仕方と会話のずれが残る一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "おれおれ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0007",
+    "title": "◯◯ビジネス",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2025,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0007.html",
+    "youtube_url": "https://www.youtube.com/watch?v=HbfQQIHc2K8",
+    "created_at": "2026-07-09T18:46:00+09:00",
+    "summary": "ビジネスらしい言い回しが、会話の中で少しずつ別の表情を見せるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "まるまるびじねす"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "仕事"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0008",
+    "title": "パリヴィ",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2024,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0008.html",
+    "youtube_url": "https://www.youtube.com/watch?v=o4L2NDm7srU",
+    "created_at": "2026-07-09T18:47:00+09:00",
+    "summary": "一度聞くと気になる響きを軸に、言葉の温度で場面を動かしていくコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "ぱりゔぃ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0009",
+    "title": "すご六",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2024,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0009.html",
+    "youtube_url": "https://www.youtube.com/watch?v=a2wjwB8yAoQ",
+    "created_at": "2026-07-09T18:48:00+09:00",
+    "summary": "ルールのある遊びを入口に、人の性格や関係がにじむ世界を味わえるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "すごろく"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0010",
+    "title": "野球人生",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0010.html",
+    "youtube_url": "https://www.youtube.com/watch?v=r_2UPTUIaAw",
+    "created_at": "2026-07-09T18:49:00+09:00",
+    "summary": "野球の言葉と人生の見え方が重なり、人物の語り口がじわじわ残る一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "やきゅうじんせい"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0011",
+    "title": "吹奏楽部",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2024,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0011.html",
+    "youtube_url": "https://www.youtube.com/watch?v=wf_nNMhQo_M",
+    "created_at": "2026-07-09T18:50:00+09:00",
+    "summary": "部活という近い記憶を入口に、集団の空気と人物の温度差を見せるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "すいそうがくぶ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "学校"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0012",
+    "title": "動くな！JASRACだ！",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0012.html",
+    "youtube_url": "https://www.youtube.com/watch?v=yea0Y9i2N1A",
+    "created_at": "2026-07-09T18:51:00+09:00",
+    "summary": "タイトルの強い一言を入口に、場面の止まり方と返しの速度を楽しむコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "うごくなじゃすらっくだ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0013",
+    "title": "島",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0013.html",
+    "youtube_url": "https://www.youtube.com/watch?v=z4J7eQqWDwI",
+    "created_at": "2026-07-09T18:52:00+09:00",
+    "summary": "島という限定された場所を入口に、空間の狭さと会話の濃さを味わう一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "しま"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0014",
+    "title": "パンのむらた",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0014.html",
+    "youtube_url": "https://www.youtube.com/watch?v=5mz5FKabGSc",
+    "created_at": "2026-07-09T18:53:00+09:00",
+    "summary": "店の名前と生活感を入口に、日常の中のずれをやわらかく見せるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "ぱんのむらた"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "店"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0015",
+    "title": "終電逃させ屋",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0015.html",
+    "youtube_url": "https://www.youtube.com/watch?v=3KtoWSBE70o",
+    "created_at": "2026-07-09T18:54:00+09:00",
+    "summary": "タイトルの発想だけで場面が見え始める、ワードの強さが残るコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "しゅうでんのがさせや"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0016",
+    "title": "サラリーマン川柳",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0016.html",
+    "youtube_url": "https://www.youtube.com/watch?v=TeUXnV6eGIg",
+    "created_at": "2026-07-09T18:55:00+09:00",
+    "summary": "短い言葉の奥にある仕事と生活の手触りを、ワードで楽しませる一本。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "さらりーまんせんりゅう"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "仕事"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0017",
+    "title": "ZZZ",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0017.html",
+    "youtube_url": "https://www.youtube.com/watch?v=jDO9OtgGmM4",
+    "created_at": "2026-07-09T18:56:00+09:00",
+    "summary": "眠りの気配をまとった題名から、間の長さと反応の遅れを味わえるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "ずずず"
+    ],
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0018",
+    "title": "調教師コメント",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0018.html",
+    "youtube_url": "https://www.youtube.com/watch?v=q20vPobFXkY",
+    "created_at": "2026-07-09T18:57:00+09:00",
+    "summary": "コメントらしい言葉の型を入口に、専門用語の響きと間を楽しむコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "ちょうきょうしこめんと"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0019",
+    "title": "はいります！",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0019.html",
+    "youtube_url": "https://www.youtube.com/watch?v=npuWTuj1NBw",
+    "created_at": "2026-07-09T18:58:00+09:00",
+    "summary": "短い合図の強さを、入る前と入った後の空気の差で見せるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "はいります"
+    ],
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0020",
+    "title": "ペンション殺人事件",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0020.html",
+    "youtube_url": "https://www.youtube.com/watch?v=QnI8slS1TA4",
+    "created_at": "2026-07-09T18:59:00+09:00",
+    "summary": "事件ものの空気を入口に、ジャンルの約束と人物の反応で世界を作るコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "ぺんしょんさつじんじけん"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0021",
+    "title": "ヒーロー",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0021.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ENT4eNZlGrA",
+    "created_at": "2026-07-09T19:00:00+09:00",
+    "summary": "誰もが知るヒーローの型を入口に、人物の見え方が揺れていくコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "ひーろー"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0022",
+    "title": "更生",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0022.html",
+    "youtube_url": "https://www.youtube.com/watch?v=2guw6B7VAtU",
+    "created_at": "2026-07-09T19:01:00+09:00",
+    "summary": "まじめな題材を冷たく扱わず、人物の距離と会話のずれで見せるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "こうせい"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0023",
+    "title": "依存症",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0023.html",
+    "youtube_url": "https://www.youtube.com/watch?v=rDbxhVquLsc",
+    "created_at": "2026-07-09T19:02:00+09:00",
+    "summary": "題材の強さに寄りかからず、会話の受け止め方と間で見せるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "いぞんしょう"
+    ],
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0024",
+    "title": "後継者",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0024.html",
+    "youtube_url": "https://www.youtube.com/watch?v=FCxYx-KNEB8",
+    "created_at": "2026-07-09T19:03:00+09:00",
+    "summary": "後継ぎという関係性の重さを、会話の距離感でほどいていくコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "こうけいしゃ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0025",
+    "title": "鬼食育",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0025.html",
+    "youtube_url": "https://www.youtube.com/watch?v=u7F3Q9WW6RA",
+    "created_at": "2026-07-09T19:04:00+09:00",
+    "summary": "生活に近い食育の言葉と、少し不思議な世界の組み合わせを楽しむコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "おにしょくいく"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0026",
+    "title": "おっさん",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0026.html",
+    "youtube_url": "https://www.youtube.com/watch?v=LH8bMU_PHa0",
+    "created_at": "2026-07-09T19:05:00+09:00",
+    "summary": "呼び名の近さと雑さの間にある空気を、間でていねいに見せるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "おっさん"
+    ],
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0027",
+    "title": "AV",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0027.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Zs71nTR-U1I",
+    "created_at": "2026-07-09T19:06:00+09:00",
+    "summary": "刺激的な題材名に寄りかからず、言葉を置く間と距離感で成立させるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "えーぶい"
+    ],
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0028",
+    "title": "役者",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0028.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Qe1_2FJbcGs",
+    "created_at": "2026-07-09T19:07:00+09:00",
+    "summary": "役を演じる側と見る側の距離から、人物の自意識が見えてくるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "やくしゃ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0029",
+    "title": "芸術家",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0029.html",
+    "youtube_url": "https://www.youtube.com/watch?v=SeyNWuw-uKY",
+    "created_at": "2026-07-09T19:08:00+09:00",
+    "summary": "芸術をめぐる言葉の響きから、人物のこだわりと距離感を味わうコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "げいじゅつか"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0030",
+    "title": "催眠術",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0030.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ArUCiHBpmLA",
+    "created_at": "2026-07-09T19:09:00+09:00",
+    "summary": "催眠術という見守る題材を、反応までの間で楽しませるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "さいみんじゅつ"
+    ],
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0031",
+    "title": "葬式",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0031.html",
+    "youtube_url": "https://www.youtube.com/watch?v=LSvP8x_Bypk",
+    "created_at": "2026-07-09T19:10:00+09:00",
+    "summary": "厳かな場面を雑に扱わず、声量や沈黙の間から笑いを立ち上げるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "そうしき"
+    ],
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0032",
+    "title": "ファンタジー",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0032.html",
+    "youtube_url": "https://www.youtube.com/watch?v=mdfo1ea3pyI",
+    "created_at": "2026-07-09T19:11:00+09:00",
+    "summary": "ファンタジーの題材を、会話の温度で日常側へ引き寄せるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "ふぁんたじー"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0033",
+    "title": "タイ料理屋",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0033.html",
+    "youtube_url": "https://www.youtube.com/watch?v=H97KRVJuSzo",
+    "created_at": "2026-07-09T19:12:00+09:00",
+    "summary": "飲食店の身近なやり取りを入口に、店の空気と人物のずれを味わうコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "たいりょうりや"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "店"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0034",
+    "title": "小豆島少年野球団",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0034.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Rqp-VfvSc64",
+    "created_at": "2026-07-09T19:13:00+09:00",
+    "summary": "地域と少年野球の言葉から、背景まで勝手に見えてくる世界観のコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "しょうどしましょうねんやきゅうだん"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "学校"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0035",
+    "title": "Farewell Ceremony／お別れ会系",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0035.html",
+    "youtube_url": "https://www.youtube.com/watch?v=--nKbARQULQ",
+    "created_at": "2026-07-09T19:14:00+09:00",
+    "summary": "お別れの場にある静けさを大切にしながら、間と受け止め方で見せるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "ふぇあうぇるせれもにーおわかれかいけい"
+    ],
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0036",
+    "title": "いじめ",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0036.html",
+    "youtube_url": "https://www.youtube.com/watch?v=TzWgFmGJ6Z0",
+    "created_at": "2026-07-09T19:15:00+09:00",
+    "summary": "題材の強さを消費せず、言葉の置き方と沈黙の扱いに注目したいコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "いじめ"
+    ],
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0037",
+    "title": "カラオケ",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0037.html",
+    "youtube_url": "https://www.youtube.com/watch?v=-lvLZvT8OrM",
+    "created_at": "2026-07-09T19:16:00+09:00",
+    "summary": "カラオケの空間にある遠慮と勢いを、会話の温度差で見せるコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "からおけ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0038",
+    "title": "臓器売買",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0038.html",
+    "youtube_url": "https://www.youtube.com/watch?v=x8J_eTmIa5E",
+    "created_at": "2026-07-09T19:17:00+09:00",
+    "summary": "題名の強さに寄せすぎず、言葉を出す前後の間と距離を見たいコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "さらばせいしゅんのひかり",
+      "ぞうきばいばい"
+    ],
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "lotti-0001",
+    "title": "プリティプリ山",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0001.html",
+    "youtube_url": "https://www.youtube.com/watch?v=uFE9EqtdfFs",
+    "created_at": "2026-07-09T20:00:00+09:00",
+    "summary": "プリティプリ山を、ワードを入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ろっち",
+      "プリティプリ山",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "lotti-0002",
+    "title": "ホームラン",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0002.html",
+    "youtube_url": "https://www.youtube.com/watch?v=LmdL2pnWKBQ",
+    "created_at": "2026-07-09T20:01:00+09:00",
+    "summary": "ホームランを、間を入口に、盛り上がるべき場面で、誰がどの温度でそこにいるかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ろっち",
+      "ホームラン",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "lotti-0003",
+    "title": "サクラ",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0003.html",
+    "youtube_url": "https://www.youtube.com/watch?v=trzRTRqTK9s",
+    "created_at": "2026-07-09T20:02:00+09:00",
+    "summary": "サクラを、世界を入口に、その言葉が出る前後の呼吸と、相手がすぐに受け止められない一拍へ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "サクラ",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0004",
+    "title": "音楽の道",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0004.html",
+    "youtube_url": "https://www.youtube.com/watch?v=INcGogtSMi4",
+    "created_at": "2026-07-09T20:03:00+09:00",
+    "summary": "音楽の道を、世界を入口に、遠い場所の話が、どの瞬間に身近な会話へ戻るかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "音楽の道",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0005",
+    "title": "大声コンテスト",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0005.html",
+    "youtube_url": "https://www.youtube.com/watch?v=lPZGoV6pL_U",
+    "created_at": "2026-07-09T20:04:00+09:00",
+    "summary": "大声コンテストを、間を入口に、盛り上がるべき場面で、誰がどの温度でそこにいるかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ろっち",
+      "大声コンテスト",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "lotti-0006",
+    "title": "オヤクソク",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0006.html",
+    "youtube_url": "https://www.youtube.com/watch?v=FiO6OwknAOo",
+    "created_at": "2026-07-09T20:05:00+09:00",
+    "summary": "オヤクソクを、ワードを入口に、その言葉が出る前後の呼吸と、相手がすぐに受け止められない一拍へ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ろっち",
+      "オヤクソク",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "lotti-0007",
+    "title": "エマージェンシーコール",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0007.html",
+    "youtube_url": "https://www.youtube.com/watch?v=3JQLdmjB54k",
+    "created_at": "2026-07-09T20:06:00+09:00",
+    "summary": "エマージェンシーコールを、間を入口に、専門用語の手前で、人物がどこまで分かった顔をしているかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ろっち",
+      "エマージェンシーコール",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "lotti-0008",
+    "title": "言わんといて",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0008.html",
+    "youtube_url": "https://www.youtube.com/watch?v=C4pdfYIdVdw",
+    "created_at": "2026-07-09T20:07:00+09:00",
+    "summary": "言わんといてを、間を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ろっち",
+      "言わんといて",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "lotti-0009",
+    "title": "試着室2020",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0009.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Ezbq6sBFJfM",
+    "created_at": "2026-07-09T20:08:00+09:00",
+    "summary": "試着室2020を、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "試着室2020",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0010",
+    "title": "にぎりっぺ",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0010.html",
+    "youtube_url": "https://www.youtube.com/watch?v=9Noz-ohU4Dc",
+    "created_at": "2026-07-09T20:09:00+09:00",
+    "summary": "にぎりっぺを、ワードを入口に、その言葉が出る前後の呼吸と、相手がすぐに受け止められない一拍へ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ろっち",
+      "にぎりっぺ",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "lotti-0011",
+    "title": "未来より",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0011.html",
+    "youtube_url": "https://www.youtube.com/watch?v=18HV9HBudJw",
+    "created_at": "2026-07-09T20:10:00+09:00",
+    "summary": "未来よりを、世界を入口に、遠い場所の話が、どの瞬間に身近な会話へ戻るかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "未来より",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0012",
+    "title": "ガッツポーズ",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0012.html",
+    "youtube_url": "https://www.youtube.com/watch?v=IBUkEVqxvWs",
+    "created_at": "2026-07-09T20:11:00+09:00",
+    "summary": "ガッツポーズを、間を入口に、盛り上がるべき場面で、誰がどの温度でそこにいるかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ろっち",
+      "ガッツポーズ",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "lotti-0013",
+    "title": "お花畑",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0013.html",
+    "youtube_url": "https://www.youtube.com/watch?v=2hJaW_FozRQ",
+    "created_at": "2026-07-09T20:12:00+09:00",
+    "summary": "お花畑を、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "お花畑",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0014",
+    "title": "のれんわけ",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0014.html",
+    "youtube_url": "https://www.youtube.com/watch?v=DbK-R2nL9-s",
+    "created_at": "2026-07-09T20:13:00+09:00",
+    "summary": "のれんわけを、世界を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "のれんわけ",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0015",
+    "title": "ラーメンの狼",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0015.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ZEwHZgc6IIY",
+    "created_at": "2026-07-09T20:14:00+09:00",
+    "summary": "ラーメンの狼を、ワードを入口に、食べ物の名前が出たあと、会話の温度がどう変わるかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ろっち",
+      "ラーメンの狼",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "lotti-0016",
+    "title": "本気カルSHOW1",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0016.html",
+    "youtube_url": "https://www.youtube.com/watch?v=UqGLB8ZA39E",
+    "created_at": "2026-07-09T20:15:00+09:00",
+    "summary": "本気カルSHOW1を、世界を入口に、盛り上がるべき場面で、誰がどの温度でそこにいるかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "本気カルSHOW1",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0017",
+    "title": "タイトルマッチ",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0017.html",
+    "youtube_url": "https://www.youtube.com/watch?v=40rf9N_8TbE",
+    "created_at": "2026-07-09T20:16:00+09:00",
+    "summary": "タイトルマッチを、間を入口に、盛り上がるべき場面で、誰がどの温度でそこにいるかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ろっち",
+      "タイトルマッチ",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "lotti-0018",
+    "title": "やめます",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0018.html",
+    "youtube_url": "https://www.youtube.com/watch?v=q0xwyp1JBig",
+    "created_at": "2026-07-09T20:17:00+09:00",
+    "summary": "やめますを、間を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ろっち",
+      "やめます",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "lotti-0019",
+    "title": "電話で",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0019.html",
+    "youtube_url": "https://www.youtube.com/watch?v=XiJF71ytfPE",
+    "created_at": "2026-07-09T20:18:00+09:00",
+    "summary": "電話でを、間を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ろっち",
+      "電話で",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "lotti-0020",
+    "title": "やってまうヤツ",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0020.html",
+    "youtube_url": "https://www.youtube.com/watch?v=nFOFCZSqkSU",
+    "created_at": "2026-07-09T20:19:00+09:00",
+    "summary": "やってまうヤツを、ワードを入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ろっち",
+      "やってまうヤツ",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "lotti-0021",
+    "title": "転校生",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0021.html",
+    "youtube_url": "https://www.youtube.com/watch?v=yFlswRjxSAU",
+    "created_at": "2026-07-09T20:20:00+09:00",
+    "summary": "転校生を、世界を入口に、教える側の自信と、聞く側の戸惑いがどの順番で出るかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "転校生",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0022",
+    "title": "0281",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0022.html",
+    "youtube_url": "https://www.youtube.com/watch?v=w4qJj8Uqw44",
+    "created_at": "2026-07-09T20:21:00+09:00",
+    "summary": "0281を、ワードを入口に、その言葉が出る前後の呼吸と、相手がすぐに受け止められない一拍へ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ろっち",
+      "0281",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "lotti-0023",
+    "title": "間",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0023.html",
+    "youtube_url": "https://www.youtube.com/watch?v=DXSY_HHKE-Q",
+    "created_at": "2026-07-09T20:22:00+09:00",
+    "summary": "間を、間を入口に、その言葉が出る前後の呼吸と、相手がすぐに受け止められない一拍へ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ろっち",
+      "間",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "lotti-0024",
+    "title": "チャンピオン",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0024.html",
+    "youtube_url": "https://www.youtube.com/watch?v=KV2J9JaCCfs",
+    "created_at": "2026-07-09T20:23:00+09:00",
+    "summary": "チャンピオンを、世界を入口に、盛り上がるべき場面で、誰がどの温度でそこにいるかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "チャンピオン",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0025",
+    "title": "砂漠",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0025.html",
+    "youtube_url": "https://www.youtube.com/watch?v=rbKl2_uZ2Us",
+    "created_at": "2026-07-09T20:24:00+09:00",
+    "summary": "砂漠を、世界を入口に、遠い場所の話が、どの瞬間に身近な会話へ戻るかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "砂漠",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0026",
+    "title": "ユーモアスクール",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0026.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ofyplzdw8iU",
+    "created_at": "2026-07-09T20:25:00+09:00",
+    "summary": "ユーモアスクールを、ワードを入口に、教える側の自信と、聞く側の戸惑いがどの順番で出るかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ろっち",
+      "ユーモアスクール",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "lotti-0027",
+    "title": "ボウズ",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0027.html",
+    "youtube_url": "https://www.youtube.com/watch?v=u2shZvwYBrA",
+    "created_at": "2026-07-09T20:26:00+09:00",
+    "summary": "ボウズを、ワードを入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ろっち",
+      "ボウズ",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "lotti-0028",
+    "title": "大雨",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0028.html",
+    "youtube_url": "https://www.youtube.com/watch?v=MO0F-orlneU",
+    "created_at": "2026-07-09T20:27:00+09:00",
+    "summary": "大雨を、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "大雨",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0029",
+    "title": "除霊",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0029.html",
+    "youtube_url": "https://www.youtube.com/watch?v=X3SFD4OdQro",
+    "created_at": "2026-07-09T20:28:00+09:00",
+    "summary": "除霊を、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "除霊",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0030",
+    "title": "あだ名",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0030.html",
+    "youtube_url": "https://www.youtube.com/watch?v=MxLKaAKUon0",
+    "created_at": "2026-07-09T20:29:00+09:00",
+    "summary": "あだ名を、ワードを入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ろっち",
+      "あだ名",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "lotti-0031",
+    "title": "マリッジオーシャンブルー",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0031.html",
+    "youtube_url": "https://www.youtube.com/watch?v=5mNxHYKcfMs",
+    "created_at": "2026-07-09T20:30:00+09:00",
+    "summary": "マリッジオーシャンブルーを、世界を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "マリッジオーシャンブルー",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0032",
+    "title": "目撃者ムラサワ",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0032.html",
+    "youtube_url": "https://www.youtube.com/watch?v=l-wVReaDj34",
+    "created_at": "2026-07-09T20:31:00+09:00",
+    "summary": "目撃者ムラサワを、世界を入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "目撃者ムラサワ",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0033",
+    "title": "娘さんをください",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0033.html",
+    "youtube_url": "https://www.youtube.com/watch?v=-Dl1lcuVuoA",
+    "created_at": "2026-07-09T20:32:00+09:00",
+    "summary": "娘さんをくださいを、間を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ろっち",
+      "娘さんをください",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "lotti-0034",
+    "title": "十文字アキラ（不動産編）",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0034.html",
+    "youtube_url": "https://www.youtube.com/watch?v=jCt5BRUbEAM",
+    "created_at": "2026-07-09T20:33:00+09:00",
+    "summary": "十文字アキラ（不動産編）を、世界を入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "十文字アキラ（不動産編）",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0035",
+    "title": "XPhone5",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0035.html",
+    "youtube_url": "https://www.youtube.com/watch?v=PUnWaAI28bY",
+    "created_at": "2026-07-09T20:34:00+09:00",
+    "summary": "XPhone5を、ワードを入口に、専門用語の手前で、人物がどこまで分かった顔をしているかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ろっち",
+      "XPhone5",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "lotti-0036",
+    "title": "カツ丼",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0036.html",
+    "youtube_url": "https://www.youtube.com/watch?v=dCZs4_O-nAo",
+    "created_at": "2026-07-09T20:35:00+09:00",
+    "summary": "カツ丼を、間を入口に、食べ物の名前が出たあと、会話の温度がどう変わるかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ろっち",
+      "カツ丼",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "lotti-0037",
+    "title": "試着室",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0037.html",
+    "youtube_url": "https://www.youtube.com/watch?v=eCbYGWrHAdY",
+    "created_at": "2026-07-09T20:36:00+09:00",
+    "summary": "試着室を、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "試着室",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0038",
+    "title": "乳首川という男",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0038.html",
+    "youtube_url": "https://www.youtube.com/watch?v=45P-A3v967o",
+    "created_at": "2026-07-09T20:37:00+09:00",
+    "summary": "乳首川という男を、ワードを入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ろっち",
+      "乳首川という男",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "lotti-0039",
+    "title": "おつとめご苦労さまです",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0039.html",
+    "youtube_url": "https://www.youtube.com/watch?v=zfDSFiNkCx0",
+    "created_at": "2026-07-09T20:38:00+09:00",
+    "summary": "おつとめご苦労さまですを、間を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ろっち",
+      "おつとめご苦労さまです",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "lotti-0040",
+    "title": "プラマイゼロ",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0040.html",
+    "youtube_url": "https://www.youtube.com/watch?v=lpM7obBPmZU",
+    "created_at": "2026-07-09T20:39:00+09:00",
+    "summary": "プラマイゼロを、ワードを入口に、その言葉が出る前後の呼吸と、相手がすぐに受け止められない一拍へ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ろっち",
+      "プラマイゼロ",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "lotti-0041",
+    "title": "wi-fi",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0041.html",
+    "youtube_url": "https://www.youtube.com/watch?v=jUjmrw6R4Ac",
+    "created_at": "2026-07-09T20:40:00+09:00",
+    "summary": "wi-fiを、ワードを入口に、専門用語の手前で、人物がどこまで分かった顔をしているかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ろっち",
+      "wi-fi",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "lotti-0042",
+    "title": "巨乳かメガネか",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0042.html",
+    "youtube_url": "https://www.youtube.com/watch?v=_dXCQJZ3lp4",
+    "created_at": "2026-07-09T20:41:00+09:00",
+    "summary": "巨乳かメガネかを、ワードを入口に、その言葉が出る前後の呼吸と、相手がすぐに受け止められない一拍へ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ろっち",
+      "巨乳かメガネか",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "lotti-0043",
+    "title": "コマ名人 大小嶋",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0043.html",
+    "youtube_url": "https://www.youtube.com/watch?v=sDNtk2Etcws",
+    "created_at": "2026-07-09T20:42:00+09:00",
+    "summary": "コマ名人 大小嶋を、世界を入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "コマ名人 大小嶋",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0044",
+    "title": "福引",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0044.html",
+    "youtube_url": "https://www.youtube.com/watch?v=gJ9JFRkIIlg",
+    "created_at": "2026-07-09T20:43:00+09:00",
+    "summary": "福引を、間を入口に、盛り上がるべき場面で、誰がどの温度でそこにいるかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ろっち",
+      "福引",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "lotti-0045",
+    "title": "誰やったっけ？",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0045.html",
+    "youtube_url": "https://www.youtube.com/watch?v=BFaOL2DeaZ0",
+    "created_at": "2026-07-09T20:44:00+09:00",
+    "summary": "誰やったっけ？を、間を入口に、思い出すまでの沈黙と、思い出したつもりの言葉の危うさへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ろっち",
+      "誰やったっけ？",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "lotti-0046",
+    "title": "中ノ森先生",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0046.html",
+    "youtube_url": "https://www.youtube.com/watch?v=aXd52aln8fM",
+    "created_at": "2026-07-09T20:45:00+09:00",
+    "summary": "中ノ森先生を、世界を入口に、教える側の自信と、聞く側の戸惑いがどの順番で出るかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "中ノ森先生",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0047",
+    "title": "猿渡",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0047.html",
+    "youtube_url": "https://www.youtube.com/watch?v=GpLNOjZYl7c",
+    "created_at": "2026-07-09T20:46:00+09:00",
+    "summary": "猿渡を、世界を入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "猿渡",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0048",
+    "title": "自転車日本一周少年",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0048.html",
+    "youtube_url": "https://www.youtube.com/watch?v=2EX_Cn2_OTc",
+    "created_at": "2026-07-09T20:47:00+09:00",
+    "summary": "自転車日本一周少年を、世界を入口に、遠い場所の話が、どの瞬間に身近な会話へ戻るかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ろっち",
+      "自転車日本一周少年",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "lotti-0049",
+    "title": "ネパールのチェーン",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0049.html",
+    "youtube_url": "https://www.youtube.com/watch?v=AS7PZysK_2s",
+    "created_at": "2026-07-09T20:48:00+09:00",
+    "summary": "ネパールのチェーンを、ワードを入口に、遠い場所の話が、どの瞬間に身近な会話へ戻るかへ目を向けて楽しむロッチのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ろっち",
+      "ネパールのチェーン",
+      "ロッチ"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0001",
+    "title": "親父が",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0001.html",
+    "youtube_url": "https://www.youtube.com/watch?v=fqLDLfn-DyM",
+    "created_at": "2026-07-09T20:40:00+09:00",
+    "summary": "親父がを、間を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "親父が",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0002",
+    "title": "クイズショー",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0002.html",
+    "youtube_url": "https://www.youtube.com/watch?v=m50H_0B78aQ",
+    "created_at": "2026-07-09T20:41:00+09:00",
+    "summary": "クイズショーを、世界を入口に、盛り上がるべき場面で、誰がどの温度でそこにいるかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "クイズショー",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0003",
+    "title": "GReeeeN",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0003.html",
+    "youtube_url": "https://www.youtube.com/watch?v=mHaIdBaInz0",
+    "created_at": "2026-07-09T20:42:00+09:00",
+    "summary": "GReeeeNを、ワードを入口に、知っているつもりの響きが、どこで別の意味へ傾くかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "GReeeeN",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0004",
+    "title": "足踏まれ小僧",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0004.html",
+    "youtube_url": "https://www.youtube.com/watch?v=wiQyEH1hlZ0",
+    "created_at": "2026-07-09T20:43:00+09:00",
+    "summary": "足踏まれ小僧を、ワードを入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "足踏まれ小僧",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0005",
+    "title": "ゾンビ",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0005.html",
+    "youtube_url": "https://www.youtube.com/watch?v=4kmC6CCN0xU",
+    "created_at": "2026-07-09T20:44:00+09:00",
+    "summary": "ゾンビを、世界を入口に、非日常の設定を、人物がどのくらい当然のこととして受け止めているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "ゾンビ",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0006",
+    "title": "ナイフ",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0006.html",
+    "youtube_url": "https://www.youtube.com/watch?v=V-8S1f6dN3s",
+    "created_at": "2026-07-09T20:45:00+09:00",
+    "summary": "ナイフを、間を入口に、重そうな言葉を、どの距離と表情で受け止めているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "ナイフ",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0007",
+    "title": "パンダ",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0007.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Ufy9lFm1SoI",
+    "created_at": "2026-07-09T20:46:00+09:00",
+    "summary": "パンダを、世界を入口に、非日常の設定を、人物がどのくらい当然のこととして受け止めているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "パンダ",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0008",
+    "title": "合わない刑事",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0008.html",
+    "youtube_url": "https://www.youtube.com/watch?v=aMPbD9y51Wo",
+    "created_at": "2026-07-09T20:47:00+09:00",
+    "summary": "合わない刑事を、世界を入口に、重そうな言葉を、どの距離と表情で受け止めているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "合わない刑事",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0009",
+    "title": "静かにしろ",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0009.html",
+    "youtube_url": "https://www.youtube.com/watch?v=_YbIlhLOnzA",
+    "created_at": "2026-07-09T20:48:00+09:00",
+    "summary": "静かにしろを、間を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "静かにしろ",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0010",
+    "title": "地元",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0010.html",
+    "youtube_url": "https://www.youtube.com/watch?v=eOMFMkilt2o",
+    "created_at": "2026-07-09T20:49:00+09:00",
+    "summary": "地元を、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "地元",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0011",
+    "title": "拷問",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0011.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Z5H8qoVScWw",
+    "created_at": "2026-07-09T20:50:00+09:00",
+    "summary": "拷問を、間を入口に、重そうな言葉を、どの距離と表情で受け止めているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "拷問",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0012",
+    "title": "カラオケ",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0012.html",
+    "youtube_url": "https://www.youtube.com/watch?v=QaWH4v2NEXw",
+    "created_at": "2026-07-09T20:51:00+09:00",
+    "summary": "カラオケを、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "カラオケ",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0013",
+    "title": "業者",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0013.html",
+    "youtube_url": "https://www.youtube.com/watch?v=UydyLvybRlU",
+    "created_at": "2026-07-09T20:52:00+09:00",
+    "summary": "業者を、間を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "業者",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0014",
+    "title": "くそなんでやねん！",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0014.html",
+    "youtube_url": "https://www.youtube.com/watch?v=NDQqi1OK8k8",
+    "created_at": "2026-07-09T20:53:00+09:00",
+    "summary": "くそなんでやねん！を、ワードを入口に、その言葉が出る前後の呼吸と、相手がすぐに受け止められない一拍へ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "くそなんでやねん！",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0015",
+    "title": "ローマ",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0015.html",
+    "youtube_url": "https://www.youtube.com/watch?v=KDI4FZ_CHiw",
+    "created_at": "2026-07-09T20:54:00+09:00",
+    "summary": "ローマを、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "ローマ",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0016",
+    "title": "鶴の恩返し",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0016.html",
+    "youtube_url": "https://www.youtube.com/watch?v=o_sokscmfKA",
+    "created_at": "2026-07-09T20:55:00+09:00",
+    "summary": "鶴の恩返しを、世界を入口に、非日常の設定を、人物がどのくらい当然のこととして受け止めているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "鶴の恩返し",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0017",
+    "title": "メンタリスト",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0017.html",
+    "youtube_url": "https://www.youtube.com/watch?v=cQbz9-t_gGY",
+    "created_at": "2026-07-09T20:56:00+09:00",
+    "summary": "メンタリストを、ワードを入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "メンタリスト",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0018",
+    "title": "電子マネー決済",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0018.html",
+    "youtube_url": "https://www.youtube.com/watch?v=yGFsJId5euM",
+    "created_at": "2026-07-09T20:57:00+09:00",
+    "summary": "電子マネー決済を、ワードを入口に、専門用語の手前で、人物がどこまで分かった顔をしているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "電子マネー決済",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0019",
+    "title": "壁",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0019.html",
+    "youtube_url": "https://www.youtube.com/watch?v=dCadnb1vnw8",
+    "created_at": "2026-07-09T20:58:00+09:00",
+    "summary": "壁を、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "壁",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0020",
+    "title": "天使",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0020.html",
+    "youtube_url": "https://www.youtube.com/watch?v=o_qgYQbzdm8",
+    "created_at": "2026-07-09T20:59:00+09:00",
+    "summary": "天使を、世界を入口に、非日常の設定を、人物がどのくらい当然のこととして受け止めているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "天使",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0021",
+    "title": "トレンド",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0021.html",
+    "youtube_url": "https://www.youtube.com/watch?v=S15kPS46s1M",
+    "created_at": "2026-07-09T21:00:00+09:00",
+    "summary": "トレンドを、ワードを入口に、聞いたことがある言葉が、どの瞬間に聞いたことのない方向へ曲がるかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "トレンド",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0022",
+    "title": "見たことない",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0022.html",
+    "youtube_url": "https://www.youtube.com/watch?v=JR-xjj83PrU",
+    "created_at": "2026-07-09T21:01:00+09:00",
+    "summary": "見たことないを、ワードを入口に、聞いたことのない言葉を、聞いたことがあるように受け止める一拍へ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "見たことない",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0023",
+    "title": "ナイトキャップ",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0023.html",
+    "youtube_url": "https://www.youtube.com/watch?v=jisMsr4t8Gw",
+    "created_at": "2026-07-09T21:02:00+09:00",
+    "summary": "ナイトキャップを、世界を入口に、聞いたことがある言葉が、どの瞬間に聞いたことのない方向へ曲がるかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "ナイトキャップ",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0024",
+    "title": "オンライン密室ゲーム",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0024.html",
+    "youtube_url": "https://www.youtube.com/watch?v=NnTZHYE5nBI",
+    "created_at": "2026-07-09T21:03:00+09:00",
+    "summary": "オンライン密室ゲームを、世界を入口に、専門用語の手前で、人物がどこまで分かった顔をしているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "オンライン密室ゲーム",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0025",
+    "title": "人形劇（氷室病院）",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0025.html",
+    "youtube_url": "https://www.youtube.com/watch?v=5HZ1-r7qWFM",
+    "created_at": "2026-07-09T21:04:00+09:00",
+    "summary": "人形劇（氷室病院）を、世界を入口に、非日常の設定を、人物がどのくらい当然のこととして受け止めているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "人形劇（氷室病院）",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0026",
+    "title": "CPfilm「カレー屋」",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0026.html",
+    "youtube_url": "https://www.youtube.com/watch?v=aVYQC9oDz88",
+    "created_at": "2026-07-09T21:05:00+09:00",
+    "summary": "CPfilm「カレー屋」を、世界を入口に、食べ物の名前が出たあと、会話の温度がどう変わるかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "CPfilm「カレー屋」",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0027",
+    "title": "CPfilm「業者」",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0027.html",
+    "youtube_url": "https://www.youtube.com/watch?v=YQfj8XzljCo",
+    "created_at": "2026-07-09T21:06:00+09:00",
+    "summary": "CPfilm「業者」を、間を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "CPfilm「業者」",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0028",
+    "title": "CPfilm「トレンド」",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0028.html",
+    "youtube_url": "https://www.youtube.com/watch?v=G7EiILRsNN8",
+    "created_at": "2026-07-09T21:07:00+09:00",
+    "summary": "CPfilm「トレンド」を、ワードを入口に、聞いたことがある言葉が、どの瞬間に聞いたことのない方向へ曲がるかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "CPfilm「トレンド」",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0029",
+    "title": "【実録！】引きこもらせ父と会社に行きたい息子",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0029.html",
+    "youtube_url": "https://www.youtube.com/watch?v=mTo0CHr7px4",
+    "created_at": "2026-07-09T21:08:00+09:00",
+    "summary": "【実録！】引きこもらせ父と会社に行きたい息子を、世界を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "【実録！】引きこもらせ父と会社に行きたい息子",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0030",
+    "title": "スペースジャスティスコント〜協力雇用主編〜",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0030.html",
+    "youtube_url": "https://www.youtube.com/watch?v=PxPhNtWfkgc",
+    "created_at": "2026-07-09T21:09:00+09:00",
+    "summary": "スペースジャスティスコント〜協力雇用主編〜を、世界を入口に、非日常の設定を、人物がどのくらい当然のこととして受け止めているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "スペースジャスティスコント〜協力雇用主編〜",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0031",
+    "title": "聞いたことない飲食店",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0031.html",
+    "youtube_url": "https://www.youtube.com/watch?v=H2Y5MMzSpuU",
+    "created_at": "2026-07-09T21:10:00+09:00",
+    "summary": "聞いたことない飲食店を、ワードを入口に、聞いたことのない言葉を、聞いたことがあるように受け止める一拍へ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "聞いたことない飲食店",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0032",
+    "title": "聞いたことないコンビニ ばかり紹介してくるやつ",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0032.html",
+    "youtube_url": "https://www.youtube.com/watch?v=EaGceEi4nZY",
+    "created_at": "2026-07-09T21:11:00+09:00",
+    "summary": "聞いたことないコンビニ ばかり紹介してくるやつを、ワードを入口に、聞いたことのない言葉を、聞いたことがあるように受け止める一拍へ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "聞いたことないコンビニ ばかり紹介してくるやつ",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0033",
+    "title": "聞いたことないアルバイト",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0033.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ZLUWs23sRkk",
+    "created_at": "2026-07-09T21:12:00+09:00",
+    "summary": "聞いたことないアルバイトを、ワードを入口に、聞いたことのない言葉を、聞いたことがあるように受け止める一拍へ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "聞いたことないアルバイト",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0034",
+    "title": "聞いたことない代行サービス",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0034.html",
+    "youtube_url": "https://www.youtube.com/watch?v=8U1wUirvT70",
+    "created_at": "2026-07-09T21:13:00+09:00",
+    "summary": "聞いたことない代行サービスを、ワードを入口に、聞いたことのない言葉を、聞いたことがあるように受け止める一拍へ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "聞いたことない代行サービス",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0035",
+    "title": "聞いたことないお茶",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0035.html",
+    "youtube_url": "https://www.youtube.com/watch?v=cfVTPwJahRI",
+    "created_at": "2026-07-09T21:14:00+09:00",
+    "summary": "聞いたことないお茶を、ワードを入口に、聞いたことのない言葉を、聞いたことがあるように受け止める一拍へ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "聞いたことないお茶",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0036",
+    "title": "聞いたことないあの食べ物の由来",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0036.html",
+    "youtube_url": "https://www.youtube.com/watch?v=uSNnRqlnFFs",
+    "created_at": "2026-07-09T21:15:00+09:00",
+    "summary": "聞いたことないあの食べ物の由来を、ワードを入口に、聞いたことのない言葉を、聞いたことがあるように受け止める一拍へ目を向けて楽しむチョコレートプラネットのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "ちょこれーとぷらねっと",
+      "聞いたことないあの食べ物の由来",
+      "チョコレートプラネット"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "non-style-0001",
+    "title": "チェリー",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0001.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ZBxqjsWWwfQ",
+    "created_at": "2026-07-09T21:20:00+09:00",
+    "summary": "チェリーを、間を入口に、言葉が出た直後にどの速さで返しが入り、客席の理解をどこまで待つかへ目を向けて楽しむNON STYLEの漫才。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "のんすたいる",
+      "チェリー",
+      "NON STYLE"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "間"
+    ]
+  },
+  {
+    "id": "non-style-0002",
+    "title": "MBGM",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0002.html",
+    "youtube_url": "https://www.youtube.com/watch?v=nr2_iKVCeEU",
+    "created_at": "2026-07-09T21:21:00+09:00",
+    "summary": "MBGMを、ワードを入口に、言葉が出た直後にどの速さで返しが入り、客席の理解をどこまで待つかへ目を向けて楽しむNON STYLEの漫才。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "のんすたいる",
+      "MBGM",
+      "NON STYLE"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "ワード"
+    ]
+  },
+  {
+    "id": "non-style-0003",
+    "title": "1000万円",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0003.html",
+    "youtube_url": "https://www.youtube.com/watch?v=EzIIEcNzggg",
+    "created_at": "2026-07-09T21:22:00+09:00",
+    "summary": "1000万円を、世界を入口に、数字が出たあと、相手の反応がどう現実へ戻すかへ目を向けて楽しむNON STYLEの漫才。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "のんすたいる",
+      "1000万円",
+      "NON STYLE"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "世界"
+    ]
+  },
+  {
+    "id": "non-style-0004",
+    "title": "指",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0004.html",
+    "youtube_url": "https://www.youtube.com/watch?v=FNg-uztQutA",
+    "created_at": "2026-07-09T21:23:00+09:00",
+    "summary": "指を、ワードを入口に、言葉が出た直後にどの速さで返しが入り、客席の理解をどこまで待つかへ目を向けて楽しむNON STYLEの漫才。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "のんすたいる",
+      "指",
+      "NON STYLE"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "ワード"
+    ]
+  },
+  {
+    "id": "non-style-0005",
+    "title": "張り込み",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0005.html",
+    "youtube_url": "https://www.youtube.com/watch?v=yXHdpggKefs",
+    "created_at": "2026-07-09T21:24:00+09:00",
+    "summary": "張り込みを、世界を入口に、重そうな言葉を、どの距離と表情で受け止めているかへ目を向けて楽しむNON STYLEの漫才。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "のんすたいる",
+      "張り込み",
+      "NON STYLE"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "世界"
+    ]
+  },
+  {
+    "id": "non-style-0006",
+    "title": "ぼくの金魚",
+    "performer": "NON STYLE",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0006.html",
+    "youtube_url": "https://www.youtube.com/watch?v=3KNpM1PMv2g",
+    "created_at": "2026-07-09T21:25:00+09:00",
+    "summary": "ぼくの金魚を、世界を入口に、やさしい題材を、どの言葉と間で笑いへ変えているかへ目を向けて楽しむNON STYLEのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "のんすたいる",
+      "ぼくの金魚",
+      "NON STYLE"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ]
+  },
+  {
+    "id": "non-style-0007",
+    "title": "うっとうしいな",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0007.html",
+    "youtube_url": "https://www.youtube.com/watch?v=32ExcwBd_CE",
+    "created_at": "2026-07-09T21:26:00+09:00",
+    "summary": "うっとうしいなを、間を入口に、受け止める側が、どこまで我慢してどこで返すかへ目を向けて楽しむNON STYLEの漫才。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "のんすたいる",
+      "うっとうしいな",
+      "NON STYLE"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "間"
+    ]
+  },
+  {
+    "id": "non-style-0008",
+    "title": "謝罪会見",
+    "performer": "NON STYLE",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0008.html",
+    "youtube_url": "https://www.youtube.com/watch?v=DaaV5xQhF8c",
+    "created_at": "2026-07-09T21:27:00+09:00",
+    "summary": "謝罪会見を、間を入口に、重そうな言葉を、どの距離と表情で受け止めているかへ目を向けて楽しむNON STYLEのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "のんすたいる",
+      "謝罪会見",
+      "NON STYLE"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ]
+  },
+  {
+    "id": "non-style-0009",
+    "title": "神降臨",
+    "performer": "NON STYLE",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0009.html",
+    "youtube_url": "https://www.youtube.com/watch?v=I8uJ_fA_FWM",
+    "created_at": "2026-07-09T21:28:00+09:00",
+    "summary": "神降臨を、ワードを入口に、一人の中で、人物や場面の温度がどの瞬間に切り替わるかへ目を向けて楽しむNON STYLEのコント。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "のんすたいる",
+      "神降臨",
+      "NON STYLE"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ]
+  },
+  {
+    "id": "reiwa-roman-0001",
+    "title": "タイムスリップ",
+    "performer": "令和ロマン",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0001.html",
+    "youtube_url": "https://www.youtube.com/watch?v=GNt7dOc_u6U",
+    "created_at": "2026-07-09T21:20:00+09:00",
+    "summary": "タイムスリップを、世界を入口に、設定が動いた瞬間に、相手がどの速さで受け止め、どの言葉で現実へ戻すかへ目を向けて楽しむ令和ロマンの漫才。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "れいわろまん",
+      "タイムスリップ",
+      "令和ロマン"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "世界"
+    ]
+  },
+  {
+    "id": "reiwa-roman-0002",
+    "title": "名字",
+    "performer": "令和ロマン",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0002.html",
+    "youtube_url": "https://www.youtube.com/watch?v=r2lOuUYATYA",
+    "created_at": "2026-07-09T21:21:00+09:00",
+    "summary": "名字を、ワードを入口に、身近な言葉が、どの順番で別の意味や違和感を持ち始めるかへ目を向けて楽しむ令和ロマンの漫才。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "れいわろまん",
+      "名字",
+      "令和ロマン"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "ワード"
+    ]
+  },
+  {
+    "id": "reiwa-roman-0003",
+    "title": "実家",
+    "performer": "令和ロマン",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0003.html",
+    "youtube_url": "https://www.youtube.com/watch?v=gVIlbV349B8",
+    "created_at": "2026-07-09T21:22:00+09:00",
+    "summary": "実家を、世界を入口に、身近な場所の安心感が、どの言葉で少しだけ違和感へ変わるかへ目を向けて楽しむ令和ロマンの漫才。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "れいわろまん",
+      "実家",
+      "令和ロマン"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "世界"
+    ]
+  },
+  {
+    "id": "reiwa-roman-0004",
+    "title": "猫の島",
+    "performer": "令和ロマン",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0004.html",
+    "youtube_url": "https://www.youtube.com/watch?v=xPC0xE-Avo4",
+    "created_at": "2026-07-09T21:23:00+09:00",
+    "summary": "猫の島を、世界を入口に、場所のイメージが膨らんだあと、相手がどこで現実的な反応を入れるかへ目を向けて楽しむ令和ロマンの漫才。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "れいわろまん",
+      "猫の島",
+      "令和ロマン"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "世界"
+    ]
+  },
+  {
+    "id": "reiwa-roman-0005",
+    "title": "トイストーリー",
+    "performer": "令和ロマン",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0005.html",
+    "youtube_url": "https://www.youtube.com/watch?v=wNu1Nai8JBk",
+    "created_at": "2026-07-09T21:24:00+09:00",
+    "summary": "トイストーリーを、ワードを入口に、共有されたイメージを、どの言葉で会話の笑いへ変えるかへ目を向けて楽しむ令和ロマンの漫才。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    },
+    "kana": [
+      "れいわろまん",
+      "トイストーリー",
+      "令和ロマン"
+    ],
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "ワード"
+    ]
+  },
+  {
+    "id": "reiwa-roman-0006",
+    "title": "町工場",
+    "performer": "令和ロマン",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0006.html",
+    "youtube_url": "https://www.youtube.com/watch?v=-rMr9YYw6e8",
+    "created_at": "2026-07-09T21:25:00+09:00",
+    "summary": "町工場を、世界を入口に、まじめな場所の言葉が、どの間で会話の面白さへ変わるかへ目を向けて楽しむ令和ロマンの漫才。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    },
+    "kana": [
+      "れいわろまん",
+      "町工場",
+      "令和ロマン"
+    ],
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "世界"
+    ]
+  },
+  {
+    "id": "reiwa-roman-0007",
+    "title": "100m走",
+    "performer": "令和ロマン",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0007.html",
+    "youtube_url": "https://www.youtube.com/watch?v=xTEco_f197w",
+    "created_at": "2026-07-09T21:26:00+09:00",
+    "summary": "100m走を、間を入口に、速さの題材を、どの呼吸と返しで漫才のテンポへ変えるかへ目を向けて楽しむ令和ロマンの漫才。",
+    "featured_order": 9999,
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    },
+    "kana": [
+      "れいわろまん",
+      "100m走",
+      "令和ロマン"
+    ],
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "間"
+    ]
   }
 ]

@@ -28,5 +28,35 @@
     "name": "シソンヌ",
     "kana": "しそんぬ",
     "type": "コンビ"
+  },
+  {
+    "id": "saraba-seishun-no-hikari",
+    "name": "さらば青春の光",
+    "kana": "さらばせいしゅんのひかり",
+    "type": "コンビ"
+  },
+  {
+    "id": "lotti",
+    "name": "ロッチ",
+    "kana": "ろっち",
+    "type": "コンビ"
+  },
+  {
+    "id": "chocolate-planet",
+    "name": "チョコレートプラネット",
+    "kana": "ちょこれーとぷらねっと",
+    "type": "コンビ"
+  },
+  {
+    "id": "non-style",
+    "name": "NON STYLE",
+    "kana": "のんすたいる",
+    "type": "コンビ"
+  },
+  {
+    "id": "reiwa-roman",
+    "name": "令和ロマン",
+    "kana": "れいわろまん",
+    "type": "コンビ"
   }
 ]

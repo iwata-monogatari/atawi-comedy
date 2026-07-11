@@ -1,5 +1,983 @@
 [
   {
+    "date": "2026-07-09",
+    "items": [
+      {
+        "video_id": "saraba-seishun-no-hikari-0001",
+        "title": "伝えたいことがあるんだ",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=H-O8_fuN5m0",
+        "article_url": "/articles/saraba-seishun-no-hikari-0001.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0002",
+        "title": "命の授業",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=2esiker973U",
+        "article_url": "/articles/saraba-seishun-no-hikari-0002.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0003",
+        "title": "ゴッドハンド",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=Hzo0N18E-gk",
+        "article_url": "/articles/saraba-seishun-no-hikari-0003.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0004",
+        "title": "若菜まもる",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=XC24NayGhiE",
+        "article_url": "/articles/saraba-seishun-no-hikari-0004.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0005",
+        "title": "本番いきます！",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=1vbV6E5_Tfs",
+        "article_url": "/articles/saraba-seishun-no-hikari-0005.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0006",
+        "title": "オレオレ",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=2U2VPa0y18Y",
+        "article_url": "/articles/saraba-seishun-no-hikari-0006.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0007",
+        "title": "◯◯ビジネス",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=HbfQQIHc2K8",
+        "article_url": "/articles/saraba-seishun-no-hikari-0007.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0008",
+        "title": "パリヴィ",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=o4L2NDm7srU",
+        "article_url": "/articles/saraba-seishun-no-hikari-0008.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0009",
+        "title": "すご六",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=a2wjwB8yAoQ",
+        "article_url": "/articles/saraba-seishun-no-hikari-0009.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0010",
+        "title": "野球人生",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=r_2UPTUIaAw",
+        "article_url": "/articles/saraba-seishun-no-hikari-0010.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0011",
+        "title": "吹奏楽部",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=wf_nNMhQo_M",
+        "article_url": "/articles/saraba-seishun-no-hikari-0011.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0012",
+        "title": "動くな！JASRACだ！",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=yea0Y9i2N1A",
+        "article_url": "/articles/saraba-seishun-no-hikari-0012.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0013",
+        "title": "島",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=z4J7eQqWDwI",
+        "article_url": "/articles/saraba-seishun-no-hikari-0013.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0014",
+        "title": "パンのむらた",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=5mz5FKabGSc",
+        "article_url": "/articles/saraba-seishun-no-hikari-0014.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0015",
+        "title": "終電逃させ屋",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=3KtoWSBE70o",
+        "article_url": "/articles/saraba-seishun-no-hikari-0015.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0016",
+        "title": "サラリーマン川柳",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=TeUXnV6eGIg",
+        "article_url": "/articles/saraba-seishun-no-hikari-0016.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0017",
+        "title": "ZZZ",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=jDO9OtgGmM4",
+        "article_url": "/articles/saraba-seishun-no-hikari-0017.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0018",
+        "title": "調教師コメント",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=q20vPobFXkY",
+        "article_url": "/articles/saraba-seishun-no-hikari-0018.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0019",
+        "title": "はいります！",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=npuWTuj1NBw",
+        "article_url": "/articles/saraba-seishun-no-hikari-0019.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0020",
+        "title": "ペンション殺人事件",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=QnI8slS1TA4",
+        "article_url": "/articles/saraba-seishun-no-hikari-0020.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0021",
+        "title": "ヒーロー",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=ENT4eNZlGrA",
+        "article_url": "/articles/saraba-seishun-no-hikari-0021.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0022",
+        "title": "更生",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=2guw6B7VAtU",
+        "article_url": "/articles/saraba-seishun-no-hikari-0022.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0023",
+        "title": "依存症",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=rDbxhVquLsc",
+        "article_url": "/articles/saraba-seishun-no-hikari-0023.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0024",
+        "title": "後継者",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=FCxYx-KNEB8",
+        "article_url": "/articles/saraba-seishun-no-hikari-0024.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0025",
+        "title": "鬼食育",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=u7F3Q9WW6RA",
+        "article_url": "/articles/saraba-seishun-no-hikari-0025.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0026",
+        "title": "おっさん",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=LH8bMU_PHa0",
+        "article_url": "/articles/saraba-seishun-no-hikari-0026.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0027",
+        "title": "AV",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=Zs71nTR-U1I",
+        "article_url": "/articles/saraba-seishun-no-hikari-0027.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0028",
+        "title": "役者",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=Qe1_2FJbcGs",
+        "article_url": "/articles/saraba-seishun-no-hikari-0028.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0029",
+        "title": "芸術家",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=SeyNWuw-uKY",
+        "article_url": "/articles/saraba-seishun-no-hikari-0029.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0030",
+        "title": "催眠術",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=ArUCiHBpmLA",
+        "article_url": "/articles/saraba-seishun-no-hikari-0030.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0031",
+        "title": "葬式",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=LSvP8x_Bypk",
+        "article_url": "/articles/saraba-seishun-no-hikari-0031.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0032",
+        "title": "ファンタジー",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=mdfo1ea3pyI",
+        "article_url": "/articles/saraba-seishun-no-hikari-0032.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0033",
+        "title": "タイ料理屋",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=H97KRVJuSzo",
+        "article_url": "/articles/saraba-seishun-no-hikari-0033.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0034",
+        "title": "小豆島少年野球団",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=Rqp-VfvSc64",
+        "article_url": "/articles/saraba-seishun-no-hikari-0034.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0035",
+        "title": "Farewell Ceremony／お別れ会系",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=--nKbARQULQ",
+        "article_url": "/articles/saraba-seishun-no-hikari-0035.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0036",
+        "title": "いじめ",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=TzWgFmGJ6Z0",
+        "article_url": "/articles/saraba-seishun-no-hikari-0036.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0037",
+        "title": "カラオケ",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=-lvLZvT8OrM",
+        "article_url": "/articles/saraba-seishun-no-hikari-0037.html"
+      },
+      {
+        "video_id": "saraba-seishun-no-hikari-0038",
+        "title": "臓器売買",
+        "performer": "さらば青春の光",
+        "youtube_url": "https://www.youtube.com/watch?v=x8J_eTmIa5E",
+        "article_url": "/articles/saraba-seishun-no-hikari-0038.html"
+      },
+      {
+        "video_id": "lotti-0001",
+        "title": "プリティプリ山",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=uFE9EqtdfFs",
+        "article_url": "/articles/lotti-0001.html"
+      },
+      {
+        "video_id": "lotti-0002",
+        "title": "ホームラン",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=LmdL2pnWKBQ",
+        "article_url": "/articles/lotti-0002.html"
+      },
+      {
+        "video_id": "lotti-0003",
+        "title": "サクラ",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=trzRTRqTK9s",
+        "article_url": "/articles/lotti-0003.html"
+      },
+      {
+        "video_id": "lotti-0004",
+        "title": "音楽の道",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=INcGogtSMi4",
+        "article_url": "/articles/lotti-0004.html"
+      },
+      {
+        "video_id": "lotti-0005",
+        "title": "大声コンテスト",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=lPZGoV6pL_U",
+        "article_url": "/articles/lotti-0005.html"
+      },
+      {
+        "video_id": "lotti-0006",
+        "title": "オヤクソク",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=FiO6OwknAOo",
+        "article_url": "/articles/lotti-0006.html"
+      },
+      {
+        "video_id": "lotti-0007",
+        "title": "エマージェンシーコール",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=3JQLdmjB54k",
+        "article_url": "/articles/lotti-0007.html"
+      },
+      {
+        "video_id": "lotti-0008",
+        "title": "言わんといて",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=C4pdfYIdVdw",
+        "article_url": "/articles/lotti-0008.html"
+      },
+      {
+        "video_id": "lotti-0009",
+        "title": "試着室2020",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=Ezbq6sBFJfM",
+        "article_url": "/articles/lotti-0009.html"
+      },
+      {
+        "video_id": "lotti-0010",
+        "title": "にぎりっぺ",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=9Noz-ohU4Dc",
+        "article_url": "/articles/lotti-0010.html"
+      },
+      {
+        "video_id": "lotti-0011",
+        "title": "未来より",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=18HV9HBudJw",
+        "article_url": "/articles/lotti-0011.html"
+      },
+      {
+        "video_id": "lotti-0012",
+        "title": "ガッツポーズ",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=IBUkEVqxvWs",
+        "article_url": "/articles/lotti-0012.html"
+      },
+      {
+        "video_id": "lotti-0013",
+        "title": "お花畑",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=2hJaW_FozRQ",
+        "article_url": "/articles/lotti-0013.html"
+      },
+      {
+        "video_id": "lotti-0014",
+        "title": "のれんわけ",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=DbK-R2nL9-s",
+        "article_url": "/articles/lotti-0014.html"
+      },
+      {
+        "video_id": "lotti-0015",
+        "title": "ラーメンの狼",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=ZEwHZgc6IIY",
+        "article_url": "/articles/lotti-0015.html"
+      },
+      {
+        "video_id": "lotti-0016",
+        "title": "本気カルSHOW1",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=UqGLB8ZA39E",
+        "article_url": "/articles/lotti-0016.html"
+      },
+      {
+        "video_id": "lotti-0017",
+        "title": "タイトルマッチ",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=40rf9N_8TbE",
+        "article_url": "/articles/lotti-0017.html"
+      },
+      {
+        "video_id": "lotti-0018",
+        "title": "やめます",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=q0xwyp1JBig",
+        "article_url": "/articles/lotti-0018.html"
+      },
+      {
+        "video_id": "lotti-0019",
+        "title": "電話で",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=XiJF71ytfPE",
+        "article_url": "/articles/lotti-0019.html"
+      },
+      {
+        "video_id": "lotti-0020",
+        "title": "やってまうヤツ",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=nFOFCZSqkSU",
+        "article_url": "/articles/lotti-0020.html"
+      },
+      {
+        "video_id": "lotti-0021",
+        "title": "転校生",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=yFlswRjxSAU",
+        "article_url": "/articles/lotti-0021.html"
+      },
+      {
+        "video_id": "lotti-0022",
+        "title": "0281",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=w4qJj8Uqw44",
+        "article_url": "/articles/lotti-0022.html"
+      },
+      {
+        "video_id": "lotti-0023",
+        "title": "間",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=DXSY_HHKE-Q",
+        "article_url": "/articles/lotti-0023.html"
+      },
+      {
+        "video_id": "lotti-0024",
+        "title": "チャンピオン",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=KV2J9JaCCfs",
+        "article_url": "/articles/lotti-0024.html"
+      },
+      {
+        "video_id": "lotti-0025",
+        "title": "砂漠",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=rbKl2_uZ2Us",
+        "article_url": "/articles/lotti-0025.html"
+      },
+      {
+        "video_id": "lotti-0026",
+        "title": "ユーモアスクール",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=ofyplzdw8iU",
+        "article_url": "/articles/lotti-0026.html"
+      },
+      {
+        "video_id": "lotti-0027",
+        "title": "ボウズ",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=u2shZvwYBrA",
+        "article_url": "/articles/lotti-0027.html"
+      },
+      {
+        "video_id": "lotti-0028",
+        "title": "大雨",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=MO0F-orlneU",
+        "article_url": "/articles/lotti-0028.html"
+      },
+      {
+        "video_id": "lotti-0029",
+        "title": "除霊",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=X3SFD4OdQro",
+        "article_url": "/articles/lotti-0029.html"
+      },
+      {
+        "video_id": "lotti-0030",
+        "title": "あだ名",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=MxLKaAKUon0",
+        "article_url": "/articles/lotti-0030.html"
+      },
+      {
+        "video_id": "lotti-0031",
+        "title": "マリッジオーシャンブルー",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=5mNxHYKcfMs",
+        "article_url": "/articles/lotti-0031.html"
+      },
+      {
+        "video_id": "lotti-0032",
+        "title": "目撃者ムラサワ",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=l-wVReaDj34",
+        "article_url": "/articles/lotti-0032.html"
+      },
+      {
+        "video_id": "lotti-0033",
+        "title": "娘さんをください",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=-Dl1lcuVuoA",
+        "article_url": "/articles/lotti-0033.html"
+      },
+      {
+        "video_id": "lotti-0034",
+        "title": "十文字アキラ（不動産編）",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=jCt5BRUbEAM",
+        "article_url": "/articles/lotti-0034.html"
+      },
+      {
+        "video_id": "lotti-0035",
+        "title": "XPhone5",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=PUnWaAI28bY",
+        "article_url": "/articles/lotti-0035.html"
+      },
+      {
+        "video_id": "lotti-0036",
+        "title": "カツ丼",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=dCZs4_O-nAo",
+        "article_url": "/articles/lotti-0036.html"
+      },
+      {
+        "video_id": "lotti-0037",
+        "title": "試着室",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=eCbYGWrHAdY",
+        "article_url": "/articles/lotti-0037.html"
+      },
+      {
+        "video_id": "lotti-0038",
+        "title": "乳首川という男",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=45P-A3v967o",
+        "article_url": "/articles/lotti-0038.html"
+      },
+      {
+        "video_id": "lotti-0039",
+        "title": "おつとめご苦労さまです",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=zfDSFiNkCx0",
+        "article_url": "/articles/lotti-0039.html"
+      },
+      {
+        "video_id": "lotti-0040",
+        "title": "プラマイゼロ",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=lpM7obBPmZU",
+        "article_url": "/articles/lotti-0040.html"
+      },
+      {
+        "video_id": "lotti-0041",
+        "title": "wi-fi",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=jUjmrw6R4Ac",
+        "article_url": "/articles/lotti-0041.html"
+      },
+      {
+        "video_id": "lotti-0042",
+        "title": "巨乳かメガネか",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=_dXCQJZ3lp4",
+        "article_url": "/articles/lotti-0042.html"
+      },
+      {
+        "video_id": "lotti-0043",
+        "title": "コマ名人 大小嶋",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=sDNtk2Etcws",
+        "article_url": "/articles/lotti-0043.html"
+      },
+      {
+        "video_id": "lotti-0044",
+        "title": "福引",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=gJ9JFRkIIlg",
+        "article_url": "/articles/lotti-0044.html"
+      },
+      {
+        "video_id": "lotti-0045",
+        "title": "誰やったっけ？",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=BFaOL2DeaZ0",
+        "article_url": "/articles/lotti-0045.html"
+      },
+      {
+        "video_id": "lotti-0046",
+        "title": "中ノ森先生",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=aXd52aln8fM",
+        "article_url": "/articles/lotti-0046.html"
+      },
+      {
+        "video_id": "lotti-0047",
+        "title": "猿渡",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=GpLNOjZYl7c",
+        "article_url": "/articles/lotti-0047.html"
+      },
+      {
+        "video_id": "lotti-0048",
+        "title": "自転車日本一周少年",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=2EX_Cn2_OTc",
+        "article_url": "/articles/lotti-0048.html"
+      },
+      {
+        "video_id": "lotti-0049",
+        "title": "ネパールのチェーン",
+        "performer": "ロッチ",
+        "youtube_url": "https://www.youtube.com/watch?v=AS7PZysK_2s",
+        "article_url": "/articles/lotti-0049.html"
+      },
+      {
+        "video_id": "chocolate-planet-0001",
+        "title": "親父が",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=fqLDLfn-DyM",
+        "article_url": "/articles/chocolate-planet-0001.html"
+      },
+      {
+        "video_id": "chocolate-planet-0002",
+        "title": "クイズショー",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=m50H_0B78aQ",
+        "article_url": "/articles/chocolate-planet-0002.html"
+      },
+      {
+        "video_id": "chocolate-planet-0003",
+        "title": "GReeeeN",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=mHaIdBaInz0",
+        "article_url": "/articles/chocolate-planet-0003.html"
+      },
+      {
+        "video_id": "chocolate-planet-0004",
+        "title": "足踏まれ小僧",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=wiQyEH1hlZ0",
+        "article_url": "/articles/chocolate-planet-0004.html"
+      },
+      {
+        "video_id": "chocolate-planet-0005",
+        "title": "ゾンビ",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=4kmC6CCN0xU",
+        "article_url": "/articles/chocolate-planet-0005.html"
+      },
+      {
+        "video_id": "chocolate-planet-0006",
+        "title": "ナイフ",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=V-8S1f6dN3s",
+        "article_url": "/articles/chocolate-planet-0006.html"
+      },
+      {
+        "video_id": "chocolate-planet-0007",
+        "title": "パンダ",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=Ufy9lFm1SoI",
+        "article_url": "/articles/chocolate-planet-0007.html"
+      },
+      {
+        "video_id": "chocolate-planet-0008",
+        "title": "合わない刑事",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=aMPbD9y51Wo",
+        "article_url": "/articles/chocolate-planet-0008.html"
+      },
+      {
+        "video_id": "chocolate-planet-0009",
+        "title": "静かにしろ",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=_YbIlhLOnzA",
+        "article_url": "/articles/chocolate-planet-0009.html"
+      },
+      {
+        "video_id": "chocolate-planet-0010",
+        "title": "地元",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=eOMFMkilt2o",
+        "article_url": "/articles/chocolate-planet-0010.html"
+      },
+      {
+        "video_id": "chocolate-planet-0011",
+        "title": "拷問",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=Z5H8qoVScWw",
+        "article_url": "/articles/chocolate-planet-0011.html"
+      },
+      {
+        "video_id": "chocolate-planet-0012",
+        "title": "カラオケ",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=QaWH4v2NEXw",
+        "article_url": "/articles/chocolate-planet-0012.html"
+      },
+      {
+        "video_id": "chocolate-planet-0013",
+        "title": "業者",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=UydyLvybRlU",
+        "article_url": "/articles/chocolate-planet-0013.html"
+      },
+      {
+        "video_id": "chocolate-planet-0014",
+        "title": "くそなんでやねん！",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=NDQqi1OK8k8",
+        "article_url": "/articles/chocolate-planet-0014.html"
+      },
+      {
+        "video_id": "chocolate-planet-0015",
+        "title": "ローマ",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=KDI4FZ_CHiw",
+        "article_url": "/articles/chocolate-planet-0015.html"
+      },
+      {
+        "video_id": "chocolate-planet-0016",
+        "title": "鶴の恩返し",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=o_sokscmfKA",
+        "article_url": "/articles/chocolate-planet-0016.html"
+      },
+      {
+        "video_id": "chocolate-planet-0017",
+        "title": "メンタリスト",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=cQbz9-t_gGY",
+        "article_url": "/articles/chocolate-planet-0017.html"
+      },
+      {
+        "video_id": "chocolate-planet-0018",
+        "title": "電子マネー決済",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=yGFsJId5euM",
+        "article_url": "/articles/chocolate-planet-0018.html"
+      },
+      {
+        "video_id": "chocolate-planet-0019",
+        "title": "壁",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=dCadnb1vnw8",
+        "article_url": "/articles/chocolate-planet-0019.html"
+      },
+      {
+        "video_id": "chocolate-planet-0020",
+        "title": "天使",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=o_qgYQbzdm8",
+        "article_url": "/articles/chocolate-planet-0020.html"
+      },
+      {
+        "video_id": "chocolate-planet-0021",
+        "title": "トレンド",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=S15kPS46s1M",
+        "article_url": "/articles/chocolate-planet-0021.html"
+      },
+      {
+        "video_id": "chocolate-planet-0022",
+        "title": "見たことない",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=JR-xjj83PrU",
+        "article_url": "/articles/chocolate-planet-0022.html"
+      },
+      {
+        "video_id": "chocolate-planet-0023",
+        "title": "ナイトキャップ",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=jisMsr4t8Gw",
+        "article_url": "/articles/chocolate-planet-0023.html"
+      },
+      {
+        "video_id": "chocolate-planet-0024",
+        "title": "オンライン密室ゲーム",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=NnTZHYE5nBI",
+        "article_url": "/articles/chocolate-planet-0024.html"
+      },
+      {
+        "video_id": "chocolate-planet-0025",
+        "title": "人形劇（氷室病院）",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=5HZ1-r7qWFM",
+        "article_url": "/articles/chocolate-planet-0025.html"
+      },
+      {
+        "video_id": "chocolate-planet-0026",
+        "title": "CPfilm「カレー屋」",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=aVYQC9oDz88",
+        "article_url": "/articles/chocolate-planet-0026.html"
+      },
+      {
+        "video_id": "chocolate-planet-0027",
+        "title": "CPfilm「業者」",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=YQfj8XzljCo",
+        "article_url": "/articles/chocolate-planet-0027.html"
+      },
+      {
+        "video_id": "chocolate-planet-0028",
+        "title": "CPfilm「トレンド」",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=G7EiILRsNN8",
+        "article_url": "/articles/chocolate-planet-0028.html"
+      },
+      {
+        "video_id": "chocolate-planet-0029",
+        "title": "【実録！】引きこもらせ父と会社に行きたい息子",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=mTo0CHr7px4",
+        "article_url": "/articles/chocolate-planet-0029.html"
+      },
+      {
+        "video_id": "chocolate-planet-0030",
+        "title": "スペースジャスティスコント〜協力雇用主編〜",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=PxPhNtWfkgc",
+        "article_url": "/articles/chocolate-planet-0030.html"
+      },
+      {
+        "video_id": "chocolate-planet-0031",
+        "title": "聞いたことない飲食店",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=H2Y5MMzSpuU",
+        "article_url": "/articles/chocolate-planet-0031.html"
+      },
+      {
+        "video_id": "chocolate-planet-0032",
+        "title": "聞いたことないコンビニ ばかり紹介してくるやつ",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=EaGceEi4nZY",
+        "article_url": "/articles/chocolate-planet-0032.html"
+      },
+      {
+        "video_id": "chocolate-planet-0033",
+        "title": "聞いたことないアルバイト",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=ZLUWs23sRkk",
+        "article_url": "/articles/chocolate-planet-0033.html"
+      },
+      {
+        "video_id": "chocolate-planet-0034",
+        "title": "聞いたことない代行サービス",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=8U1wUirvT70",
+        "article_url": "/articles/chocolate-planet-0034.html"
+      },
+      {
+        "video_id": "chocolate-planet-0035",
+        "title": "聞いたことないお茶",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=cfVTPwJahRI",
+        "article_url": "/articles/chocolate-planet-0035.html"
+      },
+      {
+        "video_id": "chocolate-planet-0036",
+        "title": "聞いたことないあの食べ物の由来",
+        "performer": "チョコレートプラネット",
+        "youtube_url": "https://www.youtube.com/watch?v=uSNnRqlnFFs",
+        "article_url": "/articles/chocolate-planet-0036.html"
+      },
+      {
+        "video_id": "non-style-0001",
+        "title": "チェリー",
+        "performer": "NON STYLE",
+        "youtube_url": "https://www.youtube.com/watch?v=ZBxqjsWWwfQ",
+        "article_url": "/articles/non-style-0001.html"
+      },
+      {
+        "video_id": "non-style-0002",
+        "title": "MBGM",
+        "performer": "NON STYLE",
+        "youtube_url": "https://www.youtube.com/watch?v=nr2_iKVCeEU",
+        "article_url": "/articles/non-style-0002.html"
+      },
+      {
+        "video_id": "non-style-0003",
+        "title": "1000万円",
+        "performer": "NON STYLE",
+        "youtube_url": "https://www.youtube.com/watch?v=EzIIEcNzggg",
+        "article_url": "/articles/non-style-0003.html"
+      },
+      {
+        "video_id": "non-style-0004",
+        "title": "指",
+        "performer": "NON STYLE",
+        "youtube_url": "https://www.youtube.com/watch?v=FNg-uztQutA",
+        "article_url": "/articles/non-style-0004.html"
+      },
+      {
+        "video_id": "non-style-0005",
+        "title": "張り込み",
+        "performer": "NON STYLE",
+        "youtube_url": "https://www.youtube.com/watch?v=yXHdpggKefs",
+        "article_url": "/articles/non-style-0005.html"
+      },
+      {
+        "video_id": "non-style-0006",
+        "title": "ぼくの金魚",
+        "performer": "NON STYLE",
+        "youtube_url": "https://www.youtube.com/watch?v=3KNpM1PMv2g",
+        "article_url": "/articles/non-style-0006.html"
+      },
+      {
+        "video_id": "non-style-0007",
+        "title": "うっとうしいな",
+        "performer": "NON STYLE",
+        "youtube_url": "https://www.youtube.com/watch?v=32ExcwBd_CE",
+        "article_url": "/articles/non-style-0007.html"
+      },
+      {
+        "video_id": "non-style-0008",
+        "title": "謝罪会見",
+        "performer": "NON STYLE",
+        "youtube_url": "https://www.youtube.com/watch?v=DaaV5xQhF8c",
+        "article_url": "/articles/non-style-0008.html"
+      },
+      {
+        "video_id": "non-style-0009",
+        "title": "神降臨",
+        "performer": "NON STYLE",
+        "youtube_url": "https://www.youtube.com/watch?v=I8uJ_fA_FWM",
+        "article_url": "/articles/non-style-0009.html"
+      },
+      {
+        "video_id": "reiwa-roman-0001",
+        "title": "タイムスリップ",
+        "performer": "令和ロマン",
+        "youtube_url": "https://www.youtube.com/watch?v=GNt7dOc_u6U",
+        "article_url": "/articles/reiwa-roman-0001.html"
+      },
+      {
+        "video_id": "reiwa-roman-0002",
+        "title": "名字",
+        "performer": "令和ロマン",
+        "youtube_url": "https://www.youtube.com/watch?v=r2lOuUYATYA",
+        "article_url": "/articles/reiwa-roman-0002.html"
+      },
+      {
+        "video_id": "reiwa-roman-0003",
+        "title": "実家",
+        "performer": "令和ロマン",
+        "youtube_url": "https://www.youtube.com/watch?v=gVIlbV349B8",
+        "article_url": "/articles/reiwa-roman-0003.html"
+      },
+      {
+        "video_id": "reiwa-roman-0004",
+        "title": "猫の島",
+        "performer": "令和ロマン",
+        "youtube_url": "https://www.youtube.com/watch?v=xPC0xE-Avo4",
+        "article_url": "/articles/reiwa-roman-0004.html"
+      },
+      {
+        "video_id": "reiwa-roman-0005",
+        "title": "トイストーリー",
+        "performer": "令和ロマン",
+        "youtube_url": "https://www.youtube.com/watch?v=wNu1Nai8JBk",
+        "article_url": "/articles/reiwa-roman-0005.html"
+      },
+      {
+        "video_id": "reiwa-roman-0006",
+        "title": "町工場",
+        "performer": "令和ロマン",
+        "youtube_url": "https://www.youtube.com/watch?v=-rMr9YYw6e8",
+        "article_url": "/articles/reiwa-roman-0006.html"
+      },
+      {
+        "video_id": "reiwa-roman-0007",
+        "title": "100m走",
+        "performer": "令和ロマン",
+        "youtube_url": "https://www.youtube.com/watch?v=xTEco_f197w",
+        "article_url": "/articles/reiwa-roman-0007.html"
+      }
+    ]
+  },
+  {
     "date": "2026-07-08",
     "items": [
       {

@@ -6927,5 +6927,5434 @@
       "word": 3,
       "selection": "ma"
     }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0001",
+    "title": "伝えたいことがあるんだ",
+    "source_title": "【コント】さらば青春の光「伝えたいことがあるんだ」 / 単独公演『八百長』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0001.html",
+    "youtube_url": "https://www.youtube.com/watch?v=H-O8_fuN5m0",
+    "youtube_video_id": "H-O8_fuN5m0",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:40:00+09:00",
+    "summary": "伝えたいことを抱えた人物の温度差から、会話の距離と空気が少しずつ見えてくるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/H-O8_fuN5m0/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0002",
+    "title": "命の授業",
+    "source_title": "【コント】 さらば青春の光『命の授業』",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0002.html",
+    "youtube_url": "https://www.youtube.com/watch?v=2esiker973U",
+    "youtube_video_id": "2esiker973U",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:41:00+09:00",
+    "summary": "授業のまじめさを入口に、言葉を受け取る側の戸惑いまで含めて世界を立ち上げる一本。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/2esiker973U/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "学校"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0003",
+    "title": "ゴッドハンド",
+    "source_title": "【コント】　さらば青春の光『ゴッドハンド』",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2025,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0003.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Hzo0N18E-gk",
+    "youtube_video_id": "Hzo0N18E-gk",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:42:00+09:00",
+    "summary": "強い響きの言葉をきっかけに、期待と疑いが会話の中で揺れていくコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/Hzo0N18E-gk/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0004",
+    "title": "若菜まもる",
+    "source_title": "【コント】　さらば青春の光『若菜まもる』",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2025,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0004.html",
+    "youtube_url": "https://www.youtube.com/watch?v=XC24NayGhiE",
+    "youtube_video_id": "XC24NayGhiE",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:43:00+09:00",
+    "summary": "名前の持つ気配を入口に、人物像と周囲の反応がゆっくり輪郭を帯びるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/XC24NayGhiE/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0005",
+    "title": "本番いきます！",
+    "source_title": "【コント】さらば青春の光「本番いきます！」 / 単独公演『ラッキー７』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2024,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0005.html",
+    "youtube_url": "https://www.youtube.com/watch?v=1vbV6E5_Tfs",
+    "youtube_video_id": "1vbV6E5_Tfs",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:44:00+09:00",
+    "summary": "合図ひとつで空気が切り替わる瞬間を、間の置き方で楽しませるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/1vbV6E5_Tfs/hqdefault.jpg",
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間",
+      "仕事"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0006",
+    "title": "オレオレ",
+    "source_title": "【コント】　さらば青春の光「オレオレ」",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2025,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0006.html",
+    "youtube_url": "https://www.youtube.com/watch?v=2U2VPa0y18Y",
+    "youtube_video_id": "2U2VPa0y18Y",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:45:00+09:00",
+    "summary": "聞き覚えのある言葉を入口に、確認の仕方と会話のずれが残る一本。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/2U2VPa0y18Y/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0007",
+    "title": "◯◯ビジネス",
+    "source_title": "【コント】　さらば青春の光「◯◯ビジネス」",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2025,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0007.html",
+    "youtube_url": "https://www.youtube.com/watch?v=HbfQQIHc2K8",
+    "youtube_video_id": "HbfQQIHc2K8",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:46:00+09:00",
+    "summary": "ビジネスらしい言い回しが、会話の中で少しずつ別の表情を見せるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/HbfQQIHc2K8/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "仕事"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0008",
+    "title": "パリヴィ",
+    "source_title": "【コント】さらば青春の光「パリヴィ」 / 単独公演『すご六』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2024,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0008.html",
+    "youtube_url": "https://www.youtube.com/watch?v=o4L2NDm7srU",
+    "youtube_video_id": "o4L2NDm7srU",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:47:00+09:00",
+    "summary": "一度聞くと気になる響きを軸に、言葉の温度で場面を動かしていくコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/o4L2NDm7srU/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0009",
+    "title": "すご六",
+    "source_title": "【コント】さらば青春の光「すご六」 / 単独公演『すご六』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2024,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0009.html",
+    "youtube_url": "https://www.youtube.com/watch?v=a2wjwB8yAoQ",
+    "youtube_video_id": "a2wjwB8yAoQ",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:48:00+09:00",
+    "summary": "ルールのある遊びを入口に、人の性格や関係がにじむ世界を味わえるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/a2wjwB8yAoQ/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0010",
+    "title": "野球人生",
+    "source_title": "【コント】さらば青春の光「野球人生」 / 単独公演『すご六』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0010.html",
+    "youtube_url": "https://www.youtube.com/watch?v=r_2UPTUIaAw",
+    "youtube_video_id": "r_2UPTUIaAw",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:49:00+09:00",
+    "summary": "野球の言葉と人生の見え方が重なり、人物の語り口がじわじわ残る一本。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/r_2UPTUIaAw/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0011",
+    "title": "吹奏楽部",
+    "source_title": "【コント】さらば青春の光「吹奏楽部」",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2024,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0011.html",
+    "youtube_url": "https://www.youtube.com/watch?v=wf_nNMhQo_M",
+    "youtube_video_id": "wf_nNMhQo_M",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:50:00+09:00",
+    "summary": "部活という近い記憶を入口に、集団の空気と人物の温度差を見せるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/wf_nNMhQo_M/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "学校"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0012",
+    "title": "動くな！JASRACだ！",
+    "source_title": "【コント】さらば青春の光「動くな！JASRACだ！」 / 単独公演『四季折々』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0012.html",
+    "youtube_url": "https://www.youtube.com/watch?v=yea0Y9i2N1A",
+    "youtube_video_id": "yea0Y9i2N1A",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:51:00+09:00",
+    "summary": "タイトルの強い一言を入口に、場面の止まり方と返しの速度を楽しむコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/yea0Y9i2N1A/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0013",
+    "title": "島",
+    "source_title": "【コント】さらば青春の光「島」 / 単独公演『帰社』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0013.html",
+    "youtube_url": "https://www.youtube.com/watch?v=z4J7eQqWDwI",
+    "youtube_video_id": "z4J7eQqWDwI",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:52:00+09:00",
+    "summary": "島という限定された場所を入口に、空間の狭さと会話の濃さを味わう一本。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/z4J7eQqWDwI/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0014",
+    "title": "パンのむらた",
+    "source_title": "【コント】さらば青春の光『パンのむらた』 / 単独公演『大三元』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0014.html",
+    "youtube_url": "https://www.youtube.com/watch?v=5mz5FKabGSc",
+    "youtube_video_id": "5mz5FKabGSc",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:53:00+09:00",
+    "summary": "店の名前と生活感を入口に、日常の中のずれをやわらかく見せるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/5mz5FKabGSc/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "店"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0015",
+    "title": "終電逃させ屋",
+    "source_title": "【コント】さらば青春の光「終電逃させ屋」 / 単独公演『大三元』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0015.html",
+    "youtube_url": "https://www.youtube.com/watch?v=3KtoWSBE70o",
+    "youtube_video_id": "3KtoWSBE70o",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:54:00+09:00",
+    "summary": "タイトルの発想だけで場面が見え始める、ワードの強さが残るコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/3KtoWSBE70o/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0016",
+    "title": "サラリーマン川柳",
+    "source_title": "【コント】さらば青春の光  『サラリーマン川柳』 / 単独公演『大三元』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0016.html",
+    "youtube_url": "https://www.youtube.com/watch?v=TeUXnV6eGIg",
+    "youtube_video_id": "TeUXnV6eGIg",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:55:00+09:00",
+    "summary": "短い言葉の奥にある仕事と生活の手触りを、ワードで楽しませる一本。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/TeUXnV6eGIg/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード",
+      "仕事"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0017",
+    "title": "ZZZ",
+    "source_title": "【コント】さらば青春の光「ZZZ」 / 単独公演『五穀豊穣』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0017.html",
+    "youtube_url": "https://www.youtube.com/watch?v=jDO9OtgGmM4",
+    "youtube_video_id": "jDO9OtgGmM4",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:56:00+09:00",
+    "summary": "眠りの気配をまとった題名から、間の長さと反応の遅れを味わえるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/jDO9OtgGmM4/hqdefault.jpg",
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0018",
+    "title": "調教師コメント",
+    "source_title": "【コント】さらば青春の光「調教師コメント」 / 単独公演『五穀豊穣』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0018.html",
+    "youtube_url": "https://www.youtube.com/watch?v=q20vPobFXkY",
+    "youtube_video_id": "q20vPobFXkY",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:57:00+09:00",
+    "summary": "コメントらしい言葉の型を入口に、専門用語の響きと間を楽しむコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/q20vPobFXkY/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0019",
+    "title": "はいります！",
+    "source_title": "【コント】さらば青春の光「入ります！」 / 単独公演『五穀豊穣』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0019.html",
+    "youtube_url": "https://www.youtube.com/watch?v=npuWTuj1NBw",
+    "youtube_video_id": "npuWTuj1NBw",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:58:00+09:00",
+    "summary": "短い合図の強さを、入る前と入った後の空気の差で見せるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/npuWTuj1NBw/hqdefault.jpg",
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0020",
+    "title": "ペンション殺人事件",
+    "source_title": "【コント】さらば青春の光『ペンション殺人事件』 / 単独公演『野良野良野良野良』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0020.html",
+    "youtube_url": "https://www.youtube.com/watch?v=QnI8slS1TA4",
+    "youtube_video_id": "QnI8slS1TA4",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T18:59:00+09:00",
+    "summary": "事件ものの空気を入口に、ジャンルの約束と人物の反応で世界を作るコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/QnI8slS1TA4/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0021",
+    "title": "ヒーロー",
+    "source_title": "【コント】さらば青春の光 『ヒーロー』 / 単独公演『真っ二つ』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0021.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ENT4eNZlGrA",
+    "youtube_video_id": "ENT4eNZlGrA",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T19:00:00+09:00",
+    "summary": "誰もが知るヒーローの型を入口に、人物の見え方が揺れていくコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/ENT4eNZlGrA/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0022",
+    "title": "更生",
+    "source_title": "【コント】さらば青春の光 『更生』 / 単独公演『野良野良野良野良』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0022.html",
+    "youtube_url": "https://www.youtube.com/watch?v=2guw6B7VAtU",
+    "youtube_video_id": "2guw6B7VAtU",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T19:01:00+09:00",
+    "summary": "まじめな題材を冷たく扱わず、人物の距離と会話のずれで見せるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/2guw6B7VAtU/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0023",
+    "title": "依存症",
+    "source_title": "【コント】さらば青春の光『依存症』 / 単独公演『ノリ』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0023.html",
+    "youtube_url": "https://www.youtube.com/watch?v=rDbxhVquLsc",
+    "youtube_video_id": "rDbxhVquLsc",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T19:02:00+09:00",
+    "summary": "題材の強さに寄りかからず、会話の受け止め方と間で見せるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/rDbxhVquLsc/hqdefault.jpg",
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0024",
+    "title": "後継者",
+    "source_title": "【コント】さらば青春の光『後継者』 / 単独公演『真っ二つ』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0024.html",
+    "youtube_url": "https://www.youtube.com/watch?v=FCxYx-KNEB8",
+    "youtube_video_id": "FCxYx-KNEB8",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T19:03:00+09:00",
+    "summary": "後継ぎという関係性の重さを、会話の距離感でほどいていくコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/FCxYx-KNEB8/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0025",
+    "title": "鬼食育",
+    "source_title": "【コント】さらば青春の光「鬼食育」 / 単独公演『四季折々』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0025.html",
+    "youtube_url": "https://www.youtube.com/watch?v=u7F3Q9WW6RA",
+    "youtube_video_id": "u7F3Q9WW6RA",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T19:04:00+09:00",
+    "summary": "生活に近い食育の言葉と、少し不思議な世界の組み合わせを楽しむコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/u7F3Q9WW6RA/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0026",
+    "title": "おっさん",
+    "source_title": "【コント】さらば青春の光「おっさん」 / 単独公演『野良野良野良』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0026.html",
+    "youtube_url": "https://www.youtube.com/watch?v=LH8bMU_PHa0",
+    "youtube_video_id": "LH8bMU_PHa0",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T19:05:00+09:00",
+    "summary": "呼び名の近さと雑さの間にある空気を、間でていねいに見せるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/LH8bMU_PHa0/hqdefault.jpg",
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0027",
+    "title": "AV",
+    "source_title": "【コント】キングオブコント決勝でやろうとしたら怒られたネタ",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0027.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Zs71nTR-U1I",
+    "youtube_video_id": "Zs71nTR-U1I",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T19:06:00+09:00",
+    "summary": "刺激的な題材名に寄りかからず、言葉を置く間と距離感で成立させるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/Zs71nTR-U1I/hqdefault.jpg",
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0028",
+    "title": "役者",
+    "source_title": "【コント】さらば青春の光 『男優』 / 単独公演『ノリ』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0028.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Qe1_2FJbcGs",
+    "youtube_video_id": "Qe1_2FJbcGs",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T19:07:00+09:00",
+    "summary": "役を演じる側と見る側の距離から、人物の自意識が見えてくるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/Qe1_2FJbcGs/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0029",
+    "title": "芸術家",
+    "source_title": "【コント】 さらば青春の光 『芸術家』 / 単独公演『ノリ』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0029.html",
+    "youtube_url": "https://www.youtube.com/watch?v=SeyNWuw-uKY",
+    "youtube_video_id": "SeyNWuw-uKY",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T19:08:00+09:00",
+    "summary": "芸術をめぐる言葉の響きから、人物のこだわりと距離感を味わうコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/SeyNWuw-uKY/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "仕事帰りに見たい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0030",
+    "title": "催眠術",
+    "source_title": "【コント】さらば青春の光 『催眠術』 / 単独公演『外回り ツアーファイナル ～帰社～』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0030.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ArUCiHBpmLA",
+    "youtube_video_id": "ArUCiHBpmLA",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T19:09:00+09:00",
+    "summary": "催眠術という見守る題材を、反応までの間で楽しませるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/ArUCiHBpmLA/hqdefault.jpg",
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0031",
+    "title": "葬式",
+    "source_title": "【コント】さらば青春の光 『葬式』 / 単独公演『会心の一撃』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0031.html",
+    "youtube_url": "https://www.youtube.com/watch?v=LSvP8x_Bypk",
+    "youtube_video_id": "LSvP8x_Bypk",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T19:10:00+09:00",
+    "summary": "厳かな場面を雑に扱わず、声量や沈黙の間から笑いを立ち上げるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/LSvP8x_Bypk/hqdefault.jpg",
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0032",
+    "title": "ファンタジー",
+    "source_title": "【コント】さらば青春の光「ファンタジー」 / 単独公演『野良野良野良』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0032.html",
+    "youtube_url": "https://www.youtube.com/watch?v=mdfo1ea3pyI",
+    "youtube_video_id": "mdfo1ea3pyI",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T19:11:00+09:00",
+    "summary": "ファンタジーの題材を、会話の温度で日常側へ引き寄せるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/mdfo1ea3pyI/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0033",
+    "title": "タイ料理屋",
+    "source_title": "【コント】さらば青春の光 『タイ料理屋』 / 単独公演『野良』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0033.html",
+    "youtube_url": "https://www.youtube.com/watch?v=H97KRVJuSzo",
+    "youtube_video_id": "H97KRVJuSzo",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T19:12:00+09:00",
+    "summary": "飲食店の身近なやり取りを入口に、店の空気と人物のずれを味わうコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/H97KRVJuSzo/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "店"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0034",
+    "title": "小豆島少年野球団",
+    "source_title": "【コント】 さらば青春の光 『小豆島少年野球団』 / 単独公演『野良』より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0034.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Rqp-VfvSc64",
+    "youtube_video_id": "Rqp-VfvSc64",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T19:13:00+09:00",
+    "summary": "地域と少年野球の言葉から、背景まで勝手に見えてくる世界観のコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/Rqp-VfvSc64/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界",
+      "学校"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0035",
+    "title": "Farewell Ceremony／お別れ会系",
+    "source_title": "【コント】さらば青春の光『告別式』 / ステゴロ東京蔵出し編より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0035.html",
+    "youtube_url": "https://www.youtube.com/watch?v=--nKbARQULQ",
+    "youtube_video_id": "--nKbARQULQ",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T19:14:00+09:00",
+    "summary": "お別れの場にある静けさを大切にしながら、間と受け止め方で見せるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/--nKbARQULQ/hqdefault.jpg",
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0036",
+    "title": "いじめ",
+    "source_title": "【コント】さらば青春の光『いじめ』 / ステゴロ東京蔵出し編より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0036.html",
+    "youtube_url": "https://www.youtube.com/watch?v=TzWgFmGJ6Z0",
+    "youtube_video_id": "TzWgFmGJ6Z0",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T19:15:00+09:00",
+    "summary": "題材の強さを消費せず、言葉の置き方と沈黙の扱いに注目したいコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/TzWgFmGJ6Z0/hqdefault.jpg",
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0037",
+    "title": "カラオケ",
+    "source_title": "【コント】さらば青春の光『カラオケ』 / ステゴロ東京蔵出し編より",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0037.html",
+    "youtube_url": "https://www.youtube.com/watch?v=-lvLZvT8OrM",
+    "youtube_video_id": "-lvLZvT8OrM",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T19:16:00+09:00",
+    "summary": "カラオケの空間にある遠慮と勢いを、会話の温度差で見せるコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/-lvLZvT8OrM/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0038",
+    "title": "臓器売買",
+    "source_title": "収録したけど『やっぱりテレビじゃ流せない』と放送中止になったコント",
+    "performer": "さらば青春の光",
+    "performers": [
+      "さらば青春の光"
+    ],
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0038.html",
+    "youtube_url": "https://www.youtube.com/watch?v=x8J_eTmIa5E",
+    "youtube_video_id": "x8J_eTmIa5E",
+    "channel_name": "さらば青春の光Official Youtube Channel",
+    "channel_url": "https://www.youtube.com/@sarabaOYC",
+    "source_owner": "さらば青春の光Official Youtube Channel（@sarabaOYC）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T19:17:00+09:00",
+    "summary": "題名の強さに寄せすぎず、言葉を出す前後の間と距離を見たいコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/x8J_eTmIa5E/hqdefault.jpg",
+    "mood_tags": [
+      "じっくり間を味わいたい",
+      "夜に軽く笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "lotti-0001",
+    "title": "プリティプリ山",
+    "source_title": "ロッチ「プリティプリ山」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0001.html",
+    "youtube_url": "https://www.youtube.com/watch?v=uFE9EqtdfFs",
+    "youtube_video_id": "uFE9EqtdfFs",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:00:00+09:00",
+    "summary": "プリティプリ山を、ワードを入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/uFE9EqtdfFs/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "lotti-0002",
+    "title": "ホームラン",
+    "source_title": "ロッチ「ホームラン」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0002.html",
+    "youtube_url": "https://www.youtube.com/watch?v=LmdL2pnWKBQ",
+    "youtube_video_id": "LmdL2pnWKBQ",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:01:00+09:00",
+    "summary": "ホームランを、間を入口に、盛り上がるべき場面で、誰がどの温度でそこにいるかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/LmdL2pnWKBQ/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "lotti-0003",
+    "title": "サクラ",
+    "source_title": "ロッチ「サクラ」／『ロッチ単独ライブ「アポロッチ19号」』より",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0003.html",
+    "youtube_url": "https://www.youtube.com/watch?v=trzRTRqTK9s",
+    "youtube_video_id": "trzRTRqTK9s",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:02:00+09:00",
+    "summary": "サクラを、世界を入口に、その言葉が出る前後の呼吸と、相手がすぐに受け止められない一拍へ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/trzRTRqTK9s/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0004",
+    "title": "音楽の道",
+    "source_title": "ロッチ「音楽の道」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0004.html",
+    "youtube_url": "https://www.youtube.com/watch?v=INcGogtSMi4",
+    "youtube_video_id": "INcGogtSMi4",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:03:00+09:00",
+    "summary": "音楽の道を、世界を入口に、遠い場所の話が、どの瞬間に身近な会話へ戻るかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/INcGogtSMi4/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0005",
+    "title": "大声コンテスト",
+    "source_title": "ロッチ「大声コンテスト」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0005.html",
+    "youtube_url": "https://www.youtube.com/watch?v=lPZGoV6pL_U",
+    "youtube_video_id": "lPZGoV6pL_U",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:04:00+09:00",
+    "summary": "大声コンテストを、間を入口に、盛り上がるべき場面で、誰がどの温度でそこにいるかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/lPZGoV6pL_U/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "lotti-0006",
+    "title": "オヤクソク",
+    "source_title": "ロッチ「オヤクソク」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0006.html",
+    "youtube_url": "https://www.youtube.com/watch?v=FiO6OwknAOo",
+    "youtube_video_id": "FiO6OwknAOo",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:05:00+09:00",
+    "summary": "オヤクソクを、ワードを入口に、その言葉が出る前後の呼吸と、相手がすぐに受け止められない一拍へ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/FiO6OwknAOo/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "lotti-0007",
+    "title": "エマージェンシーコール",
+    "source_title": "ロッチ「エマージェンシーコール」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0007.html",
+    "youtube_url": "https://www.youtube.com/watch?v=3JQLdmjB54k",
+    "youtube_video_id": "3JQLdmjB54k",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:06:00+09:00",
+    "summary": "エマージェンシーコールを、間を入口に、専門用語の手前で、人物がどこまで分かった顔をしているかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/3JQLdmjB54k/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "lotti-0008",
+    "title": "言わんといて",
+    "source_title": "ロッチ「言わんといて」／『ロッチ単独ライブ「ジロジロッチング」』より",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0008.html",
+    "youtube_url": "https://www.youtube.com/watch?v=C4pdfYIdVdw",
+    "youtube_video_id": "C4pdfYIdVdw",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:07:00+09:00",
+    "summary": "言わんといてを、間を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/C4pdfYIdVdw/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "lotti-0009",
+    "title": "試着室2020",
+    "source_title": "ロッチ「試着室2020」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0009.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Ezbq6sBFJfM",
+    "youtube_video_id": "Ezbq6sBFJfM",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:08:00+09:00",
+    "summary": "試着室2020を、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/Ezbq6sBFJfM/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0010",
+    "title": "にぎりっぺ",
+    "source_title": "ロッチ「にぎりっぺ」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0010.html",
+    "youtube_url": "https://www.youtube.com/watch?v=9Noz-ohU4Dc",
+    "youtube_video_id": "9Noz-ohU4Dc",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:09:00+09:00",
+    "summary": "にぎりっぺを、ワードを入口に、その言葉が出る前後の呼吸と、相手がすぐに受け止められない一拍へ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/9Noz-ohU4Dc/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "lotti-0011",
+    "title": "未来より",
+    "source_title": "ロッチ「未来より」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0011.html",
+    "youtube_url": "https://www.youtube.com/watch?v=18HV9HBudJw",
+    "youtube_video_id": "18HV9HBudJw",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:10:00+09:00",
+    "summary": "未来よりを、世界を入口に、遠い場所の話が、どの瞬間に身近な会話へ戻るかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/18HV9HBudJw/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0012",
+    "title": "ガッツポーズ",
+    "source_title": "ロッチ「ガッツポーズ」／『ロッチ単独ライブ「モモイロッチ」』より",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0012.html",
+    "youtube_url": "https://www.youtube.com/watch?v=IBUkEVqxvWs",
+    "youtube_video_id": "IBUkEVqxvWs",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:11:00+09:00",
+    "summary": "ガッツポーズを、間を入口に、盛り上がるべき場面で、誰がどの温度でそこにいるかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/IBUkEVqxvWs/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "lotti-0013",
+    "title": "お花畑",
+    "source_title": "ロッチ「お花畑」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0013.html",
+    "youtube_url": "https://www.youtube.com/watch?v=2hJaW_FozRQ",
+    "youtube_video_id": "2hJaW_FozRQ",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:12:00+09:00",
+    "summary": "お花畑を、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/2hJaW_FozRQ/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0014",
+    "title": "のれんわけ",
+    "source_title": "ロッチ「のれんわけ」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0014.html",
+    "youtube_url": "https://www.youtube.com/watch?v=DbK-R2nL9-s",
+    "youtube_video_id": "DbK-R2nL9-s",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:13:00+09:00",
+    "summary": "のれんわけを、世界を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/DbK-R2nL9-s/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0015",
+    "title": "ラーメンの狼",
+    "source_title": "ロッチ「ラーメンの狼」／『ロッチ単独ライブ「モモイロッチ」』より",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0015.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ZEwHZgc6IIY",
+    "youtube_video_id": "ZEwHZgc6IIY",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:14:00+09:00",
+    "summary": "ラーメンの狼を、ワードを入口に、食べ物の名前が出たあと、会話の温度がどう変わるかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/ZEwHZgc6IIY/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "lotti-0016",
+    "title": "本気カルSHOW1",
+    "source_title": "ロッチ「本気カルSHOW1」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0016.html",
+    "youtube_url": "https://www.youtube.com/watch?v=UqGLB8ZA39E",
+    "youtube_video_id": "UqGLB8ZA39E",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:15:00+09:00",
+    "summary": "本気カルSHOW1を、世界を入口に、盛り上がるべき場面で、誰がどの温度でそこにいるかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/UqGLB8ZA39E/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0017",
+    "title": "タイトルマッチ",
+    "source_title": "ロッチ「タイトルマッチ」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0017.html",
+    "youtube_url": "https://www.youtube.com/watch?v=40rf9N_8TbE",
+    "youtube_video_id": "40rf9N_8TbE",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:16:00+09:00",
+    "summary": "タイトルマッチを、間を入口に、盛り上がるべき場面で、誰がどの温度でそこにいるかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/40rf9N_8TbE/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "lotti-0018",
+    "title": "やめます",
+    "source_title": "ロッチ「やめます」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0018.html",
+    "youtube_url": "https://www.youtube.com/watch?v=q0xwyp1JBig",
+    "youtube_video_id": "q0xwyp1JBig",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:17:00+09:00",
+    "summary": "やめますを、間を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/q0xwyp1JBig/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "lotti-0019",
+    "title": "電話で",
+    "source_title": "ロッチ「電話で」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0019.html",
+    "youtube_url": "https://www.youtube.com/watch?v=XiJF71ytfPE",
+    "youtube_video_id": "XiJF71ytfPE",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:18:00+09:00",
+    "summary": "電話でを、間を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/XiJF71ytfPE/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "lotti-0020",
+    "title": "やってまうヤツ",
+    "source_title": "ロッチ「やってまうヤツ」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0020.html",
+    "youtube_url": "https://www.youtube.com/watch?v=nFOFCZSqkSU",
+    "youtube_video_id": "nFOFCZSqkSU",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:19:00+09:00",
+    "summary": "やってまうヤツを、ワードを入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/nFOFCZSqkSU/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "lotti-0021",
+    "title": "転校生",
+    "source_title": "ロッチ「転校生」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0021.html",
+    "youtube_url": "https://www.youtube.com/watch?v=yFlswRjxSAU",
+    "youtube_video_id": "yFlswRjxSAU",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:20:00+09:00",
+    "summary": "転校生を、世界を入口に、教える側の自信と、聞く側の戸惑いがどの順番で出るかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/yFlswRjxSAU/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0022",
+    "title": "0281",
+    "source_title": "ロッチ「0281」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0022.html",
+    "youtube_url": "https://www.youtube.com/watch?v=w4qJj8Uqw44",
+    "youtube_video_id": "w4qJj8Uqw44",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:21:00+09:00",
+    "summary": "0281を、ワードを入口に、その言葉が出る前後の呼吸と、相手がすぐに受け止められない一拍へ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/w4qJj8Uqw44/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "lotti-0023",
+    "title": "間",
+    "source_title": "ロッチ「間」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0023.html",
+    "youtube_url": "https://www.youtube.com/watch?v=DXSY_HHKE-Q",
+    "youtube_video_id": "DXSY_HHKE-Q",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:22:00+09:00",
+    "summary": "間を、間を入口に、その言葉が出る前後の呼吸と、相手がすぐに受け止められない一拍へ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/DXSY_HHKE-Q/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "lotti-0024",
+    "title": "チャンピオン",
+    "source_title": "ロッチ「チャンピオン」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0024.html",
+    "youtube_url": "https://www.youtube.com/watch?v=KV2J9JaCCfs",
+    "youtube_video_id": "KV2J9JaCCfs",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:23:00+09:00",
+    "summary": "チャンピオンを、世界を入口に、盛り上がるべき場面で、誰がどの温度でそこにいるかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/KV2J9JaCCfs/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0025",
+    "title": "砂漠",
+    "source_title": "ロッチ「砂漠」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0025.html",
+    "youtube_url": "https://www.youtube.com/watch?v=rbKl2_uZ2Us",
+    "youtube_video_id": "rbKl2_uZ2Us",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:24:00+09:00",
+    "summary": "砂漠を、世界を入口に、遠い場所の話が、どの瞬間に身近な会話へ戻るかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/rbKl2_uZ2Us/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0026",
+    "title": "ユーモアスクール",
+    "source_title": "ロッチ「ユーモアスクール」／『ロッチ単独ライブ「ロッチラリズム」』より",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0026.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ofyplzdw8iU",
+    "youtube_video_id": "ofyplzdw8iU",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:25:00+09:00",
+    "summary": "ユーモアスクールを、ワードを入口に、教える側の自信と、聞く側の戸惑いがどの順番で出るかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/ofyplzdw8iU/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "lotti-0027",
+    "title": "ボウズ",
+    "source_title": "ロッチ「ボウズ」／『ロッチ単独ライブ「ロッチラリズム」』より",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0027.html",
+    "youtube_url": "https://www.youtube.com/watch?v=u2shZvwYBrA",
+    "youtube_video_id": "u2shZvwYBrA",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:26:00+09:00",
+    "summary": "ボウズを、ワードを入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/u2shZvwYBrA/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "lotti-0028",
+    "title": "大雨",
+    "source_title": "ロッチ「大雨」／『ラストベストロッチ 2』より",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0028.html",
+    "youtube_url": "https://www.youtube.com/watch?v=MO0F-orlneU",
+    "youtube_video_id": "MO0F-orlneU",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:27:00+09:00",
+    "summary": "大雨を、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/MO0F-orlneU/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0029",
+    "title": "除霊",
+    "source_title": "ロッチ「除霊」／『ラストベストロッチ3』より",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0029.html",
+    "youtube_url": "https://www.youtube.com/watch?v=X3SFD4OdQro",
+    "youtube_video_id": "X3SFD4OdQro",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:28:00+09:00",
+    "summary": "除霊を、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/X3SFD4OdQro/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0030",
+    "title": "あだ名",
+    "source_title": "ロッチ「あだ名」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0030.html",
+    "youtube_url": "https://www.youtube.com/watch?v=MxLKaAKUon0",
+    "youtube_video_id": "MxLKaAKUon0",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:29:00+09:00",
+    "summary": "あだ名を、ワードを入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/MxLKaAKUon0/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "lotti-0031",
+    "title": "マリッジオーシャンブルー",
+    "source_title": "ロッチ「マリッジオーシャンブルー」／『ロッチ単独ライブ「PELO PELO PELOTTi」』より",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0031.html",
+    "youtube_url": "https://www.youtube.com/watch?v=5mNxHYKcfMs",
+    "youtube_video_id": "5mNxHYKcfMs",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:30:00+09:00",
+    "summary": "マリッジオーシャンブルーを、世界を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/5mNxHYKcfMs/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0032",
+    "title": "目撃者ムラサワ",
+    "source_title": "ロッチ「目撃者ムラサワ」／『ロッチ単独ライブ「ストロッチベリー」』より",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0032.html",
+    "youtube_url": "https://www.youtube.com/watch?v=l-wVReaDj34",
+    "youtube_video_id": "l-wVReaDj34",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:31:00+09:00",
+    "summary": "目撃者ムラサワを、世界を入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/l-wVReaDj34/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0033",
+    "title": "娘さんをください",
+    "source_title": "ロッチ「娘さんをください」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0033.html",
+    "youtube_url": "https://www.youtube.com/watch?v=-Dl1lcuVuoA",
+    "youtube_video_id": "-Dl1lcuVuoA",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:32:00+09:00",
+    "summary": "娘さんをくださいを、間を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/-Dl1lcuVuoA/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "lotti-0034",
+    "title": "十文字アキラ（不動産編）",
+    "source_title": "ロッチ「十文字アキラ（不動産編）」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0034.html",
+    "youtube_url": "https://www.youtube.com/watch?v=jCt5BRUbEAM",
+    "youtube_video_id": "jCt5BRUbEAM",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:33:00+09:00",
+    "summary": "十文字アキラ（不動産編）を、世界を入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/jCt5BRUbEAM/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0035",
+    "title": "XPhone5",
+    "source_title": "ロッチ「XPhone5」／『ロッチ単独ライブ「ストロッチベリー」』より",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0035.html",
+    "youtube_url": "https://www.youtube.com/watch?v=PUnWaAI28bY",
+    "youtube_video_id": "PUnWaAI28bY",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:34:00+09:00",
+    "summary": "XPhone5を、ワードを入口に、専門用語の手前で、人物がどこまで分かった顔をしているかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/PUnWaAI28bY/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "lotti-0036",
+    "title": "カツ丼",
+    "source_title": "ロッチ「カツ丼」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0036.html",
+    "youtube_url": "https://www.youtube.com/watch?v=dCZs4_O-nAo",
+    "youtube_video_id": "dCZs4_O-nAo",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:35:00+09:00",
+    "summary": "カツ丼を、間を入口に、食べ物の名前が出たあと、会話の温度がどう変わるかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/dCZs4_O-nAo/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "lotti-0037",
+    "title": "試着室",
+    "source_title": "ロッチ「試着室」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0037.html",
+    "youtube_url": "https://www.youtube.com/watch?v=eCbYGWrHAdY",
+    "youtube_video_id": "eCbYGWrHAdY",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:36:00+09:00",
+    "summary": "試着室を、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/eCbYGWrHAdY/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0038",
+    "title": "乳首川という男",
+    "source_title": "ロッチ「乳首川という男」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0038.html",
+    "youtube_url": "https://www.youtube.com/watch?v=45P-A3v967o",
+    "youtube_video_id": "45P-A3v967o",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:37:00+09:00",
+    "summary": "乳首川という男を、ワードを入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/45P-A3v967o/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "lotti-0039",
+    "title": "おつとめご苦労さまです",
+    "source_title": "ロッチ「おつとめご苦労さまです」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0039.html",
+    "youtube_url": "https://www.youtube.com/watch?v=zfDSFiNkCx0",
+    "youtube_video_id": "zfDSFiNkCx0",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:38:00+09:00",
+    "summary": "おつとめご苦労さまですを、間を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/zfDSFiNkCx0/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "lotti-0040",
+    "title": "プラマイゼロ",
+    "source_title": "ロッチ「プラマイゼロ」／『ロッチ単独ライブ「ストロッチベリー」』より",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0040.html",
+    "youtube_url": "https://www.youtube.com/watch?v=lpM7obBPmZU",
+    "youtube_video_id": "lpM7obBPmZU",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:39:00+09:00",
+    "summary": "プラマイゼロを、ワードを入口に、その言葉が出る前後の呼吸と、相手がすぐに受け止められない一拍へ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/lpM7obBPmZU/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "lotti-0041",
+    "title": "wi-fi",
+    "source_title": "ロッチ「wi-fi」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0041.html",
+    "youtube_url": "https://www.youtube.com/watch?v=jUjmrw6R4Ac",
+    "youtube_video_id": "jUjmrw6R4Ac",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:40:00+09:00",
+    "summary": "wi-fiを、ワードを入口に、専門用語の手前で、人物がどこまで分かった顔をしているかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/jUjmrw6R4Ac/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "lotti-0042",
+    "title": "巨乳かメガネか",
+    "source_title": "ロッチ「巨乳かメガネか」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0042.html",
+    "youtube_url": "https://www.youtube.com/watch?v=_dXCQJZ3lp4",
+    "youtube_video_id": "_dXCQJZ3lp4",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:41:00+09:00",
+    "summary": "巨乳かメガネかを、ワードを入口に、その言葉が出る前後の呼吸と、相手がすぐに受け止められない一拍へ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/_dXCQJZ3lp4/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "lotti-0043",
+    "title": "コマ名人 大小嶋",
+    "source_title": "ロッチ「コマ名人　大小嶋」／『ロッチ単独ライブ「PELO PELO PELOTTi」』より",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0043.html",
+    "youtube_url": "https://www.youtube.com/watch?v=sDNtk2Etcws",
+    "youtube_video_id": "sDNtk2Etcws",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:42:00+09:00",
+    "summary": "コマ名人 大小嶋を、世界を入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/sDNtk2Etcws/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0044",
+    "title": "福引",
+    "source_title": "ロッチ「福引」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0044.html",
+    "youtube_url": "https://www.youtube.com/watch?v=gJ9JFRkIIlg",
+    "youtube_video_id": "gJ9JFRkIIlg",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:43:00+09:00",
+    "summary": "福引を、間を入口に、盛り上がるべき場面で、誰がどの温度でそこにいるかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/gJ9JFRkIIlg/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "lotti-0045",
+    "title": "誰やったっけ？",
+    "source_title": "ロッチ「誰やったっけ？」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0045.html",
+    "youtube_url": "https://www.youtube.com/watch?v=BFaOL2DeaZ0",
+    "youtube_video_id": "BFaOL2DeaZ0",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:44:00+09:00",
+    "summary": "誰やったっけ？を、間を入口に、思い出すまでの沈黙と、思い出したつもりの言葉の危うさへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/BFaOL2DeaZ0/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "lotti-0046",
+    "title": "中ノ森先生",
+    "source_title": "ロッチ「中ノ森先生」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0046.html",
+    "youtube_url": "https://www.youtube.com/watch?v=aXd52aln8fM",
+    "youtube_video_id": "aXd52aln8fM",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:45:00+09:00",
+    "summary": "中ノ森先生を、世界を入口に、教える側の自信と、聞く側の戸惑いがどの順番で出るかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/aXd52aln8fM/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0047",
+    "title": "猿渡",
+    "source_title": "ロッチ「猿渡」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0047.html",
+    "youtube_url": "https://www.youtube.com/watch?v=GpLNOjZYl7c",
+    "youtube_video_id": "GpLNOjZYl7c",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:46:00+09:00",
+    "summary": "猿渡を、世界を入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/GpLNOjZYl7c/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0048",
+    "title": "自転車日本一周少年",
+    "source_title": "ロッチ「自転車日本一周少年」",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0048.html",
+    "youtube_url": "https://www.youtube.com/watch?v=2EX_Cn2_OTc",
+    "youtube_video_id": "2EX_Cn2_OTc",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:47:00+09:00",
+    "summary": "自転車日本一周少年を、世界を入口に、遠い場所の話が、どの瞬間に身近な会話へ戻るかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/2EX_Cn2_OTc/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "lotti-0049",
+    "title": "ネパールのチェーン",
+    "source_title": "ロッチ「ネパールのチェーン」／『ラストベストロッチ3』より",
+    "performer": "ロッチ",
+    "performers": [
+      "ロッチ"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0049.html",
+    "youtube_url": "https://www.youtube.com/watch?v=AS7PZysK_2s",
+    "youtube_video_id": "AS7PZysK_2s",
+    "channel_name": "ロッチ Official YouTube Channel",
+    "channel_url": "https://www.youtube.com/@Lotti_CH",
+    "source_owner": "ロッチ Official YouTube Channel（@Lotti_CH）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:48:00+09:00",
+    "summary": "ネパールのチェーンを、ワードを入口に、遠い場所の話が、どの瞬間に身近な会話へ戻るかへ目を向けて楽しむロッチのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/AS7PZysK_2s/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "chocolate-planet-0001",
+    "title": "親父が",
+    "source_title": "親父が",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0001.html",
+    "youtube_url": "https://www.youtube.com/watch?v=fqLDLfn-DyM",
+    "youtube_video_id": "fqLDLfn-DyM",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:40:00+09:00",
+    "summary": "親父がを、間を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/fqLDLfn-DyM/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "chocolate-planet-0002",
+    "title": "クイズショー",
+    "source_title": "クイズショー",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0002.html",
+    "youtube_url": "https://www.youtube.com/watch?v=m50H_0B78aQ",
+    "youtube_video_id": "m50H_0B78aQ",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:41:00+09:00",
+    "summary": "クイズショーを、世界を入口に、盛り上がるべき場面で、誰がどの温度でそこにいるかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/m50H_0B78aQ/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "chocolate-planet-0003",
+    "title": "GReeeeN",
+    "source_title": "GReeeeN",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0003.html",
+    "youtube_url": "https://www.youtube.com/watch?v=mHaIdBaInz0",
+    "youtube_video_id": "mHaIdBaInz0",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:42:00+09:00",
+    "summary": "GReeeeNを、ワードを入口に、知っているつもりの響きが、どこで別の意味へ傾くかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/mHaIdBaInz0/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "chocolate-planet-0004",
+    "title": "足踏まれ小僧",
+    "source_title": "チョコレートプラネット「足踏まれ小僧」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0004.html",
+    "youtube_url": "https://www.youtube.com/watch?v=wiQyEH1hlZ0",
+    "youtube_video_id": "wiQyEH1hlZ0",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:43:00+09:00",
+    "summary": "足踏まれ小僧を、ワードを入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/wiQyEH1hlZ0/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "chocolate-planet-0005",
+    "title": "ゾンビ",
+    "source_title": "チョコレートプラネット「ゾンビ」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0005.html",
+    "youtube_url": "https://www.youtube.com/watch?v=4kmC6CCN0xU",
+    "youtube_video_id": "4kmC6CCN0xU",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:44:00+09:00",
+    "summary": "ゾンビを、世界を入口に、非日常の設定を、人物がどのくらい当然のこととして受け止めているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/4kmC6CCN0xU/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "chocolate-planet-0006",
+    "title": "ナイフ",
+    "source_title": "ナイフ",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0006.html",
+    "youtube_url": "https://www.youtube.com/watch?v=V-8S1f6dN3s",
+    "youtube_video_id": "V-8S1f6dN3s",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:45:00+09:00",
+    "summary": "ナイフを、間を入口に、重そうな言葉を、どの距離と表情で受け止めているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/V-8S1f6dN3s/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "chocolate-planet-0007",
+    "title": "パンダ",
+    "source_title": "パンダ",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0007.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Ufy9lFm1SoI",
+    "youtube_video_id": "Ufy9lFm1SoI",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:46:00+09:00",
+    "summary": "パンダを、世界を入口に、非日常の設定を、人物がどのくらい当然のこととして受け止めているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/Ufy9lFm1SoI/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "chocolate-planet-0008",
+    "title": "合わない刑事",
+    "source_title": "合わない刑事",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0008.html",
+    "youtube_url": "https://www.youtube.com/watch?v=aMPbD9y51Wo",
+    "youtube_video_id": "aMPbD9y51Wo",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:47:00+09:00",
+    "summary": "合わない刑事を、世界を入口に、重そうな言葉を、どの距離と表情で受け止めているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/aMPbD9y51Wo/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "chocolate-planet-0009",
+    "title": "静かにしろ",
+    "source_title": "チョコレートプラネット「静かにしろ」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0009.html",
+    "youtube_url": "https://www.youtube.com/watch?v=_YbIlhLOnzA",
+    "youtube_video_id": "_YbIlhLOnzA",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:48:00+09:00",
+    "summary": "静かにしろを、間を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/_YbIlhLOnzA/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "chocolate-planet-0010",
+    "title": "地元",
+    "source_title": "チョコレートプラネット「地元」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0010.html",
+    "youtube_url": "https://www.youtube.com/watch?v=eOMFMkilt2o",
+    "youtube_video_id": "eOMFMkilt2o",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:49:00+09:00",
+    "summary": "地元を、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/eOMFMkilt2o/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "chocolate-planet-0011",
+    "title": "拷問",
+    "source_title": "チョコレートプラネット「拷問」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0011.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Z5H8qoVScWw",
+    "youtube_video_id": "Z5H8qoVScWw",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:50:00+09:00",
+    "summary": "拷問を、間を入口に、重そうな言葉を、どの距離と表情で受け止めているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/Z5H8qoVScWw/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "chocolate-planet-0012",
+    "title": "カラオケ",
+    "source_title": "チョコレートプラネット「カラオケ」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0012.html",
+    "youtube_url": "https://www.youtube.com/watch?v=QaWH4v2NEXw",
+    "youtube_video_id": "QaWH4v2NEXw",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:51:00+09:00",
+    "summary": "カラオケを、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/QaWH4v2NEXw/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "chocolate-planet-0013",
+    "title": "業者",
+    "source_title": "チョコレートプラネット「業者」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0013.html",
+    "youtube_url": "https://www.youtube.com/watch?v=UydyLvybRlU",
+    "youtube_video_id": "UydyLvybRlU",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:52:00+09:00",
+    "summary": "業者を、間を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/UydyLvybRlU/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "chocolate-planet-0014",
+    "title": "くそなんでやねん！",
+    "source_title": "チョコレートプラネット「くそなんでやねん！」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0014.html",
+    "youtube_url": "https://www.youtube.com/watch?v=NDQqi1OK8k8",
+    "youtube_video_id": "NDQqi1OK8k8",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:53:00+09:00",
+    "summary": "くそなんでやねん！を、ワードを入口に、その言葉が出る前後の呼吸と、相手がすぐに受け止められない一拍へ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/NDQqi1OK8k8/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "chocolate-planet-0015",
+    "title": "ローマ",
+    "source_title": "ローマ",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0015.html",
+    "youtube_url": "https://www.youtube.com/watch?v=KDI4FZ_CHiw",
+    "youtube_video_id": "KDI4FZ_CHiw",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:54:00+09:00",
+    "summary": "ローマを、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/KDI4FZ_CHiw/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "chocolate-planet-0016",
+    "title": "鶴の恩返し",
+    "source_title": "チョコレートプラネット「鶴の恩返し 」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0016.html",
+    "youtube_url": "https://www.youtube.com/watch?v=o_sokscmfKA",
+    "youtube_video_id": "o_sokscmfKA",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:55:00+09:00",
+    "summary": "鶴の恩返しを、世界を入口に、非日常の設定を、人物がどのくらい当然のこととして受け止めているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/o_sokscmfKA/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "chocolate-planet-0017",
+    "title": "メンタリスト",
+    "source_title": "チョコレートプラネット「メンタリスト」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0017.html",
+    "youtube_url": "https://www.youtube.com/watch?v=cQbz9-t_gGY",
+    "youtube_video_id": "cQbz9-t_gGY",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:56:00+09:00",
+    "summary": "メンタリストを、ワードを入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/cQbz9-t_gGY/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "chocolate-planet-0018",
+    "title": "電子マネー決済",
+    "source_title": "チョコレートプラネット「電子マネー決済」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0018.html",
+    "youtube_url": "https://www.youtube.com/watch?v=yGFsJId5euM",
+    "youtube_video_id": "yGFsJId5euM",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:57:00+09:00",
+    "summary": "電子マネー決済を、ワードを入口に、専門用語の手前で、人物がどこまで分かった顔をしているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/yGFsJId5euM/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "chocolate-planet-0019",
+    "title": "壁",
+    "source_title": "チョコレートプラネット「壁」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0019.html",
+    "youtube_url": "https://www.youtube.com/watch?v=dCadnb1vnw8",
+    "youtube_video_id": "dCadnb1vnw8",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:58:00+09:00",
+    "summary": "壁を、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/dCadnb1vnw8/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "chocolate-planet-0020",
+    "title": "天使",
+    "source_title": "チョコレートプラネット「天使」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0020.html",
+    "youtube_url": "https://www.youtube.com/watch?v=o_qgYQbzdm8",
+    "youtube_video_id": "o_qgYQbzdm8",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T20:59:00+09:00",
+    "summary": "天使を、世界を入口に、非日常の設定を、人物がどのくらい当然のこととして受け止めているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/o_qgYQbzdm8/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "chocolate-planet-0021",
+    "title": "トレンド",
+    "source_title": "チョコレートプラネット「トレンド」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0021.html",
+    "youtube_url": "https://www.youtube.com/watch?v=S15kPS46s1M",
+    "youtube_video_id": "S15kPS46s1M",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:00:00+09:00",
+    "summary": "トレンドを、ワードを入口に、聞いたことがある言葉が、どの瞬間に聞いたことのない方向へ曲がるかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/S15kPS46s1M/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "chocolate-planet-0022",
+    "title": "見たことない",
+    "source_title": "チョコレートプラネット「見たことない」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0022.html",
+    "youtube_url": "https://www.youtube.com/watch?v=JR-xjj83PrU",
+    "youtube_video_id": "JR-xjj83PrU",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:01:00+09:00",
+    "summary": "見たことないを、ワードを入口に、聞いたことのない言葉を、聞いたことがあるように受け止める一拍へ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/JR-xjj83PrU/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "chocolate-planet-0023",
+    "title": "ナイトキャップ",
+    "source_title": "チョコレートプラネット「ナイトキャップ」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0023.html",
+    "youtube_url": "https://www.youtube.com/watch?v=jisMsr4t8Gw",
+    "youtube_video_id": "jisMsr4t8Gw",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:02:00+09:00",
+    "summary": "ナイトキャップを、世界を入口に、聞いたことがある言葉が、どの瞬間に聞いたことのない方向へ曲がるかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/jisMsr4t8Gw/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "chocolate-planet-0024",
+    "title": "オンライン密室ゲーム",
+    "source_title": "チョコレートプラネット「オンライン密室ゲーム」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0024.html",
+    "youtube_url": "https://www.youtube.com/watch?v=NnTZHYE5nBI",
+    "youtube_video_id": "NnTZHYE5nBI",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:03:00+09:00",
+    "summary": "オンライン密室ゲームを、世界を入口に、専門用語の手前で、人物がどこまで分かった顔をしているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/NnTZHYE5nBI/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "chocolate-planet-0025",
+    "title": "人形劇（氷室病院）",
+    "source_title": "人形劇（氷室病院）",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0025.html",
+    "youtube_url": "https://www.youtube.com/watch?v=5HZ1-r7qWFM",
+    "youtube_video_id": "5HZ1-r7qWFM",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:04:00+09:00",
+    "summary": "人形劇（氷室病院）を、世界を入口に、非日常の設定を、人物がどのくらい当然のこととして受け止めているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/5HZ1-r7qWFM/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "chocolate-planet-0026",
+    "title": "CPfilm「カレー屋」",
+    "source_title": "CPfilm「カレー屋」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0026.html",
+    "youtube_url": "https://www.youtube.com/watch?v=aVYQC9oDz88",
+    "youtube_video_id": "aVYQC9oDz88",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:05:00+09:00",
+    "summary": "CPfilm「カレー屋」を、世界を入口に、食べ物の名前が出たあと、会話の温度がどう変わるかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/aVYQC9oDz88/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "chocolate-planet-0027",
+    "title": "CPfilm「業者」",
+    "source_title": "CPfilm「業者」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0027.html",
+    "youtube_url": "https://www.youtube.com/watch?v=YQfj8XzljCo",
+    "youtube_video_id": "YQfj8XzljCo",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:06:00+09:00",
+    "summary": "CPfilm「業者」を、間を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/YQfj8XzljCo/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "chocolate-planet-0028",
+    "title": "CPfilm「トレンド」",
+    "source_title": "cpfilm「トレンド」",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0028.html",
+    "youtube_url": "https://www.youtube.com/watch?v=G7EiILRsNN8",
+    "youtube_video_id": "G7EiILRsNN8",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:07:00+09:00",
+    "summary": "CPfilm「トレンド」を、ワードを入口に、聞いたことがある言葉が、どの瞬間に聞いたことのない方向へ曲がるかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/G7EiILRsNN8/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "chocolate-planet-0029",
+    "title": "【実録！】引きこもらせ父と会社に行きたい息子",
+    "source_title": "【実録！】引きこもらせ父と会社に行きたい息子",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0029.html",
+    "youtube_url": "https://www.youtube.com/watch?v=mTo0CHr7px4",
+    "youtube_video_id": "mTo0CHr7px4",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:08:00+09:00",
+    "summary": "【実録！】引きこもらせ父と会社に行きたい息子を、世界を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/mTo0CHr7px4/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "chocolate-planet-0030",
+    "title": "スペースジャスティスコント〜協力雇用主編〜",
+    "source_title": "スペースジャスティスコント〜協力雇用主編〜",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0030.html",
+    "youtube_url": "https://www.youtube.com/watch?v=PxPhNtWfkgc",
+    "youtube_video_id": "PxPhNtWfkgc",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:09:00+09:00",
+    "summary": "スペースジャスティスコント〜協力雇用主編〜を、世界を入口に、非日常の設定を、人物がどのくらい当然のこととして受け止めているかへ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/PxPhNtWfkgc/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "chocolate-planet-0031",
+    "title": "聞いたことない飲食店",
+    "source_title": "聞いたことない飲食店",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0031.html",
+    "youtube_url": "https://www.youtube.com/watch?v=H2Y5MMzSpuU",
+    "youtube_video_id": "H2Y5MMzSpuU",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:10:00+09:00",
+    "summary": "聞いたことない飲食店を、ワードを入口に、聞いたことのない言葉を、聞いたことがあるように受け止める一拍へ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/H2Y5MMzSpuU/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "chocolate-planet-0032",
+    "title": "聞いたことないコンビニ ばかり紹介してくるやつ",
+    "source_title": "聞いたことないコンビニ ばかり紹介してくるやつ",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0032.html",
+    "youtube_url": "https://www.youtube.com/watch?v=EaGceEi4nZY",
+    "youtube_video_id": "EaGceEi4nZY",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:11:00+09:00",
+    "summary": "聞いたことないコンビニ ばかり紹介してくるやつを、ワードを入口に、聞いたことのない言葉を、聞いたことがあるように受け止める一拍へ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/EaGceEi4nZY/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "chocolate-planet-0033",
+    "title": "聞いたことないアルバイト",
+    "source_title": "聞いたことないアルバイト",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0033.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ZLUWs23sRkk",
+    "youtube_video_id": "ZLUWs23sRkk",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:12:00+09:00",
+    "summary": "聞いたことないアルバイトを、ワードを入口に、聞いたことのない言葉を、聞いたことがあるように受け止める一拍へ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/ZLUWs23sRkk/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "chocolate-planet-0034",
+    "title": "聞いたことない代行サービス",
+    "source_title": "聞いたことない代行サービス",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0034.html",
+    "youtube_url": "https://www.youtube.com/watch?v=8U1wUirvT70",
+    "youtube_video_id": "8U1wUirvT70",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:13:00+09:00",
+    "summary": "聞いたことない代行サービスを、ワードを入口に、聞いたことのない言葉を、聞いたことがあるように受け止める一拍へ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/8U1wUirvT70/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "chocolate-planet-0035",
+    "title": "聞いたことないお茶",
+    "source_title": "聞いたことないお茶",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0035.html",
+    "youtube_url": "https://www.youtube.com/watch?v=cfVTPwJahRI",
+    "youtube_video_id": "cfVTPwJahRI",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:14:00+09:00",
+    "summary": "聞いたことないお茶を、ワードを入口に、聞いたことのない言葉を、聞いたことがあるように受け止める一拍へ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/cfVTPwJahRI/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "chocolate-planet-0036",
+    "title": "聞いたことないあの食べ物の由来",
+    "source_title": "聞いたことないあの食べ物の由来",
+    "performer": "チョコレートプラネット",
+    "performers": [
+      "チョコレートプラネット"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0036.html",
+    "youtube_url": "https://www.youtube.com/watch?v=uSNnRqlnFFs",
+    "youtube_video_id": "uSNnRqlnFFs",
+    "channel_name": "チョコレートプラネット チャンネル",
+    "channel_url": "https://www.youtube.com/@chocoplach",
+    "source_owner": "チョコレートプラネット チャンネル（@chocoplach）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:15:00+09:00",
+    "summary": "聞いたことないあの食べ物の由来を、ワードを入口に、聞いたことのない言葉を、聞いたことがあるように受け止める一拍へ目を向けて楽しむチョコレートプラネットのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/uSNnRqlnFFs/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "non-style-0001",
+    "title": "チェリー",
+    "source_title": "NON STYLE LIVE 2009 「チェリー」",
+    "performer": "NON STYLE",
+    "performers": [
+      "NON STYLE"
+    ],
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0001.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ZBxqjsWWwfQ",
+    "youtube_video_id": "ZBxqjsWWwfQ",
+    "channel_name": "NON STYLEチャンネル",
+    "channel_url": "https://www.youtube.com/@nonstyle4271",
+    "source_owner": "NON STYLEチャンネル（@nonstyle4271）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:20:00+09:00",
+    "summary": "チェリーを、間を入口に、言葉が出た直後にどの速さで返しが入り、客席の理解をどこまで待つかへ目を向けて楽しむNON STYLEの漫才。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/ZBxqjsWWwfQ/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "non-style-0002",
+    "title": "MBGM",
+    "source_title": "NON STYLE LIVE 2009 「MBGM」",
+    "performer": "NON STYLE",
+    "performers": [
+      "NON STYLE"
+    ],
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0002.html",
+    "youtube_url": "https://www.youtube.com/watch?v=nr2_iKVCeEU",
+    "youtube_video_id": "nr2_iKVCeEU",
+    "channel_name": "NON STYLEチャンネル",
+    "channel_url": "https://www.youtube.com/@nonstyle4271",
+    "source_owner": "NON STYLEチャンネル（@nonstyle4271）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:21:00+09:00",
+    "summary": "MBGMを、ワードを入口に、言葉が出た直後にどの速さで返しが入り、客席の理解をどこまで待つかへ目を向けて楽しむNON STYLEの漫才。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/nr2_iKVCeEU/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "non-style-0003",
+    "title": "1000万円",
+    "source_title": "NON STYLE LIVE 2009 「1000万円」",
+    "performer": "NON STYLE",
+    "performers": [
+      "NON STYLE"
+    ],
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0003.html",
+    "youtube_url": "https://www.youtube.com/watch?v=EzIIEcNzggg",
+    "youtube_video_id": "EzIIEcNzggg",
+    "channel_name": "NON STYLEチャンネル",
+    "channel_url": "https://www.youtube.com/@nonstyle4271",
+    "source_owner": "NON STYLEチャンネル（@nonstyle4271）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:22:00+09:00",
+    "summary": "1000万円を、世界を入口に、数字が出たあと、相手の反応がどう現実へ戻すかへ目を向けて楽しむNON STYLEの漫才。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/EzIIEcNzggg/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "世界"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "non-style-0004",
+    "title": "指",
+    "source_title": "NON STYLE LIVE 2009 「指」",
+    "performer": "NON STYLE",
+    "performers": [
+      "NON STYLE"
+    ],
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0004.html",
+    "youtube_url": "https://www.youtube.com/watch?v=FNg-uztQutA",
+    "youtube_video_id": "FNg-uztQutA",
+    "channel_name": "NON STYLEチャンネル",
+    "channel_url": "https://www.youtube.com/@nonstyle4271",
+    "source_owner": "NON STYLEチャンネル（@nonstyle4271）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:23:00+09:00",
+    "summary": "指を、ワードを入口に、言葉が出た直後にどの速さで返しが入り、客席の理解をどこまで待つかへ目を向けて楽しむNON STYLEの漫才。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/FNg-uztQutA/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "non-style-0005",
+    "title": "張り込み",
+    "source_title": "NON STYLE LIVE 2009 「張り込み」",
+    "performer": "NON STYLE",
+    "performers": [
+      "NON STYLE"
+    ],
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0005.html",
+    "youtube_url": "https://www.youtube.com/watch?v=yXHdpggKefs",
+    "youtube_video_id": "yXHdpggKefs",
+    "channel_name": "NON STYLEチャンネル",
+    "channel_url": "https://www.youtube.com/@nonstyle4271",
+    "source_owner": "NON STYLEチャンネル（@nonstyle4271）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:24:00+09:00",
+    "summary": "張り込みを、世界を入口に、重そうな言葉を、どの距離と表情で受け止めているかへ目を向けて楽しむNON STYLEの漫才。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/yXHdpggKefs/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "non-style-0006",
+    "title": "ぼくの金魚",
+    "source_title": "NON STYLE久しぶりのコント「ぼくの金魚」",
+    "performer": "NON STYLE",
+    "performers": [
+      "NON STYLE"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0006.html",
+    "youtube_url": "https://www.youtube.com/watch?v=3KNpM1PMv2g",
+    "youtube_video_id": "3KNpM1PMv2g",
+    "channel_name": "NON STYLEチャンネル",
+    "channel_url": "https://www.youtube.com/@nonstyle4271",
+    "source_owner": "NON STYLEチャンネル（@nonstyle4271）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:25:00+09:00",
+    "summary": "ぼくの金魚を、世界を入口に、やさしい題材を、どの言葉と間で笑いへ変えているかへ目を向けて楽しむNON STYLEのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/3KNpM1PMv2g/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "世界"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "non-style-0007",
+    "title": "うっとうしいな",
+    "source_title": "NON STYLEにて　「うっとうしいな」",
+    "performer": "NON STYLE",
+    "performers": [
+      "NON STYLE"
+    ],
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0007.html",
+    "youtube_url": "https://www.youtube.com/watch?v=32ExcwBd_CE",
+    "youtube_video_id": "32ExcwBd_CE",
+    "channel_name": "NON STYLEチャンネル",
+    "channel_url": "https://www.youtube.com/@nonstyle4271",
+    "source_owner": "NON STYLEチャンネル（@nonstyle4271）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:26:00+09:00",
+    "summary": "うっとうしいなを、間を入口に、受け止める側が、どこまで我慢してどこで返すかへ目を向けて楽しむNON STYLEの漫才。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/32ExcwBd_CE/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "non-style-0008",
+    "title": "謝罪会見",
+    "source_title": "ノンスタ石田ピンネタ　コント「謝罪会見」",
+    "performer": "NON STYLE",
+    "performers": [
+      "NON STYLE"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0008.html",
+    "youtube_url": "https://www.youtube.com/watch?v=DaaV5xQhF8c",
+    "youtube_video_id": "DaaV5xQhF8c",
+    "channel_name": "NON STYLEチャンネル",
+    "channel_url": "https://www.youtube.com/@nonstyle4271",
+    "source_owner": "NON STYLEチャンネル（@nonstyle4271）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:27:00+09:00",
+    "summary": "謝罪会見を、間を入口に、重そうな言葉を、どの距離と表情で受け止めているかへ目を向けて楽しむNON STYLEのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/DaaV5xQhF8c/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
+  },
+  {
+    "id": "non-style-0009",
+    "title": "神降臨",
+    "source_title": "ノンスタ石田　ひとりコント「神降臨」",
+    "performer": "NON STYLE",
+    "performers": [
+      "NON STYLE"
+    ],
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0009.html",
+    "youtube_url": "https://www.youtube.com/watch?v=I8uJ_fA_FWM",
+    "youtube_video_id": "I8uJ_fA_FWM",
+    "channel_name": "NON STYLEチャンネル",
+    "channel_url": "https://www.youtube.com/@nonstyle4271",
+    "source_owner": "NON STYLEチャンネル（@nonstyle4271）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:28:00+09:00",
+    "summary": "神降臨を、ワードを入口に、一人の中で、人物や場面の温度がどの瞬間に切り替わるかへ目を向けて楽しむNON STYLEのコント。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/I8uJ_fA_FWM/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "コント",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "reiwa-roman-0001",
+    "title": "タイムスリップ",
+    "source_title": "【M-1最終決戦ネタ】漫才「タイムスリップ」完全版【令和ロマン】",
+    "performer": "令和ロマン",
+    "performers": [
+      "令和ロマン"
+    ],
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0001.html",
+    "youtube_url": "https://www.youtube.com/watch?v=GNt7dOc_u6U",
+    "youtube_video_id": "GNt7dOc_u6U",
+    "channel_name": "official令和ロマン【公式】",
+    "channel_url": "https://www.youtube.com/@official-reiwaroman",
+    "source_owner": "official令和ロマン【公式】（@official-reiwaroman）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:20:00+09:00",
+    "summary": "タイムスリップを、世界を入口に、設定が動いた瞬間に、相手がどの速さで受け止め、どの言葉で現実へ戻すかへ目を向けて楽しむ令和ロマンの漫才。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/GNt7dOc_u6U/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "reiwa-roman-0002",
+    "title": "名字",
+    "source_title": "【M-1決勝ネタ】漫才「名字」完全版【令和ロマン】",
+    "performer": "令和ロマン",
+    "performers": [
+      "令和ロマン"
+    ],
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0002.html",
+    "youtube_url": "https://www.youtube.com/watch?v=r2lOuUYATYA",
+    "youtube_video_id": "r2lOuUYATYA",
+    "channel_name": "official令和ロマン【公式】",
+    "channel_url": "https://www.youtube.com/@official-reiwaroman",
+    "source_owner": "official令和ロマン【公式】（@official-reiwaroman）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:21:00+09:00",
+    "summary": "名字を、ワードを入口に、身近な言葉が、どの順番で別の意味や違和感を持ち始めるかへ目を向けて楽しむ令和ロマンの漫才。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/r2lOuUYATYA/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "reiwa-roman-0003",
+    "title": "実家",
+    "source_title": "漫才「実家」【令和ロマン】",
+    "performer": "令和ロマン",
+    "performers": [
+      "令和ロマン"
+    ],
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0003.html",
+    "youtube_url": "https://www.youtube.com/watch?v=gVIlbV349B8",
+    "youtube_video_id": "gVIlbV349B8",
+    "channel_name": "official令和ロマン【公式】",
+    "channel_url": "https://www.youtube.com/@official-reiwaroman",
+    "source_owner": "official令和ロマン【公式】（@official-reiwaroman）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:22:00+09:00",
+    "summary": "実家を、世界を入口に、身近な場所の安心感が、どの言葉で少しだけ違和感へ変わるかへ目を向けて楽しむ令和ロマンの漫才。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/gVIlbV349B8/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "世界"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "reiwa-roman-0004",
+    "title": "猫の島",
+    "source_title": "漫才「猫の島」【令和ロマン】",
+    "performer": "令和ロマン",
+    "performers": [
+      "令和ロマン"
+    ],
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0004.html",
+    "youtube_url": "https://www.youtube.com/watch?v=xPC0xE-Avo4",
+    "youtube_video_id": "xPC0xE-Avo4",
+    "channel_name": "official令和ロマン【公式】",
+    "channel_url": "https://www.youtube.com/@official-reiwaroman",
+    "source_owner": "official令和ロマン【公式】（@official-reiwaroman）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:23:00+09:00",
+    "summary": "猫の島を、世界を入口に、場所のイメージが膨らんだあと、相手がどこで現実的な反応を入れるかへ目を向けて楽しむ令和ロマンの漫才。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/xPC0xE-Avo4/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "世界"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "reiwa-roman-0005",
+    "title": "トイストーリー",
+    "source_title": "漫才「トイストーリー」【令和ロマン】",
+    "performer": "令和ロマン",
+    "performers": [
+      "令和ロマン"
+    ],
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0005.html",
+    "youtube_url": "https://www.youtube.com/watch?v=wNu1Nai8JBk",
+    "youtube_video_id": "wNu1Nai8JBk",
+    "channel_name": "official令和ロマン【公式】",
+    "channel_url": "https://www.youtube.com/@official-reiwaroman",
+    "source_owner": "official令和ロマン【公式】（@official-reiwaroman）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:24:00+09:00",
+    "summary": "トイストーリーを、ワードを入口に、共有されたイメージを、どの言葉で会話の笑いへ変えるかへ目を向けて楽しむ令和ロマンの漫才。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/wNu1Nai8JBk/hqdefault.jpg",
+    "mood_tags": [
+      "言葉のセンスを味わいたい",
+      "とにかく笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "ワード"
+    ],
+    "rating": {
+      "ma": 4,
+      "world": 4,
+      "word": 5,
+      "selection": "word"
+    }
+  },
+  {
+    "id": "reiwa-roman-0006",
+    "title": "町工場",
+    "source_title": "【M-1 最終決戦】漫才「町工場」【令和ロマン】",
+    "performer": "令和ロマン",
+    "performers": [
+      "令和ロマン"
+    ],
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0006.html",
+    "youtube_url": "https://www.youtube.com/watch?v=-rMr9YYw6e8",
+    "youtube_video_id": "-rMr9YYw6e8",
+    "channel_name": "official令和ロマン【公式】",
+    "channel_url": "https://www.youtube.com/@official-reiwaroman",
+    "source_owner": "official令和ロマン【公式】（@official-reiwaroman）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:25:00+09:00",
+    "summary": "町工場を、世界を入口に、まじめな場所の言葉が、どの間で会話の面白さへ変わるかへ目を向けて楽しむ令和ロマンの漫才。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/-rMr9YYw6e8/hqdefault.jpg",
+    "mood_tags": [
+      "世界観に入りたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "世界"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 5,
+      "word": 4,
+      "selection": "world"
+    }
+  },
+  {
+    "id": "reiwa-roman-0007",
+    "title": "100m走",
+    "source_title": "漫才「100m走」【令和ロマン】",
+    "performer": "令和ロマン",
+    "performers": [
+      "令和ロマン"
+    ],
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0007.html",
+    "youtube_url": "https://www.youtube.com/watch?v=xTEco_f197w",
+    "youtube_video_id": "xTEco_f197w",
+    "channel_name": "official令和ロマン【公式】",
+    "channel_url": "https://www.youtube.com/@official-reiwaroman",
+    "source_owner": "official令和ロマン【公式】（@official-reiwaroman）公式チャンネルとして確認",
+    "official_status": "verified",
+    "created_at": "2026-07-09T21:26:00+09:00",
+    "summary": "100m走を、間を入口に、速さの題材を、どの呼吸と返しで漫才のテンポへ変えるかへ目を向けて楽しむ令和ロマンの漫才。",
+    "status": "published",
+    "featured_order": 9999,
+    "recommended": false,
+    "thumbnail_url": "https://i.ytimg.com/vi/xTEco_f197w/hqdefault.jpg",
+    "mood_tags": [
+      "会話の呼吸を味わいたい",
+      "人間味で笑いたい"
+    ],
+    "theme_tags": [
+      "漫才",
+      "間"
+    ],
+    "rating": {
+      "ma": 5,
+      "world": 4,
+      "word": 4,
+      "selection": "ma"
+    }
   }
 ]
