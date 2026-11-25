@@ -1,4 +1,4 @@
-+.guide-crumb { margin-top: 1.5rem; font-size: .95rem; }
+.guide-crumb { margin-top: 1.5rem; font-size: .95rem; }
 .guide-head { padding-top: 1.2rem; }
 .guide-detail { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: clamp(1.5rem, 4vw, 3.5rem); align-items: start; }
 .guide-detail h2 { margin: 0 0 1rem; }

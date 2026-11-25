@@ -1,0 +1,17 @@
+# タイムマシーン3号「映画予告」
+
+タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「映画予告」。
+
+[公式YouTubeで見る](https://www.youtube.com/watch?v=L0tC203n4Js)
+
+- 動画タイトル：【公式】タイムマシーン3号 漫才「映画予告」
+- 出演：タイムマシーン3号
+- 投稿元：[タイムマシーン3号Official YouTube Channel](https://www.youtube.com/@3officialyoutubechannel991)
+- 再生時間：11:46
+- リンク確認日：2026年11月25日
+
+## 関連するネタ
+
+- [タイムマシーン3号「進○ゼミ」](/articles/time-machine-3go-0105.html)
+- [タイムマシーン3号「太らせる車ver.」](/articles/time-machine-3go-0106.html)
+- [タイムマシーン3号「デブデブモリモリ」](/articles/time-machine-3go-0107.html)

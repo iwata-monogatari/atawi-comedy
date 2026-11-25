@@ -166,7 +166,7 @@ function getFilteredVideos() {
     const text = [
       video.title,
       video.source_title,
-      video.performer,
+      ...(video.performers || [video.performer]),
       video.genre,
       video.summary,
       ...(video.mood_tags || []),
@@ -174,7 +174,7 @@ function getFilteredVideos() {
     ].join(" ").toLowerCase();
     const tags = [video.genre, ...(video.mood_tags || []), ...(video.theme_tags || [])];
     return (!keyword || text.includes(keyword))
-      && (!performer || video.performer === performer)
+      && (!performer || (video.performers || [video.performer]).includes(performer))
       && (!decade || video.decade === decade)
       && (!theme || tags.includes(theme));
   });
@@ -215,7 +215,7 @@ function renderCard(video) {
         <p class="summary">${escapeHtml(video.summary)}</p>
         <div class="video-meta">
           <span>投稿日 ${escapeHtml(postedDate)}</span>
-          <span>${escapeHtml(releaseText)}</span>
+          ${video.release_year ? `<span>${escapeHtml(releaseText)}</span>` : ""}
         </div>
         <div class="source-badge">${escapeHtml(officialText)}</div>
         ${guide ? "" : `<div class="selection-pill">大石セレクション：${escapeHtml(selectionLabel)}</div>

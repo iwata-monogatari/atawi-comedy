@@ -64,5 +64,47 @@
     "name": "パーパー",
     "kana": "ぱーぱー",
     "type": "コンビ"
+  },
+  {
+    "id": "nakagawake",
+    "name": "中川家",
+    "kana": "なかがわけ",
+    "type": "コンビ"
+  },
+  {
+    "id": "rubber-girl",
+    "name": "ラバーガール",
+    "kana": "らばーがーる",
+    "type": "コンビ"
+  },
+  {
+    "id": "time-machine-3go",
+    "name": "タイムマシーン3号",
+    "kana": "たいむましーんさんごう",
+    "type": "コンビ"
+  },
+  {
+    "id": "kagaya",
+    "name": "かが屋",
+    "kana": "かがや",
+    "type": "コンビ"
+  },
+  {
+    "id": "viking",
+    "name": "バイきんぐ",
+    "kana": "ばいきんぐ",
+    "type": "コンビ"
+  },
+  {
+    "id": "knights",
+    "name": "ナイツ",
+    "kana": "ないつ",
+    "type": "コンビ"
+  },
+  {
+    "id": "rahmens",
+    "name": "ラーメンズ",
+    "kana": "らーめんず",
+    "type": "コンビ"
   }
 ]

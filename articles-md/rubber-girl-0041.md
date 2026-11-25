@@ -1,0 +1,17 @@
+# ラバーガール「「それSnow Manにやらせて下さい」と言われてSnow Manに何度も助けられた人」
+
+「それSnow Manにやらせて下さい」と言われてSnow Manに何度も助けられた人。この人物設定でラバーガールが演じる、第2チャンネルのコントです。
+
+[公式YouTubeで見る](https://www.youtube.com/watch?v=lQTijtbM3gk)
+
+- 動画タイトル：「それSnow Manにやらせて下さい」と言われてSnow Manに何度も助けられた人【ラバーガール新ネタ】
+- 出演：ラバーガール
+- 投稿元：[第2ラバーガールChannel【公式】](https://www.youtube.com/@rubbergirl2)
+- 再生時間：9:01
+- リンク確認日：2026年11月25日
+
+## 関連するネタ
+
+- [ラバーガール「デート代は全てよしもとの先輩が奢るべき！と言う人」](/articles/rubber-girl-0042.html)
+- [ラバーガール「タモリ俱楽部が終わって「空耳アワー」のネタを出すところが無くなってしまった人」](/articles/rubber-girl-0043.html)
+- [ラバーガール「「卒業したいこと」を聞いたら変な答えだった人」](/articles/rubber-girl-0044.html)
