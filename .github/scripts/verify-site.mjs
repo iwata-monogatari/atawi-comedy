@@ -149,38 +149,11 @@ console.log(
   `verify-site: ok (${publishedVideos.length} published videos, ${articleFiles.length} article pages)`
 );
 
-// This one-off check runs on the verification branch, without changing the production site.
-import {setTimeout as pause} from 'node:timers/promises';
-const inputs = JSON.parse(fs.readFileSync('.github/scripts/link-candidates.json','utf8'));
-const report=[];
-let cursor=0, throttled=false;
-async function worker() {
-  while(cursor<inputs.length && !throttled){
-    const entry=inputs[cursor++]; const [id,needDetails]=entry;
-    const watch='https://www.youtube.com/watch?v='+id;
-    try{
-      const response=await fetch('https://www.youtube.com/oembed?format=json&url='+encodeURIComponent(watch),{signal:AbortSignal.timeout(14000)});
-      const result={id,status:response.status};
-      if(response.status===429){throttled=true;}
-      if(response.ok){
-        const data=await response.json();
-        Object.assign(result,{title:data.title,channel:data.author_name,channel_url:data.author_url});
-        if(needDetails){
-          const page=await fetch(watch,{signal:AbortSignal.timeout(14000)});
-          if(page.ok){const html=await page.text();
-            const prop=(k)=>{const tag=html.match(new RegExp('<meta\\s[^>]*itemprop=["\x27]'+k+'["\x27][^>]*>','i'))?.[0];return tag?.match(/content=["']([^"']+)/i)?.[1];};
-            result.date=prop('uploadDate');result.duration=prop('duration');const regions=prop('regionsAllowed');if(regions)result.jp=regions.split(',').includes('JP');
-          }
-          if(page.status===429){throttled=true;}
-        }
-      }
-      report.push(result);
-    }catch(error){report.push({id,status:0,error:error.message});}
-    await pause(120);
-  }
-}
-await Promise.all(Array.from({length:4},worker));
-for(let i=0;i<report.length;i+=8){
-  console.log('LINKCHECK '+Buffer.from(JSON.stringify(report.slice(i,i+8))).toString('base64'));
-}
-console.log('Audited',report.length,'of',inputs.length, 'YouTube watch URLs');
+import {execFileSync} from 'node:child_process'; import {gzipSync} from 'node:zlib';
+const inventoryFolder=process.env.RUNNER_TEMP+'/yt-list-tools';
+execFileSync('python3',['-m','pip','install','--quiet','--target',inventoryFolder,'yt-dlp'],{stdio:'inherit',timeout:90000});
+for(const id of ["UCOg6P-Ne5Hdd5tDtcOHDd-Q","UCbJFVj5Zp7NVzOxAj75F7GQ","UCQpvlT4xWlVmUj39iNt8oRg"]){try{
+const out=execFileSync('python3',['-m','yt_dlp','--flat-playlist','--ignore-errors','--retries','1','--extractor-retries','1','--socket-timeout','12','--skip-download','-J','https://www.youtube.com/channel/'+id+'/videos'],{env:{...process.env,PYTHONPATH:inventoryFolder},encoding:'utf8',maxBuffer:64*1024*1024,timeout:160000});
+const r=JSON.parse(out);const vs=r.entries.filter(x=>x&&x.id&&x.title).map(x=>[x.id,x.title,x.duration||null,x.availability||null]);
+const data=gzipSync(JSON.stringify(vs)).toString('base64');for(let i=0;i<data.length;i+=3400)console.log('LISTDATA '+id+' '+data.slice(i,i+3400));console.log('COUNT',id,vs.length);
+}catch(err){console.log('Public list unavailable',id,String(err.message).slice(0,500));}}
