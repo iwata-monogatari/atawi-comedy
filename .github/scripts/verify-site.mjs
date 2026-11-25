@@ -150,10 +150,10 @@ console.log(
 );
 
 import {execFileSync} from 'node:child_process'; import {gzipSync} from 'node:zlib';
-const inventoryFolder=process.env.RUNNER_TEMP+'/yt-list-tools';
-execFileSync('python3',['-m','pip','install','--quiet','--target',inventoryFolder,'yt-dlp'],{stdio:'inherit',timeout:90000});
-for(const id of ["UCOg6P-Ne5Hdd5tDtcOHDd-Q","UCbJFVj5Zp7NVzOxAj75F7GQ","UCQpvlT4xWlVmUj39iNt8oRg"]){try{
-const out=execFileSync('python3',['-m','yt_dlp','--flat-playlist','--ignore-errors','--retries','1','--extractor-retries','1','--socket-timeout','12','--skip-download','-J','https://www.youtube.com/channel/'+id+'/videos'],{env:{...process.env,PYTHONPATH:inventoryFolder},encoding:'utf8',maxBuffer:64*1024*1024,timeout:160000});
+const ytFolder=process.env.RUNNER_TEMP+'/list-jp';
+execFileSync('python3',['-m','pip','install','--quiet','--target',ytFolder,'yt-dlp'],{stdio:'inherit',timeout:90000});
+for(const [id,surface] of [['UCOg6P-Ne5Hdd5tDtcOHDd-Q','videos'],['UCQpvlT4xWlVmUj39iNt8oRg','videos'],['UCQpvlT4xWlVmUj39iNt8oRg','shorts']]){try{
+const out=execFileSync('python3',['-m','yt_dlp','--flat-playlist','--ignore-errors','--retries','1','--extractor-retries','1','--socket-timeout','12','--extractor-args','youtube:lang=ja','--extractor-args','youtubetab:lang=ja','--skip-download','-J','https://www.youtube.com/channel/'+id+'/'+surface],{env:{...process.env,PYTHONPATH:ytFolder},encoding:'utf8',maxBuffer:64*1024*1024,timeout:150000});
 const r=JSON.parse(out);const vs=r.entries.filter(x=>x&&x.id&&x.title).map(x=>[x.id,x.title,x.duration||null,x.availability||null]);
-const data=gzipSync(JSON.stringify(vs)).toString('base64');for(let i=0;i<data.length;i+=3400)console.log('LISTDATA '+id+' '+data.slice(i,i+3400));console.log('COUNT',id,vs.length);
-}catch(err){console.log('Public list unavailable',id,String(err.message).slice(0,500));}}
+const data=gzipSync(JSON.stringify(vs)).toString('base64');for(let i=0;i<data.length;i+=3400)console.log('LISTDATA '+id+'_'+surface+' '+data.slice(i,i+3400));console.log('COUNT',id,surface,vs.length);
+}catch(err){console.log('Public list unavailable',id,String(err.message).slice(0,450));}}
