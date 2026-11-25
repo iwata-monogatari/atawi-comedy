@@ -149,11 +149,20 @@ console.log(
   `verify-site: ok (${publishedVideos.length} published videos, ${articleFiles.length} article pages)`
 );
 
-import {setTimeout as wait} from 'node:timers/promises';
-const targets=JSON.parse(fs.readFileSync('.github/scripts/prod-targets.json','utf8'));
-const site='https://atawicomedy.link';let ready=false;
-for(let i=0;i<20;i++){try{const response=await fetch(site+'/guides/konto-manzai/?fga_internal=1');if(response.ok&&(await response.text()).includes('7組のコント・漫才を公式動画で見る')){ready=true;break;}}catch{}await wait(5000);}
-if(!ready)throw Error('Production not yet ready');
-const failures=[];let cursor=0,ok=0;
-async function worker(){while(cursor<targets.length){const [url,...tokens]=targets[cursor++];let error='';let pass=false;for(let n=0;n<3;n++){try{const res=await fetch(site+url+'?fga_internal=1',{signal:AbortSignal.timeout(20000)});if(!res.ok)throw Error('HTTP '+res.status);const html=await res.text();if(!tokens.every(t=>html.includes(t)))throw Error('content mismatch');pass=true;break;}catch(e){error=e.message;await wait(900);}}if(pass)ok++;else failures.push([url,error]);await wait(80);}}
-await Promise.all(Array.from({length:5},worker));const data=await (await fetch(site+'/data/videos.json?fga_internal=1')).json();const count=data.filter(x=>x.status==='published'&&x.official_status==='verified').length;console.log('PRODUCTION_REPORT '+JSON.stringify({checked:targets.length,ok,count,failures}));if(failures.length||count!==1000)process.exitCode=1;
+import {execFileSync} from 'node:child_process';
+import {createRequire} from 'node:module';
+const folder=process.env.RUNNER_TEMP+'/published-ui-check';
+fs.mkdirSync(folder,{recursive:true});execFileSync('npm',['install','--prefix',folder,'--no-audit','--no-fund','playwright-core'],{stdio:'inherit',timeout:120000});
+const require=createRequire(folder+'/test.cjs');const {chromium}=require('playwright-core');
+const exe=execFileSync('which',['google-chrome'],{encoding:'utf8'}).trim();
+const browser=await chromium.launch({executablePath:exe,headless:true});
+try{
+const page=await browser.newPage({viewport:{width:1280,height:850}});const base='https://atawicomedy.link';
+await page.goto(base+'/articles/?fga_internal=1',{waitUntil:'domcontentloaded'});await page.waitForFunction(()=>document.querySelector('[data-video-count]')?.textContent?.includes('1000'),{timeout:30000});
+console.log('UI total '+await page.locator('[data-video-count]').innerText());
+await page.locator('[data-filter-performer]').selectOption({label:'中川家'});await page.locator('[data-search]').fill('内見');await page.waitForFunction(()=>document.querySelector('[data-video-count]')?.textContent?.startsWith('1件'));
+await page.getByRole('link',{name:'内見',exact:true}).click();await page.waitForURL('**/nakagawake-0048*');console.log('UI article '+await page.title()+' '+await page.getByRole('link',{name:'公式YouTubeで見る',exact:true}).getAttribute('href'));
+await page.goto(base+'/guides/konto-manzai/?fga_internal=1',{waitUntil:'domcontentloaded'});await page.getByRole('heading',{name:'7組のコント・漫才を公式動画で見る'}).waitFor();const desktop=await page.screenshot({type:'jpeg',quality:40,clip:{x:0,y:0,width:1050,height:570}});console.log('SCREEN_DESKTOP '+desktop.toString('base64'));
+await page.setViewportSize({width:390,height:844});await page.getByRole('link',{name:'ラーメンズのネタをすべて見る'}).click();await page.getByRole('heading',{name:'ラーメンズの公式ネタ一覧'}).waitFor();const details=await page.evaluate(()=>({width:innerWidth,scroll:document.documentElement.scrollWidth,works:document.querySelectorAll('.netalink').length,title:document.title}));console.log('UI mobile '+JSON.stringify(details));if(details.scroll>details.width||details.works!==100)throw Error('mobile artist verification failed');
+const mobile=await page.screenshot({type:'jpeg',quality:42});console.log('SCREEN_MOBILE '+mobile.toString('base64'));
+}finally{await browser.close()}
