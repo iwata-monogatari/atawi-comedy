@@ -199,7 +199,8 @@ function getFilteredVideos() {
 function renderCard(video) {
   const selection = getSelection(video);
   const selectionLabel = selectionLabels[selection] || "間";
-  const tags = [selectionLabel, video.genre, ...(video.mood_tags || []).slice(0, 2)].filter(Boolean);
+  const guide = video.content_type === "video_guide";
+  const tags = [guide ? null : selectionLabel, video.genre, ...(video.mood_tags || []).slice(0, 2)].filter(Boolean);
   const officialText = video.official_status === "verified" ? "公式YouTube確認済み" : "公式リンク確認中";
   const postedDate = formatDate(video.created_at);
   const releaseText = video.release_year ? `${video.release_year}年公開` : "公開年未設定";
@@ -217,13 +218,13 @@ function renderCard(video) {
           <span>${escapeHtml(releaseText)}</span>
         </div>
         <div class="source-badge">${escapeHtml(officialText)}</div>
-        <div class="selection-pill">大石セレクション：${escapeHtml(selectionLabel)}</div>
+        ${guide ? "" : `<div class="selection-pill">大石セレクション：${escapeHtml(selectionLabel)}</div>
         <dl class="rating-grid" aria-label="大石セレクション評価">
           <div><dt>間</dt><dd>${stars(video.rating?.ma)}</dd></div>
           <div><dt>世界</dt><dd>${stars(video.rating?.world)}</dd></div>
           <div><dt>ワード</dt><dd>${stars(video.rating?.word)}</dd></div>
         </dl>
-        <p class="card-label">${escapeHtml(cardLabels[selection] || "大石が出会った一本")}</p>
+        <p class="card-label">${escapeHtml(cardLabels[selection] || "大石が出会った一本")}</p>`}
         <div class="tag-row">${tags.map((tag) => `<span>#${escapeHtml(tag)}</span>`).join("")}</div>
         <div class="card-actions">
           <a class="button primary" href="${escapeHtml(video.article_url)}">読む</a>

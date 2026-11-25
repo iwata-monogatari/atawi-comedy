@@ -10186,5 +10186,2005 @@
       "世界",
       "日常"
     ]
+  },
+  {
+    "id": "sandwichman-0036",
+    "title": "カラオケ",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0036.html",
+    "youtube_url": "https://www.youtube.com/watch?v=5kmyOfvucp8",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "カラオケに行く日なら、歌い始める前から楽しめる一本。サンドウィッチマンがカラオケを題材にした2015年のコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "さんどうぃっちまん"
+    ]
+  },
+  {
+    "id": "tokyo03-0039",
+    "title": "同期会",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo03-0039.html",
+    "youtube_url": "https://www.youtube.com/watch?v=nhCXaSBFXg0",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "同じ時期に入った仲間が顔を合わせる「同期会」。第17回単独公演「時間に解決させないで」から、三人の距離感に注目して観たい一本です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "とうきょうぜろさん"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0018",
+    "title": "デパート",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo-hoteison-0018.html",
+    "youtube_url": "https://www.youtube.com/watch?v=aNmAFwj6asY",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "いろいろな売り場が並ぶデパートを題材に、東京ホテイソンが二人で見せる漫才。単独公演で披露したネタを見られます。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "とうきょうほていそん"
+    ]
+  },
+  {
+    "id": "sissonne-0036",
+    "title": "新規開店 ラーメンチェーン",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/sissonne-0036.html",
+    "youtube_url": "https://www.youtube.com/watch?v=QX8wbRPaKD4",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "中川家とシソンヌが、新しく開くラーメンチェーン店を舞台に共演。「中川家の寄席2022」で披露されたコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "しそんぬ"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0039",
+    "title": "タレント",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0039.html",
+    "youtube_url": "https://www.youtube.com/watch?v=4SNubGEfJ80",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "芸能界で耳にする「タレント」がこの舞台では何を指すのか。2014年にシアターモリエールで上演した単独公演からの一本です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "さらばせいしゅんのひかり"
+    ]
+  },
+  {
+    "id": "lotti-0048",
+    "title": "ついで",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0048.html",
+    "youtube_url": "https://www.youtube.com/watch?v=44edNL_0Z7Y",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "日常で何気なく口にする一言「ついで」をタイトルにしたコント。ロッチの単独ライブ「オフロッチ」で披露した一本です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ろっち"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0037",
+    "title": "レーザートラップ",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0037.html",
+    "youtube_url": "https://www.youtube.com/watch?v=cnY_OhCV154",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "レーザーの罠というアクション映画さながらの題材を舞台へ。ヨーロッパ企画と組んだ単独ライブ『CHOCOHOLIC』の一幕です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ちょこれーとぷらねっと"
+    ]
+  },
+  {
+    "id": "non-style-0010",
+    "title": "マナー違反を注意する",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0010.html",
+    "youtube_url": "https://www.youtube.com/watch?v=4_ihXdOGdb4",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "人のマナー違反を見かけたら、どう注意するか。ひとこと声をかける場面を、石田と井上が何度も繰り返す漫才です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "のんすたいる"
+    ]
+  },
+  {
+    "id": "reiwa-roman-0008",
+    "title": "恋愛リアリティショー",
+    "performer": "令和ロマン",
+    "genre": "漫才",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0008.html",
+    "youtube_url": "https://www.youtube.com/watch?v=w4XN5JYzVCc",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "『バチェラー』を題材にしたネタに『今日、好きになりました。』の要素を加えた漫才。くるまが公式の説明欄で、恋愛番組二つを出発点にしたと明かしています。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "れいわろまん"
+    ]
+  },
+  {
+    "id": "parpar-0056",
+    "title": "いじめられっ子",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0056.html",
+    "youtube_url": "https://www.youtube.com/watch?v=M1rJqhiQHnA",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "「いじめられっ子」という役をどう演じるのか。2018年7月のライブ「ライラックブルー」で披露したコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ぱーぱー"
+    ]
+  },
+  {
+    "id": "sandwichman-0037",
+    "title": "不動産屋",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0037.html",
+    "youtube_url": "https://www.youtube.com/watch?v=LWt2jrM8sZE",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "家を探す人におなじみの不動産屋。普段なら条件をすり合わせる場所を、サンドウィッチマンはコントの舞台に選びました。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "さんどうぃっちまん"
+    ]
+  },
+  {
+    "id": "tokyo03-0040",
+    "title": "陶芸家と弟子",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo03-0040.html",
+    "youtube_url": "https://www.youtube.com/watch?v=YEdBFj297O4",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "師匠と弟子という間柄を取り上げた、第27回単独公演「とりあえず謝れず」の一編。立場の違いを意識して二人の言葉を聞いてみてください。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "とうきょうぜろさん"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0019",
+    "title": "動物園の飼育員",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo-hoteison-0019.html",
+    "youtube_url": "https://www.youtube.com/watch?v=0c-QBeRARaM",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "動物の世話をする飼育員を題材にした漫才。動物園で普段目にする仕事が、ショーゴとたけるの言葉でどう見えてくるでしょうか。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "とうきょうほていそん"
+    ]
+  },
+  {
+    "id": "sissonne-0037",
+    "title": "お楽しみクジ",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "/articles/sissonne-0037.html",
+    "youtube_url": "https://www.youtube.com/watch?v=7geukz2eoRg",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "商店街のくじ引きに、自転車でやって来た男が狙うのは一等。ルミネtheよしもとの「頂～itadaki～Battle」で披露されたコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "しそんぬ"
+    ]
+  },
+  {
+    "id": "saraba-seishun-no-hikari-0040",
+    "title": "夜道",
+    "performer": "さらば青春の光",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/saraba-seishun-no-hikari-0040.html",
+    "youtube_url": "https://www.youtube.com/watch?v=psID4B_QJBg",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "同じ道でも、夜になると足音一つが違って聞こえます。さらば青春の光が単独公演『野良野良野良』で演じた舞台コントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "さらばせいしゅんのひかり"
+    ]
+  },
+  {
+    "id": "lotti-0049",
+    "title": "美容クリニック",
+    "performer": "ロッチ",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/lotti-0049.html",
+    "youtube_url": "https://www.youtube.com/watch?v=F7eCyzdHxH8",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "単独ライブ「アポロッチ19号」から、美容クリニックを題材にしたコントを見られます。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ろっち"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0038",
+    "title": "もしもピアノが弾けたなら",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0038.html",
+    "youtube_url": "https://www.youtube.com/watch?v=4_vHGx5Yfy4",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "「もしも」という願いを題名に掲げたコント。2022年に草月ホールで上演された『CHOCOHOLIC』の収録映像です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ちょこれーとぷらねっと"
+    ]
+  },
+  {
+    "id": "non-style-0011",
+    "title": "1キログラム",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0011.html",
+    "youtube_url": "https://www.youtube.com/watch?v=7l_OaepJyPw",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "「1キログラム」をめぐるクイズが題材。問題を素直に楽しみたい井上と、問題そのものに口を挟みたい石田のやり取りに耳を傾けてみてください。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "のんすたいる"
+    ]
+  },
+  {
+    "id": "reiwa-roman-0009",
+    "title": "ドラえもん",
+    "performer": "令和ロマン",
+    "genre": "漫才",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0009.html",
+    "youtube_url": "https://www.youtube.com/watch?v=aDMqjKDWUXM",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "くるまと誕生日が同じ猫型ロボット、ドラえもんが題材。寄席で繰り返し演じるうちに内容が変わっていったと、くるまが紹介しています。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "れいわろまん"
+    ]
+  },
+  {
+    "id": "parpar-0057",
+    "title": "カツアゲ",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0057.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Ca6Qko2lTXQ",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "お金を脅し取る「カツアゲ」が題材です。2019年5月の「ライラックブルー」で披露した舞台映像を見られます。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ぱーぱー"
+    ]
+  },
+  {
+    "id": "sandwichman-0038",
+    "title": "スポーツジム",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0038.html",
+    "youtube_url": "https://www.youtube.com/watch?v=1uX4_3goTsE",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "体を鍛える場所で、二人はどんなやり取りをするのでしょう。2012年の舞台から、スポーツジムを題材にしたコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "さんどうぃっちまん"
+    ]
+  },
+  {
+    "id": "tokyo03-0041",
+    "title": "引越し屋",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo03-0041.html",
+    "youtube_url": "https://www.youtube.com/watch?v=N0fTKKfLf8E",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "第26回単独公演「腹割って腹立った」の特典映像から、引っ越しの現場を題材にしたコントを観られます。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "とうきょうぜろさん"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0020",
+    "title": "歌が上手くなりたい",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo-hoteison-0020.html",
+    "youtube_url": "https://www.youtube.com/watch?v=A7gjYAy0GAk",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "歌がもっと上手くなりたい。カラオケで一度は抱きそうな願いを掲げた、東京ホテイソンの漫才です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "とうきょうほていそん"
+    ]
+  },
+  {
+    "id": "sissonne-0038",
+    "title": "更女さんの「ほっとけない！お料理教室」",
+    "performer": "シソンヌ",
+    "genre": "コント",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/sissonne-0038.html",
+    "youtube_url": "https://www.youtube.com/watch?v=52Z2HiIhFAw",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "シソンヌが更生保護女性会の皆さんに話を聞き、その活動を料理教室という設定のコントにしました。吉本興業チャンネルで公開されています。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "しそんぬ"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0039",
+    "title": "3秒ルールを破ってしまった",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2024,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0039.html",
+    "youtube_url": "https://www.youtube.com/watch?v=K2-2ZJFTU9E",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "落とした食べ物をめぐる俗説「3秒ルール」を、病院に持ち込むほど心配したら。患者の真剣な相談を記録映像風に演じます。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ちょこれーとぷらねっと"
+    ]
+  },
+  {
+    "id": "non-style-0012",
+    "title": "空気がおいしい",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0012.html",
+    "youtube_url": "https://www.youtube.com/watch?v=6EbAYCQlIyU",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "外に出たとき、つい口にする「空気がおいしい」。何気ない言い回しを取り上げた石田が、井上に独特の理屈をぶつけます。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "のんすたいる"
+    ]
+  },
+  {
+    "id": "reiwa-roman-0010",
+    "title": "ドラッグストア",
+    "performer": "令和ロマン",
+    "genre": "漫才",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0010.html",
+    "youtube_url": "https://www.youtube.com/watch?v=dZISzC911Jk",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "コロナ禍の2020年、ドラッグストアで実際に見かけた人をもとにした漫才。くるまが公式の説明欄で着想を振り返っています。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "れいわろまん"
+    ]
+  },
+  {
+    "id": "parpar-0058",
+    "title": "スーサイドガール",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0058.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Yn3KTJmX5OU",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "2021年1月のライブ「ライラックブルー」から。恋愛や学校を題名にした作品が多い二人の、ひときわ異色のタイトルです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ぱーぱー"
+    ]
+  },
+  {
+    "id": "sandwichman-0039",
+    "title": "薬局",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0039.html",
+    "youtube_url": "https://www.youtube.com/watch?v=XhvUsxNYO1M",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "薬局で相談をするとき、こちらの話はちゃんと通じるのか。身近な店を舞台にしたサンドウィッチマンのコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "さんどうぃっちまん"
+    ]
+  },
+  {
+    "id": "tokyo03-0042",
+    "title": "間",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo03-0042.html",
+    "youtube_url": "https://www.youtube.com/watch?v=h-VGKGx5G4U",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "誰かが次のひと言を発するまで、客席は何を待っているのか。「間」という一文字を題にした、第26回単独公演のコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "とうきょうぜろさん"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0021",
+    "title": "スポーツが下手",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo-hoteison-0021.html",
+    "youtube_url": "https://www.youtube.com/watch?v=kRqByWEx6EA",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "運動が苦手な人なら、題名だけでも身に覚えがあるかもしれません。二人の「普段やれない漫才シリーズ」の一本です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "とうきょうほていそん"
+    ]
+  },
+  {
+    "id": "sissonne-0039",
+    "title": "オジオジ「同窓会だね」",
+    "performer": "シソンヌ",
+    "genre": "音ネタ",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/sissonne-0039.html",
+    "youtube_url": "https://www.youtube.com/watch?v=g1uCDv2wadg",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "シソンヌが「オジオジ」として同窓会を歌う、『有吉の壁』の音ネタです。歌うことが元気の秘訣という二人の登場から楽しめます。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "音ネタ"
+    ],
+    "kana": [
+      "しそんぬ"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0040",
+    "title": "緊張して手に書いた人を飲みすぎてしまった",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0040.html",
+    "youtube_url": "https://www.youtube.com/watch?v=4bnIdO5CCpQ",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "緊張を和らげるため、手のひらに「人」と書いて飲み込むおまじない。その回数を気にして受診する相談者のコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ちょこれーとぷらねっと"
+    ]
+  },
+  {
+    "id": "non-style-0013",
+    "title": "雪山で遭難",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2024,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0013.html",
+    "youtube_url": "https://www.youtube.com/watch?v=1bT8_fmKmj0",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "舞台は遭難した雪山。公式チャンネルが、昔のNON STYLEを思い出すと紹介している漫才です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "のんすたいる"
+    ]
+  },
+  {
+    "id": "reiwa-roman-0011",
+    "title": "名探偵コナン",
+    "performer": "令和ロマン",
+    "genre": "漫才",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0011.html",
+    "youtube_url": "https://www.youtube.com/watch?v=PyFgxfG5Zao",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "『名探偵コナン』を題材に、作品の特徴を拾って掛け合いにした漫才。くるまはこの一本を、二人がアニメを漫才に取り入れるきっかけと振り返っています。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "れいわろまん"
+    ]
+  },
+  {
+    "id": "parpar-0059",
+    "title": "セミ",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0059.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ZdGp_2CsMZk",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "夏の虫一匹を題名にした短い言葉から、どんなやり取りが始まるでしょう。2020年9月の「ライラックブルー」での舞台です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ぱーぱー"
+    ]
+  },
+  {
+    "id": "sandwichman-0040",
+    "title": "紳士服店",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0040.html",
+    "youtube_url": "https://www.youtube.com/watch?v=gqapT426dWo",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "服を選びに出かけた日に見たくなる、紳士服店のコント。サンドウィッチマンの店を舞台にした作品をたどる人にもおすすめです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "さんどうぃっちまん"
+    ]
+  },
+  {
+    "id": "tokyo03-0043",
+    "title": "シャイ",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2024,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo03-0043.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ewJ9O9egbkY",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "人前では素直に振る舞えない。そんな「シャイ」という言葉を題にした、第12回単独公演「燥ぐ、驕る、暴く。」の一編です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "とうきょうぜろさん"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0022",
+    "title": "虫捕り",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo-hoteison-0022.html",
+    "youtube_url": "https://www.youtube.com/watch?v=1sW5LnrOXmg",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "虫かごや虫捕り網を手にした日のことを思い出す、夏らしい題材。東京ホテイソンが「虫捕り」を漫才にしています。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "とうきょうほていそん"
+    ]
+  },
+  {
+    "id": "sissonne-0040",
+    "title": "Deux「ネバネバの娘。」",
+    "performer": "シソンヌ",
+    "genre": "音ネタ",
+    "release_year": 2025,
+    "decade": "2020年代",
+    "article_url": "/articles/sissonne-0040.html",
+    "youtube_url": "https://www.youtube.com/watch?v=xJG0aQGNLuM",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "フレンチポップのデュオ「Deux」が夢中なのは、納豆やとろろのネバネバ。『有吉の壁』でシソンヌが披露した音ネタです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "音ネタ"
+    ],
+    "kana": [
+      "しそんぬ"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0041",
+    "title": "風邪を引かないので馬鹿なのではないかと心配",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0041.html",
+    "youtube_url": "https://www.youtube.com/watch?v=xyatebNonag",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "風邪を引かないことが、なぜ病院を訪れる理由になるのか。ことわざを真に受けた相談者が登場するシリーズの一本です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ちょこれーとぷらねっと"
+    ]
+  },
+  {
+    "id": "non-style-0014",
+    "title": "緊張させてしまう存在",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0014.html",
+    "youtube_url": "https://www.youtube.com/watch?v=ENzXOouG5uA",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "誰かを前にすると、なぜか緊張してしまう。本人が望んでいるかとは別に、人を緊張させる存在を題材にした二人の漫才です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "のんすたいる"
+    ]
+  },
+  {
+    "id": "reiwa-roman-0012",
+    "title": "秋元先生",
+    "performer": "令和ロマン",
+    "genre": "漫才",
+    "release_year": 2022,
+    "decade": "2020年代",
+    "article_url": "/articles/reiwa-roman-0012.html",
+    "youtube_url": "https://www.youtube.com/watch?v=zroMOvSNmao",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "秋元先生への思いを漫才にした一本。くるまが公式の説明欄に寄せた、先生への敬意が出発点になっています。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "れいわろまん"
+    ]
+  },
+  {
+    "id": "parpar-0060",
+    "title": "マジックショー",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0060.html",
+    "youtube_url": "https://www.youtube.com/watch?v=lngEHPrmEVk",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "手品を見るとき、つい手元に目がいきます。「マジックショー」というお題でパーパーが何を見せるのか、舞台でお楽しみください。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ぱーぱー"
+    ]
+  },
+  {
+    "id": "sandwichman-0041",
+    "title": "みどりな窓口",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0041.html",
+    "youtube_url": "https://www.youtube.com/watch?v=CPblUJmSR0E",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "駅で見慣れた看板と、少しだけ響きが違う「みどりな窓口」。題名から言葉の面白さを味わえるコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "さんどうぃっちまん"
+    ]
+  },
+  {
+    "id": "tokyo03-0044",
+    "title": "自虐",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo03-0044.html",
+    "youtube_url": "https://www.youtube.com/watch?v=8WTINZqj94o",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "自分を落として笑いを取る言葉を、聞き手はどう受け取るのか。第10回単独公演「自分、自分、自分。」の舞台映像です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "とうきょうぜろさん"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0023",
+    "title": "結婚式",
+    "performer": "東京ホテイソン",
+    "genre": "漫才",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo-hoteison-0023.html",
+    "youtube_url": "https://www.youtube.com/watch?v=37YbpK-oMZs",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "結婚式という晴れの場を題材にした一作。東京ホテイソンが「普段やれない漫才シリーズ」として公開しています。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "とうきょうほていそん"
+    ]
+  },
+  {
+    "id": "sissonne-0041",
+    "title": "オジオジ「この世でいちばん暑くて怖い夜」",
+    "performer": "シソンヌ",
+    "genre": "音ネタ",
+    "release_year": 2023,
+    "decade": "2020年代",
+    "article_url": "/articles/sissonne-0041.html",
+    "youtube_url": "https://www.youtube.com/watch?v=m4OygZL0qnw",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "夏の夜の怖い思い出を歌で振り返る、『有吉の壁』のオジオジ第2弾。「同窓会だね」と聴き比べられる、シソンヌの音ネタです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "音ネタ"
+    ],
+    "kana": [
+      "しそんぬ"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0042",
+    "title": "ヘッドスパ",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2025,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0042.html",
+    "youtube_url": "https://www.youtube.com/watch?v=_bfuwVB7Xkc",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "リラックスするはずのヘッドスパが、二人で演じるコントの舞台に。コスメフェリーチェとのプロモーションとして制作された作品です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ちょこれーとぷらねっと"
+    ]
+  },
+  {
+    "id": "non-style-0015",
+    "title": "高級食材",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0015.html",
+    "youtube_url": "https://www.youtube.com/watch?v=HgQTd51lIEs",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "うなぎのような高級食材をめぐって、石田があれこれ物申します。食べ物に対する二人の温度差が、話の出発点です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "のんすたいる"
+    ]
+  },
+  {
+    "id": "parpar-0061",
+    "title": "ヨガ教室",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0061.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Yk4A0Vrdu5c",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "体を動かすヨガ教室がコントの題材に。2020年10月のライブ「ライラックブルー」で披露した一本です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ぱーぱー"
+    ]
+  },
+  {
+    "id": "sandwichman-0042",
+    "title": "学習塾",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0042.html",
+    "youtube_url": "https://www.youtube.com/watch?v=UGsRdUxgq_o",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "授業を受ける側、教える側。学習塾という身近な場所を思い浮かべながら見たい、2012年のコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "さんどうぃっちまん"
+    ]
+  },
+  {
+    "id": "tokyo03-0045",
+    "title": "BAR",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0045.html",
+    "youtube_url": "https://www.youtube.com/watch?v=LNx2-IwzSUw",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "学生時代の友人同士が、バーテンダーのいる店で顔を合わせます。第9回単独ライブ「いらいら」から、三人の会話を味わえる一本です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "とうきょうぜろさん"
+    ]
+  },
+  {
+    "id": "tokyo-hoteison-0024",
+    "title": "マッチングアプリで出会った人がアキネイターだった",
+    "performer": "東京ホテイソン",
+    "genre": "コント",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo-hoteison-0024.html",
+    "youtube_url": "https://www.youtube.com/watch?v=a7rsnsDkWnM",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "マッチングアプリで会った相手が、質問から答えを当てるアキネイターだったら。二つのサービスを組み合わせた設定のコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "とうきょうほていそん"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0043",
+    "title": "そりゃそう体師",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2025,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0043.html",
+    "youtube_url": "https://www.youtube.com/watch?v=tRci7GaQrog",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "「整体師」の響きに、思わず口をつく「そりゃそう」を重ねた題名です。声に出したときの調子にも注目したい人物コントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ちょこれーとぷらねっと"
+    ]
+  },
+  {
+    "id": "non-style-0016",
+    "title": "否定から入るな",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0016.html",
+    "youtube_url": "https://www.youtube.com/watch?v=WmYQsztbVNk",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "人の話を否定から始めることを取り上げた漫才です。「否定から入るな」というもっともらしい言葉をきっかけに、井上が石田の仕掛けにはまります。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "のんすたいる"
+    ]
+  },
+  {
+    "id": "parpar-0062",
+    "title": "引きこもり",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0062.html",
+    "youtube_url": "https://www.youtube.com/watch?v=CNCd3SgnB3Q",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "「引きこもり」を題名にした2017年のコント。4月に行われたライブ「フライングピンク」の舞台で二人の掛け合いを見られます。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ぱーぱー"
+    ]
+  },
+  {
+    "id": "sandwichman-0043",
+    "title": "クレーム処理",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0043.html",
+    "youtube_url": "https://www.youtube.com/watch?v=rxz1O7Kkbps",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "苦情を伝える人と受け止める人。普段は気の重いクレーム対応を題材にした、サンドウィッチマンの舞台コントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "さんどうぃっちまん"
+    ]
+  },
+  {
+    "id": "tokyo03-0046",
+    "title": "優しくなりたい",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/tokyo03-0046.html",
+    "youtube_url": "https://www.youtube.com/watch?v=y5NaspGZv_w",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "「優しくなりたい」という思いを題にした一本。第22回単独公演「ヤな塩梅」から、オークラ脚本、東京03・オークラ演出の舞台を観られます。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "とうきょうぜろさん"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0044",
+    "title": "はじめてのスーツ試着",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2025,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0044.html",
+    "youtube_url": "https://www.youtube.com/watch?v=IIggKFGpb5k",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "初めて袖を通すスーツ。試着という慣れない場面を題材に、洋服の青山とのプロモーションで二人が演じたコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ちょこれーとぷらねっと"
+    ]
+  },
+  {
+    "id": "non-style-0017",
+    "title": "大根役者",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0017.html",
+    "youtube_url": "https://www.youtube.com/watch?v=yGqxBStfBIQ",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "演技を評するときに使う「大根役者」という言葉が題材。公式動画のタイトルにも登場する、井上の俳優評が話の糸口です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "のんすたいる"
+    ]
+  },
+  {
+    "id": "parpar-0063",
+    "title": "研究室",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0063.html",
+    "youtube_url": "https://www.youtube.com/watch?v=DZfEIHFtp90",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "この一本の舞台は、タイトル通り「研究室」。2018年12月の「ライラックブルー」に出演したときの映像です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ぱーぱー"
+    ]
+  },
+  {
+    "id": "sandwichman-0044",
+    "title": "刑事富澤",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0044.html",
+    "youtube_url": "https://www.youtube.com/watch?v=Woz8yxojcO8",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "富澤の名前に「刑事」の肩書がついたら、どんな人物が現れるのか。その取り合わせが気になる人へ、2017年のコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "さんどうぃっちまん"
+    ]
+  },
+  {
+    "id": "tokyo03-0047",
+    "title": "修学旅行",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0047.html",
+    "youtube_url": "https://www.youtube.com/watch?v=PLUl51eS8C0",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "三人が取り上げるのは、学生時代の大きな行事だった修学旅行。第9回単独ライブ「いらいら」の舞台映像です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "とうきょうぜろさん"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0045",
+    "title": "塾の先生",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2025,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0045.html",
+    "youtube_url": "https://www.youtube.com/watch?v=agFeNtbDPCw",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "個別指導塾「森塾」にちなんで制作されたコントです。教室と聞いて思い浮かべる先生像を重ねながら楽しめます。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ちょこれーとぷらねっと"
+    ]
+  },
+  {
+    "id": "non-style-0018",
+    "title": "朝活",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0018.html",
+    "youtube_url": "https://www.youtube.com/watch?v=V9WJIZ4Gytk",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "大人の男を目指して朝活に関心を寄せる井上。純喫茶や珈琲店が思い浮かぶ朝の過ごし方に、石田が横から口を挟みます。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "のんすたいる"
+    ]
+  },
+  {
+    "id": "parpar-0064",
+    "title": "幸運のブレスレッド",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0064.html",
+    "youtube_url": "https://www.youtube.com/watch?v=E3Bq0-4JtXk",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "身につければ幸運が訪れるのか。題名に登場する腕飾りが気になる、2021年11月の「エクストラシルバー」でのコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ぱーぱー"
+    ]
+  },
+  {
+    "id": "sandwichman-0045",
+    "title": "パンダ",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0045.html",
+    "youtube_url": "https://www.youtube.com/watch?v=eQu4WFJ_PTc",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "題名は動物の名前ひとつ。サンドウィッチマンの二人が「パンダ」をどう舞台に持ち込むのか、予想しながら楽しめます。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "さんどうぃっちまん"
+    ]
+  },
+  {
+    "id": "tokyo03-0048",
+    "title": "お礼させて下さい",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0048.html",
+    "youtube_url": "https://www.youtube.com/watch?v=dfvmg2SI788",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "「お礼させて下さい」と申し出る側、その言葉を受け取る側。感謝を伝える何げないひと言から観てみたい、第11回単独公演のコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "とうきょうぜろさん"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0046",
+    "title": "電話だれから？",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0046.html",
+    "youtube_url": "https://www.youtube.com/watch?v=qkA_qJm5Glk",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "着信の相手を何げなく尋ねるひと言が、即興の出発点に。お題から二人が会話を組み立てる「その場ネタ」です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ちょこれーとぷらねっと"
+    ]
+  },
+  {
+    "id": "non-style-0019",
+    "title": "憧れの女性",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0019.html",
+    "youtube_url": "https://www.youtube.com/watch?v=3DqCjprfP_0",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "憧れの女性を話題にするうちに、石田と井上がキスシーンまで演じることに。公式チャンネルがその一幕を予告している漫才です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "のんすたいる"
+    ]
+  },
+  {
+    "id": "parpar-0065",
+    "title": "合格発表",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0065.html",
+    "youtube_url": "https://www.youtube.com/watch?v=cXQ6cedgH_k",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "結果を知る直前の緊張を思い出す「合格発表」。パーパーが2019年2月の「ライラックブルー」で披露したネタです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ぱーぱー"
+    ]
+  },
+  {
+    "id": "sandwichman-0046",
+    "title": "メガネ",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0046.html",
+    "youtube_url": "https://www.youtube.com/watch?v=thdNMIaZjeg",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "毎日使っている人も多いメガネを、お笑いの題材に。身近な物の名前から入れる、サンドウィッチマンの2008年のコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "さんどうぃっちまん"
+    ]
+  },
+  {
+    "id": "tokyo03-0049",
+    "title": "めんどくさい親友",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0049.html",
+    "youtube_url": "https://www.youtube.com/watch?v=cNS4d5T6anA",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "気心の知れた相手だからこそ、「めんどくさい」と感じる瞬間もある。親友という近い関係を題にした、第15回単独公演の一編です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "とうきょうぜろさん"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0047",
+    "title": "携帯は なかなか切れない",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0047.html",
+    "youtube_url": "https://www.youtube.com/watch?v=cgRekPDoGkA",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "別れの挨拶をしても、電話はなかなか終わらない。携帯を切るタイミングの難しさをお題にした即興コントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ちょこれーとぷらねっと"
+    ]
+  },
+  {
+    "id": "non-style-0020",
+    "title": "ナマコ最初に食べた人",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0020.html",
+    "youtube_url": "https://www.youtube.com/watch?v=A0sILats0wk",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "初めてナマコを見て、食べようと思ったのはどんな人か。ふだんは素通りしてしまう食べ物の疑問を、二人が漫才にしました。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "のんすたいる"
+    ]
+  },
+  {
+    "id": "parpar-0066",
+    "title": "女優になりたい",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0066.html",
+    "youtube_url": "https://www.youtube.com/watch?v=cyaprUTT8k0",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "女優になりたい、と願いを口にする題名の一本。2015年8月の「ジャンピングイエロー」に立った二人の映像です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ぱーぱー"
+    ]
+  },
+  {
+    "id": "sandwichman-0047",
+    "title": "救急車",
+    "performer": "サンドウィッチマン",
+    "genre": "漫才",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0047.html",
+    "youtube_url": "https://www.youtube.com/watch?v=4Ei2ycRd6fE",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "救急車という切迫した場面を、二人の言葉でどう伝えるのか。サンドウィッチマンが2012年に披露した漫才です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "さんどうぃっちまん"
+    ]
+  },
+  {
+    "id": "tokyo03-0050",
+    "title": "同意見",
+    "performer": "東京03",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/tokyo03-0050.html",
+    "youtube_url": "https://www.youtube.com/watch?v=T2jf_Lc6wFQ",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "意見が一致したとき、人はどんな顔をするのか。第18回単独公演「明日の風に吹かれないで」から、「同意見」という題の舞台コントを紹介します。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "とうきょうぜろさん"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0048",
+    "title": "ほらあの人なんだっけ（松尾版）",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0048.html",
+    "youtube_url": "https://www.youtube.com/watch?v=5LM4CuSKJNA",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "顔は浮かぶのに名前だけが出てこない。「あの人」を相手に伝えようとする、日常のひとこまを素材にした即興ネタの松尾版です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ちょこれーとぷらねっと"
+    ]
+  },
+  {
+    "id": "non-style-0021",
+    "title": "Gemini",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0021.html",
+    "youtube_url": "https://www.youtube.com/watch?v=IG9PMvG3cTo",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "生成AIのGeminiにネタを考えてもらい、NON STYLEの二人が実際に演じた一本。人に代わってAIが書いた言葉を、二人の掛け合いで聞けます。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "のんすたいる"
+    ]
+  },
+  {
+    "id": "parpar-0067",
+    "title": "窓ガラス",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2016,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0067.html",
+    "youtube_url": "https://www.youtube.com/watch?v=iCqwet4mzqI",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "ひとつの物を挙げた題名は「窓ガラス」。パーパーが2016年4月の「フライングピンク」で披露したコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ぱーぱー"
+    ]
+  },
+  {
+    "id": "sandwichman-0048",
+    "title": "マスター",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0048.html",
+    "youtube_url": "https://www.youtube.com/watch?v=txXdFOtbKoU",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "「マスター」と呼ぶとき、どんな人を思い浮かべますか。登場人物の呼び名を題名に掲げた、2009年のコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "さんどうぃっちまん"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0049",
+    "title": "ざっくり",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0049.html",
+    "youtube_url": "https://www.youtube.com/watch?v=MKzMWoSBHBo",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "どこまで大まかなら「ざっくり」なのか。2019年のツアー『HOUSE』で演じた、題名の言葉の使い道が気になる舞台コントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ちょこれーとぷらねっと"
+    ]
+  },
+  {
+    "id": "non-style-0022",
+    "title": "おっさんの心霊スポット",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0022.html",
+    "youtube_url": "https://www.youtube.com/watch?v=2IkZzSl7xtE",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "おっさんと心霊スポットを組み合わせた漫才。公式チャンネルが、二人がM-1に出ていた頃のネタを思わせる一本として紹介しています。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "のんすたいる"
+    ]
+  },
+  {
+    "id": "parpar-0068",
+    "title": "本屋さん",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/parpar-0068.html",
+    "youtube_url": "https://www.youtube.com/watch?v=TqCCgbW3a8M",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "おなじみの本屋さんを題名にした、2020年1月の舞台。「ライラックブルー」で披露した二人のコントを見られます。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ぱーぱー"
+    ]
+  },
+  {
+    "id": "sandwichman-0049",
+    "title": "保険屋さん",
+    "performer": "サンドウィッチマン",
+    "genre": "漫才",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0049.html",
+    "youtube_url": "https://www.youtube.com/watch?v=KFvfNh8kbg4",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "保険の説明を聞くときの、あの独特な時間。身近な職業を漫才にしたサンドウィッチマンの一本です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "さんどうぃっちまん"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0050",
+    "title": "ピクトグダグダム",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0050.html",
+    "youtube_url": "https://www.youtube.com/watch?v=3LOlefLyrFM",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "競技をひと目で伝えるピクトグラムを、チョコプラが身体で表現。東京大会の開会式を思い出しながら見たい、動きが主役の一本です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ちょこれーとぷらねっと"
+    ]
+  },
+  {
+    "id": "non-style-0023",
+    "title": "カラオケ",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2026,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0023.html",
+    "youtube_url": "https://www.youtube.com/watch?v=b3yU-DfUp3I",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "カラオケでのハモりをどう受け止めるか。長年言いたいことがあった石田と、カラオケを楽しむ井上がそれぞれの立場から話します。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "のんすたいる"
+    ]
+  },
+  {
+    "id": "parpar-0069",
+    "title": "野球部の応援",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2015,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0069.html",
+    "youtube_url": "https://www.youtube.com/watch?v=T65RQ4iu4sU",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "テーマは野球部を応援すること。2015年5月の「フライングピンク」で披露した舞台から、パーパーの初期の一本を見られます。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ぱーぱー"
+    ]
+  },
+  {
+    "id": "sandwichman-0050",
+    "title": "トイレ",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0050.html",
+    "youtube_url": "https://www.youtube.com/watch?v=CJ-8qFc-NQ4",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "誰もが使う場所を、サンドウィッチマンの二人がコントの題材に選びました。2011年の舞台で披露された「トイレ」です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "さんどうぃっちまん"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0051",
+    "title": "モスバーガー〜スパイス＆デミ編〜",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0051.html",
+    "youtube_url": "https://www.youtube.com/watch?v=gJIuanmVhj0",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "新しいハンバーガーの味を知りたい客の長田。店員役の松尾が説明しても、なかなか伝わりません。モスバーガーとの企画コントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ちょこれーとぷらねっと"
+    ]
+  },
+  {
+    "id": "non-style-0024",
+    "title": "旅館巡り",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2021,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0024.html",
+    "youtube_url": "https://www.youtube.com/watch?v=D5skJWXSp-8",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "2020年の単独ライブで披露した「旅館巡り」。公開時には、二人がそれまで作った漫才の中で最も長いネタだと紹介されました。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "のんすたいる"
+    ]
+  },
+  {
+    "id": "parpar-0070",
+    "title": "両親へのご挨拶",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2019,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0070.html",
+    "youtube_url": "https://www.youtube.com/watch?v=3C3KHAqg5zI",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "緊張しそうな両親への挨拶が、二人にかかるとどんなコントになるのでしょう。2019年6月の「ライラックブルー」から。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ぱーぱー"
+    ]
+  },
+  {
+    "id": "sandwichman-0051",
+    "title": "職安",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0051.html",
+    "youtube_url": "https://www.youtube.com/watch?v=AMewII-MfmU",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "仕事を探しに行く職安が今回の舞台。サンドウィッチマンの窓口ものが好きな人に見てほしいコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "さんどうぃっちまん"
+    ]
+  },
+  {
+    "id": "chocolate-planet-0052",
+    "title": "財津チャンネル「ワークライフバランス」",
+    "performer": "チョコレートプラネット",
+    "genre": "コント",
+    "release_year": 2025,
+    "decade": "2020年代",
+    "article_url": "/articles/chocolate-planet-0052.html",
+    "youtube_url": "https://www.youtube.com/watch?v=EAjDMfYmggw",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "仕事と生活のバランスというおなじみの話題を、チョコプラのキャラクター・財津啓司が取り上げます。ビジネス用語の響きも聞きどころです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ちょこれーとぷらねっと"
+    ]
+  },
+  {
+    "id": "non-style-0025",
+    "title": "やりたいだけの井上",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2024,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0025.html",
+    "youtube_url": "https://www.youtube.com/watch?v=g_yzP-3BPxY",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "結成25年目に披露した漫才で、題名の主役は井上。「井上がやりたいこと」を中心に据えた舞台を、本人たちの公式チャンネルで見られます。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "のんすたいる"
+    ]
+  },
+  {
+    "id": "parpar-0071",
+    "title": "練習の賜物",
+    "performer": "パーパー",
+    "genre": "コント",
+    "release_year": 2018,
+    "decade": "2010年代",
+    "article_url": "/articles/parpar-0071.html",
+    "youtube_url": "https://www.youtube.com/watch?v=YgRNdHhCtZ8",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "何を練習したのかは題名ではまだ分かりません。2018年11月の「ライラックブルー」で披露した「練習の賜物」です。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "ぱーぱー"
+    ]
+  },
+  {
+    "id": "sandwichman-0052",
+    "title": "占い師",
+    "performer": "サンドウィッチマン",
+    "genre": "コント",
+    "release_year": 2017,
+    "decade": "2010年代",
+    "article_url": "/articles/sandwichman-0052.html",
+    "youtube_url": "https://www.youtube.com/watch?v=zezUBYFxTN0",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "占ってもらうなら、まず何を尋ねますか。占い師という役どころから入れる、サンドウィッチマンの2011年のコントです。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "コント"
+    ],
+    "kana": [
+      "さんどうぃっちまん"
+    ]
+  },
+  {
+    "id": "non-style-0026",
+    "title": "コンパ",
+    "performer": "NON STYLE",
+    "genre": "漫才",
+    "release_year": 2020,
+    "decade": "2020年代",
+    "article_url": "/articles/non-style-0026.html",
+    "youtube_url": "https://www.youtube.com/watch?v=XTuTWwroWSA",
+    "created_at": "2026-11-25T16:09:11+09:00",
+    "summary": "2005年に『爆笑オンエアバトル』で放送された「コンパ」を、結婚後の石田と井上が演じ直しました。後半には当時を振り返るトークもあります。",
+    "featured_order": 9999,
+    "mood_tags": [],
+    "theme_tags": [
+      "漫才"
+    ],
+    "kana": [
+      "のんすたいる"
+    ]
   }
 ]

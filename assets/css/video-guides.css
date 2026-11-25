@@ -1,0 +1,21 @@
++.guide-crumb { margin-top: 1.5rem; font-size: .95rem; }
+.guide-head { padding-top: 1.2rem; }
+.guide-detail { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: clamp(1.5rem, 4vw, 3.5rem); align-items: start; }
+.guide-detail h2 { margin: 0 0 1rem; }
+.guide-still { display: block; aspect-ratio: 16 / 9; overflow: hidden; border-radius: .75rem; background: var(--color-stage-navy); }
+.guide-still img { width: 100%; height: 100%; object-fit: cover; }
+.guide-data { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: .6rem 1rem; }
+.guide-data dt { color: var(--color-muted); }
+.guide-data dd { margin: 0; overflow-wrap: anywhere; }
+.guide-jump { display: flex; flex-wrap: wrap; gap: .55rem; margin: 0 0 2rem; }
+.guide-jump a { background: var(--color-spotlight-soft); border-radius: 2rem; padding: .5rem .95rem; font-weight: 700; text-decoration: none; }
+.guide-jump span, .guide-group h2 small { font-size: .85rem; font-weight: normal; }
+.guide-group { padding-block: 1.45rem; border-top: 1px solid var(--color-border); scroll-margin-top: 6rem; }
+.guide-group h2 { margin: 0 0 .85rem; }
+.neta-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 270px), 1fr)); gap: .65rem; margin: 0; padding: 0; list-style: none; }
+.netalink { display: flex; align-items: center; gap: .8rem; height: 100%; padding: .45rem; border: 1px solid var(--color-border); border-radius: .65rem; text-decoration: none; background: white; }
+.netalink:hover strong, .guide-jump a:hover { text-decoration: underline; }
+.netalink img { width: 85px; height: 56px; flex: none; object-fit: cover; border-radius: .35rem; }
+.netalink strong, .netalink small { display: block; }
+.netalink small { color: var(--color-muted); }
+@media (max-width: 700px) { .guide-detail { grid-template-columns: 1fr; gap: .8rem; margin-bottom: 1.7rem; } }
