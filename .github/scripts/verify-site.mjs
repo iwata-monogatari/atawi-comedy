@@ -148,3 +148,39 @@ if (process.exitCode) {
 console.log(
   `verify-site: ok (${publishedVideos.length} published videos, ${articleFiles.length} article pages)`
 );
+
+// This one-off check runs on the verification branch, without changing the production site.
+import {setTimeout as pause} from 'node:timers/promises';
+const inputs = JSON.parse(fs.readFileSync('.github/scripts/link-candidates.json','utf8'));
+const report=[];
+let cursor=0, throttled=false;
+async function worker() {
+  while(cursor<inputs.length && !throttled){
+    const entry=inputs[cursor++]; const [id,needDetails]=entry;
+    const watch='https://www.youtube.com/watch?v='+id;
+    try{
+      const response=await fetch('https://www.youtube.com/oembed?format=json&url='+encodeURIComponent(watch),{signal:AbortSignal.timeout(14000)});
+      const result={id,status:response.status};
+      if(response.status===429){throttled=true;}
+      if(response.ok){
+        const data=await response.json();
+        Object.assign(result,{title:data.title,channel:data.author_name,channel_url:data.author_url});
+        if(needDetails){
+          const page=await fetch(watch,{signal:AbortSignal.timeout(14000)});
+          if(page.ok){const html=await page.text();
+            const prop=(k)=>{const tag=html.match(new RegExp('<meta\\s[^>]*itemprop=["\x27]'+k+'["\x27][^>]*>','i'))?.[0];return tag?.match(/content=["']([^"']+)/i)?.[1];};
+            result.date=prop('uploadDate');result.duration=prop('duration');const regions=prop('regionsAllowed');if(regions)result.jp=regions.split(',').includes('JP');
+          }
+          if(page.status===429){throttled=true;}
+        }
+      }
+      report.push(result);
+    }catch(error){report.push({id,status:0,error:error.message});}
+    await pause(120);
+  }
+}
+await Promise.all(Array.from({length:4},worker));
+for(let i=0;i<report.length;i+=8){
+  console.log('LINKCHECK '+Buffer.from(JSON.stringify(report.slice(i,i+8))).toString('base64'));
+}
+console.log('Audited',report.length,'of',inputs.length, 'YouTube watch URLs');
