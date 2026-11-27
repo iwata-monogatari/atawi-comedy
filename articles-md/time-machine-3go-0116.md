@@ -1,5 +1,7 @@
 # タイムマシーン3号「デブキャラ一本じゃキツい」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「デブキャラ一本じゃキツい」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=24AfY75nPVw)

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: sandwichman-0028
 title: "哀川頂(CM撮影)"
 performer: "サンドウィッチマン"

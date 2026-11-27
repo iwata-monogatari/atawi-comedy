@@ -1,5 +1,7 @@
 # 中川家「羽田空港」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2020」で披露したコント「羽田空港」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=lPD7ElDHpcs)

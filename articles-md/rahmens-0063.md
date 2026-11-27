@@ -1,5 +1,7 @@
 # ラーメンズ「時間電話」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『椿』で披露されたコント「時間電話」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=kR7ou8z4wwA)

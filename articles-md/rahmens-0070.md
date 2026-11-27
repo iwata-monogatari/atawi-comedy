@@ -1,5 +1,7 @@
 # ラーメンズ「心の中の男」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『椿』で披露されたコント「心の中の男」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=kB5eIF9Niy4)

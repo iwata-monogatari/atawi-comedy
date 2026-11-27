@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: nobrocktv-0046
 title: "飲み会｜二瓶有加・風吹ケイ・立野沙紀の飲み会トーク"
 performer: "佐久間宣行のNOBROCK TV"

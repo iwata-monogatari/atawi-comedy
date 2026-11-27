@@ -1,5 +1,7 @@
 # 中川家「オカン」
 
+大石セレクション：公式ネタ
+
 中川家チャンネルで公開されている中川家のコント「オカン」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=CXhM8Ds-uJA)

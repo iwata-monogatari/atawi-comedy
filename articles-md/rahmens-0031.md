@@ -1,5 +1,7 @@
 # ラーメンズ「プーチンとマーチン」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『FLAT』で披露されたコント「プーチンとマーチン」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=gEB58_WSsko)

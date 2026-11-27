@@ -1,5 +1,7 @@
 # 中川家「夕暮れ時の夫婦」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2026」で披露したコント「夕暮れ時の夫婦」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=lcvODoX--Yg)

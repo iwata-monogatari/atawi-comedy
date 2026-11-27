@@ -1,5 +1,7 @@
 # ラーメンズ「後藤を待ちながら」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『ALICE』で披露されたコント「後藤を待ちながら」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=Zgj0JaJIMco)

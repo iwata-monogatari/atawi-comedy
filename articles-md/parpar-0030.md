@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: parpar-0030
 title: "プロポーズ"
 performer: "パーパー"

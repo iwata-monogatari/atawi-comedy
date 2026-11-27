@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: nobrocktv-0039
 title: "エピソード0｜何故こたけ正義感は悪徳弁護士になったのか？"
 performer: "佐久間宣行のNOBROCK TV"

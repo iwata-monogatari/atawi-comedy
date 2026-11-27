@@ -1,5 +1,7 @@
 # 中川家「寿司屋」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2023」で披露したコント「寿司屋」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=5jDmKdWNVYo)

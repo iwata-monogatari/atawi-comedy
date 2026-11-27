@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: sandwichman-0031
 title: "子供服店"
 performer: "サンドウィッチマン"

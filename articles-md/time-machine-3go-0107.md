@@ -1,5 +1,7 @@
 # タイムマシーン3号「デブデブモリモリ」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の歌ネタ「デブデブモリモリ」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=qVZ_9z_t6vE)

@@ -1,5 +1,7 @@
 # かが屋「数学の授業」
 
+大石セレクション：公式ネタ
+
 「PLAYHOUSE1224」で披露したコント「数学の授業」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=lpb1eNw-QrM)

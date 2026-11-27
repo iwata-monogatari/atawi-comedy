@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: "tokyo-hoteison-0016"
 title: "ツッコミ間違え"
 performer: "東京ホテイソン"

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: nobrocktv-0030
 title: "バト恋｜本音禁止！罵倒しか許されない恋愛リアリティーショー"
 performer: "佐久間宣行のNOBROCK TV"

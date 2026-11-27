@@ -1,5 +1,7 @@
 # かが屋「万引き」
 
+大石セレクション：公式ネタ
+
 かが屋のオフィシャルコントch  かが屋文庫で公開されているかが屋のコント「万引き」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=IJR1v-rMaAI)

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: chocolate-planet-0020
 title: "天使"
 performer: "チョコレートプラネット"

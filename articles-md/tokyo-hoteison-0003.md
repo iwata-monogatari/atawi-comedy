@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: "tokyo-hoteison-0003"
 title: "英語"
 performer: "東京ホテイソン"

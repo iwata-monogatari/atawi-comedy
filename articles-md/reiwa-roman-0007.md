@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: reiwa-roman-0007
 title: "100m走"
 performer: "令和ロマン"

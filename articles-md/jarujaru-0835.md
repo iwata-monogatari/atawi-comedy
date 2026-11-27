@@ -1,0 +1,20 @@
+# ジャルジャル「コートと心を奪われた奴」
+
+大石セレクション：公式ネタ
+
+ジャルジャル「コートと心を奪われた奴」の公式コント動画。ジャルジャルタワー JARUJARU TOWERで公開されている一本です。
+
+[公式YouTubeで見る](https://www.youtube.com/watch?v=Pe2PHKj6T70)
+
+- 動画タイトル：『コートと心を奪われた奴』ジャルジャルのネタのタネ【JARUJARUTOWER】
+- ジャンル：コント
+- 公開元：[ジャルジャルタワー JARUJARU TOWER](https://www.youtube.com/channel/UChwgNUWPM-ksOP3BbfQHS5Q)
+- 再生時間：2:24
+
+## ジャルジャルのほかのネタ
+
+- [2ヶ月同棲して屁解禁する奴](/articles/jarujaru-0836.html)
+- [「コレ系のネタ書くやつには伝わらんと思うけど」って言いながら辛辣なこと言う奴](/articles/jarujaru-0837.html)
+- [自分のこと誰も知らんのにご存知のようなボケ方する奴](/articles/jarujaru-0838.html)
+
+[ジャルジャルの動画一覧](/performers/jarujaru/)

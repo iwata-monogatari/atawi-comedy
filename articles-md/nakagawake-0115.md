@@ -1,5 +1,7 @@
 # 中川家「引越し 冷蔵庫の搬入」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2022」で披露したコント「引越し 冷蔵庫の搬入」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=5cczXfxdstg)

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: parpar-0003
 title: "碇シンジ"
 performer: "パーパー"

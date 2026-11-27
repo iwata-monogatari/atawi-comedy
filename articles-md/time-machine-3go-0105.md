@@ -1,5 +1,7 @@
 # タイムマシーン3号「進○ゼミ」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号のコント「進○ゼミ」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=j3f2SBXjHNs)

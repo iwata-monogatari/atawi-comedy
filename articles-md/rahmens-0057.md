@@ -1,5 +1,7 @@
 # ラーメンズ「蒲田の行進曲」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『CHERRY BLOSSOM FRONT 345』で披露されたコント「蒲田の行進曲」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=qFOa1DXBhWg)

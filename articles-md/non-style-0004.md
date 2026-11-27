@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: non-style-0004
 title: "指"
 performer: "NON STYLE"

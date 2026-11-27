@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: saraba-seishun-no-hikari-0016
 title: "サラリーマン川柳"
 performer: "さらば青春の光"

@@ -1,5 +1,7 @@
 # タイムマシーン3号「ONE PIECE ～エタログ アラバスタver.〜」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「ONE PIECE ～エタログ アラバスタver.〜」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=OKaJRqYbxus)

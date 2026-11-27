@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: parpar-0006
 title: "高校野球"
 performer: "パーパー"

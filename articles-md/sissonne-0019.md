@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sissonne-0019
 title: "うちの息子、実は"
 performer: "シソンヌ"

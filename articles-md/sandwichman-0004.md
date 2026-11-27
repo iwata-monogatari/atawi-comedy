@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: "sandwichman-0004"
 title: "演歌の男"
 performer: "サンドウィッチマン"

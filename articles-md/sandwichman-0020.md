@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: sandwichman-0020
 title: "ラヴホテル"
 performer: "サンドウィッチマン"

@@ -1,5 +1,7 @@
 # ラーメンズ「金部」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『STUDY』で披露されたコント「金部」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=VEKCLyx062o)

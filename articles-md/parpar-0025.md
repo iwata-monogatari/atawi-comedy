@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: parpar-0025
 title: "引っ越しの挨拶"
 performer: "パーパー"

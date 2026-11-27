@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: parpar-0020
 title: "新入社員"
 performer: "パーパー"

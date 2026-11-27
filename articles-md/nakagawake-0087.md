@@ -1,5 +1,7 @@
 # 中川家「なんで？　ラーメン屋」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2024」で披露したコント「なんで？　ラーメン屋」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=Bfifa0NXkmA)

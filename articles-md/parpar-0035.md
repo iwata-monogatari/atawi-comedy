@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: parpar-0035
 title: "やり直そう（MGC Ver.）"
 performer: "パーパー"

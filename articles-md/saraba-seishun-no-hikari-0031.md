@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: saraba-seishun-no-hikari-0031
 title: "葬式"
 performer: "さらば青春の光"

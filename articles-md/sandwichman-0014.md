@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sandwichman-0014
 title: "旅館"
 performer: "サンドウィッチマン"

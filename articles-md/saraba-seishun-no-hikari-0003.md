@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: saraba-seishun-no-hikari-0003
 title: "ゴッドハンド"
 performer: "さらば青春の光"

@@ -1,5 +1,7 @@
 # ラーメンズ「雪男」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『news』で披露されたコント「雪男」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=LFQHhw6XgsU)

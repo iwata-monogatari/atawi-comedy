@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: chocolate-planet-0013
 title: "業者"
 performer: "チョコレートプラネット"

@@ -1,5 +1,7 @@
 # ラーメンズ「お時間様」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『雀』で披露されたコント「お時間様」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=DWnc8ag7Vw0)

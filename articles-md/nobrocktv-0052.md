@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: nobrocktv-0052
 title: "バトル｜山本裕典とみりちゃむの言葉の応酬企画"
 performer: "佐久間宣行のNOBROCK TV"

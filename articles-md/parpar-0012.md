@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: parpar-0012
 title: "修学旅行"
 performer: "パーパー"

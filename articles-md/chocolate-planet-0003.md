@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: chocolate-planet-0003
 title: "GReeeeN"
 performer: "チョコレートプラネット"

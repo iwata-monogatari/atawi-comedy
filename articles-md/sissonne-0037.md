@@ -1,5 +1,7 @@
 # シソンヌ「お楽しみクジ」
 
+大石セレクション：公式ネタ
+
 商店街のくじ引きに、自転車でやって来た男が狙うのは一等。ルミネtheよしもとの「頂～itadaki～Battle」で披露されたコントです。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=7geukz2eoRg)

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: non-style-0009
 title: "神降臨"
 performer: "NON STYLE"

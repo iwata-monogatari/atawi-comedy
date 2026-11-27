@@ -1,5 +1,7 @@
 # ラーメンズ「縄跳び部」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『home』で披露されたコント「縄跳び部」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=8l_oDwCJ0lE)

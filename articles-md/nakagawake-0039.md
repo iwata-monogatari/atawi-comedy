@@ -1,5 +1,7 @@
 # 中川家「韓国料理屋」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2026」で披露したコント「韓国料理屋」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=smIizu2ZOQw)

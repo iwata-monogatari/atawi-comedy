@@ -1,5 +1,7 @@
 # ラーメンズ「big news」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『news』で披露されたコント「big news」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=MZ_UnCVZtYg)

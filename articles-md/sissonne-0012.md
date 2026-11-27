@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sissonne-0012
 title: "知らない自分"
 performer: "シソンヌ"

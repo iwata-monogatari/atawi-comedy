@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: parpar-0041
 title: "記憶喪失"
 performer: "パーパー"

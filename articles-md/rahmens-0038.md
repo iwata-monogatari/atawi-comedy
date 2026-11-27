@@ -1,5 +1,7 @@
 # ラーメンズ「モーフィング」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『ALICE』で披露されたコント「モーフィング」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=iqqX6de2CNY)

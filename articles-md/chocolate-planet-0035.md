@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: chocolate-planet-0035
 title: "聞いたことないお茶"
 performer: "チョコレートプラネット"

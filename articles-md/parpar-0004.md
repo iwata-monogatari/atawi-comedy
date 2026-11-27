@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: parpar-0004
 title: "友達のお店"
 performer: "パーパー"

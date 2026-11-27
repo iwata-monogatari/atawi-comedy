@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: chocolate-planet-0001
 title: "親父が"
 performer: "チョコレートプラネット"

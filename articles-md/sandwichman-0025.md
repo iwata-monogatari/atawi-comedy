@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: sandwichman-0025
 title: "女将の男"
 performer: "サンドウィッチマン"

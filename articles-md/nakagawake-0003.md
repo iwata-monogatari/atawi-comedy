@@ -1,5 +1,7 @@
 # 中川家「となりのおっさん」
 
+大石セレクション：公式ネタ
+
 中川家チャンネルで公開されている中川家のコント「となりのおっさん」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=TuZRsrgeMM0)

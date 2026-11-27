@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: chocolate-planet-0006
 title: "ナイフ"
 performer: "チョコレートプラネット"

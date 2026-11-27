@@ -1,5 +1,7 @@
 # タイムマシーン3号「クリーニング」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号のコント「クリーニング」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=QqRDF8EfoBw)

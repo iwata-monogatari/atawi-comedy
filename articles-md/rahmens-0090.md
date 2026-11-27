@@ -1,5 +1,7 @@
 # ラーメンズ「棒」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『FLAT』で披露されたコント「棒」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=q2UcCMyLKdQ)

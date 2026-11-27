@@ -5,7 +5,8 @@ const DEFAULT_SORT = "random";
 const selectionLabels = {
   ma: "間",
   world: "世界",
-  word: "ワード"
+  word: "ワード",
+  official: "公式ネタ"
 };
 
 const cardLabels = {
@@ -103,7 +104,7 @@ function formatDate(value) {
 }
 
 function getSelection(video) {
-  return video.rating?.selection || "ma";
+  return video.rating?.selection || video.selection || "official";
 }
 
 function isPublicVideo(video) {
@@ -198,9 +199,9 @@ function getFilteredVideos() {
 
 function renderCard(video) {
   const selection = getSelection(video);
-  const selectionLabel = selectionLabels[selection] || "間";
-  const guide = video.content_type === "video_guide";
-  const tags = [guide ? null : selectionLabel, video.genre, ...(video.mood_tags || []).slice(0, 2)].filter(Boolean);
+  const selectionLabel = selectionLabels[selection] || "公式ネタ";
+  const hasRating = ["ma", "world", "word"].every((key) => Number.isFinite(video.rating?.[key]));
+  const tags = [selectionLabel, video.genre, ...(video.mood_tags || []).slice(0, 2)].filter(Boolean);
   const officialText = video.official_status === "verified" ? "公式YouTube確認済み" : "公式リンク確認中";
   const postedDate = formatDate(video.created_at);
   const releaseText = video.release_year ? `${video.release_year}年公開` : "公開年未設定";
@@ -218,13 +219,13 @@ function renderCard(video) {
           ${video.release_year ? `<span>${escapeHtml(releaseText)}</span>` : ""}
         </div>
         <div class="source-badge">${escapeHtml(officialText)}</div>
-        ${guide ? "" : `<div class="selection-pill">大石セレクション：${escapeHtml(selectionLabel)}</div>
-        <dl class="rating-grid" aria-label="大石セレクション評価">
+        <div class="selection-pill">大石セレクション：${escapeHtml(selectionLabel)}</div>
+        ${hasRating ? `<dl class="rating-grid" aria-label="大石セレクション評価">
           <div><dt>間</dt><dd>${stars(video.rating?.ma)}</dd></div>
           <div><dt>世界</dt><dd>${stars(video.rating?.world)}</dd></div>
           <div><dt>ワード</dt><dd>${stars(video.rating?.word)}</dd></div>
         </dl>
-        <p class="card-label">${escapeHtml(cardLabels[selection] || "大石が出会った一本")}</p>`}
+        <p class="card-label">${escapeHtml(cardLabels[selection] || "大石が出会った一本")}</p>` : ""}
         <div class="tag-row">${tags.map((tag) => `<span>#${escapeHtml(tag)}</span>`).join("")}</div>
         <div class="card-actions">
           <a class="button primary" href="${escapeHtml(video.article_url)}">読む</a>
@@ -315,11 +316,13 @@ function renderPagination(total) {
   pagination.hidden = false;
   const previousPage = Math.max(1, currentPage - 1);
   const nextPage = Math.min(totalPages, currentPage + 1);
-  const pageLinks = Array.from({ length: totalPages }, (_, index) => {
-    const page = index + 1;
+  const visiblePages = Array.from({ length: totalPages }, (_, index) => index + 1)
+    .filter((page) => page === 1 || page === totalPages || Math.abs(page - currentPage) <= 2);
+  const pageLinks = visiblePages.map((page, index) => {
+    const gap = index && page > visiblePages[index - 1] + 1 ? '<span class="pagination-gap" aria-hidden="true">…</span>' : "";
     const bounds = getPageBounds(page, total);
     const label = `${bounds.start + 1}-${bounds.end}`;
-    return `<a class="pagination-link${page === currentPage ? " is-active" : ""}" href="${escapeHtml(getPageHref(page))}" data-page="${page}"${page === currentPage ? ' aria-current="page"' : ""}>${escapeHtml(label)}</a>`;
+    return `${gap}<a class="pagination-link${page === currentPage ? " is-active" : ""}" href="${escapeHtml(getPageHref(page))}" data-page="${page}"${page === currentPage ? ' aria-current="page"' : ""}>${escapeHtml(label)}</a>`;
   }).join("");
 
   pagination.innerHTML = `
@@ -359,6 +362,9 @@ async function initVideoList() {
 
   try {
     allVideos = await loadJson("/data/videos.json");
+    if (list?.dataset.performer) {
+      allVideos = allVideos.filter((video) => video.performer === list.dataset.performer);
+    }
     setupRandomOrder(allVideos.filter(isPublicVideo));
     handleRandom(allVideos);
     setPage(getPageFromUrl());
@@ -382,6 +388,8 @@ async function initPlaylist() {
   if (!root) return;
   try {
     const data = await loadJson("/data/oishi-playlist.json");
+    const videos = await loadJson("/data/videos.json");
+    const byArticle = new Map(videos.map((video) => [video.article_url, video]));
     const total = data.reduce((sum, day) => sum + (day.items?.length || 0), 0);
     root.innerHTML = `
       <div class="stats-row">
@@ -396,6 +404,7 @@ async function initPlaylist() {
             ${day.items.map((item) => `
               <li>
                 <strong>${escapeHtml(item.performer)}「${escapeHtml(item.title)}」</strong>
+                <span class="selection-pill">大石セレクション：${escapeHtml(selectionLabels[getSelection(byArticle.get(item.article_url) || {})] || "公式ネタ")}</span>
                 <a href="${escapeHtml(item.article_url)}">記事</a>
                 <a href="${escapeHtml(item.youtube_url)}" target="_blank" rel="noopener">YouTube</a>
               </li>

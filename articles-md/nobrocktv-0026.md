@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: nobrocktv-0026
 title: "文章企画｜二瓶有加とはらちゃんの文章企画"
 performer: "佐久間宣行のNOBROCK TV"

@@ -1,5 +1,7 @@
 # ラーメンズ「ハイウェスト」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『TOWER』で披露されたコント「ハイウェスト」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=7Ihy3OZb82o)

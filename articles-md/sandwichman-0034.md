@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: sandwichman-0034
 title: "哀川 長"
 performer: "サンドウィッチマン"

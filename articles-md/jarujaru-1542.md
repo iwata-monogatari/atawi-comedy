@@ -1,0 +1,20 @@
+# ジャルジャル「『娘さんをください』の挨拶でエロ本落とす奴」
+
+大石セレクション：公式ネタ
+
+ジャルジャル「『娘さんをください』の挨拶でエロ本落とす奴」の公式コント動画。ジャルジャルタワー JARUJARU TOWERで公開されている一本です。
+
+[公式YouTubeで見る](https://www.youtube.com/watch?v=oMsTCL-uwvs)
+
+- 動画タイトル：『『娘さんをください』の挨拶でエロ本落とす奴』ジャルジャルのネタのタネ【JARUJARUTOWER】
+- ジャンル：コント
+- 公開元：[ジャルジャルタワー JARUJARU TOWER](https://www.youtube.com/channel/UChwgNUWPM-ksOP3BbfQHS5Q)
+- 再生時間：3:02
+
+## ジャルジャルのほかのネタ
+
+- [１万人目のお客さんややこしい奴](/articles/jarujaru-1543.html)
+- [スムーズに会話が始まらない奴](/articles/jarujaru-1544.html)
+- [不思議コントするジャルジャルって奴](/articles/jarujaru-1545.html)
+
+[ジャルジャルの動画一覧](/performers/jarujaru/)

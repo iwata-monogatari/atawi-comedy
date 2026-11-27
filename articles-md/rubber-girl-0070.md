@@ -1,5 +1,7 @@
 # ラバーガール「YouTuberが謝罪動画を撮影するまでのやりとり」
 
+大石セレクション：公式ネタ
+
 YouTuberが謝罪動画を撮影するまでのやりとり。この人物設定でラバーガールが演じる、第2チャンネルのコントです。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=aiD7BbMepVk)

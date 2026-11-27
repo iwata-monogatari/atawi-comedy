@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: chocolate-planet-0009
 title: "静かにしろ"
 performer: "チョコレートプラネット"

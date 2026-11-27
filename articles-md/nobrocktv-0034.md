@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: nobrocktv-0034
 title: "即興芝居｜錦鯉渡辺書き下ろしの即興芝居企画"
 performer: "佐久間宣行のNOBROCK TV"

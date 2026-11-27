@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: "tokyo-hoteison-0008"
 title: "ゾンビ映画"
 performer: "東京ホテイソン"

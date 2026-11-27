@@ -1,5 +1,7 @@
 # かが屋「自転車停めたら」
 
+大石セレクション：公式ネタ
+
 「PLAYHOUSE1224」で披露したコント「自転車停めたら」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=GCQvaqCZpic)

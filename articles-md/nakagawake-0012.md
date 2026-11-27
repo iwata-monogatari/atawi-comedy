@@ -1,5 +1,7 @@
 # 中川家「仕事の依頼が来てるんですが…」
 
+大石セレクション：公式ネタ
+
 中川家とFUJIWARAが共演。中川家の寄席2023から「仕事の依頼が来てるんですが…」を紹介します。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=vaAAtmxBwMk)

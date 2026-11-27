@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: saraba-seishun-no-hikari-0019
 title: "はいります！"
 performer: "さらば青春の光"

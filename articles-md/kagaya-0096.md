@@ -1,5 +1,7 @@
 # かが屋「唇電車」
 
+大石セレクション：公式ネタ
+
 「PLAYHOUSE1224」で披露したコント「唇電車」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=cb-zsfm8m8g)

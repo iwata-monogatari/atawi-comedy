@@ -1,5 +1,7 @@
 # ラーメンズ「アカミー賞」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『鯨』で披露されたコント「アカミー賞」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=Rn_sTEJGsfE)

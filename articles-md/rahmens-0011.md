@@ -1,5 +1,7 @@
 # ラーメンズ「アレグレット」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『FLAT』で披露されたコント「アレグレット」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=eEnMsc1ZqDA)

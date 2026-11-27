@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: tokyo-hoteison-0013
 title: "謎解き"
 performer: "東京ホテイソン"

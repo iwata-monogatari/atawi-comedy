@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sandwichman-0005
 title: "パソコン教室"
 performer: "サンドウィッチマン"

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: chocolate-planet-0016
 title: "鶴の恩返し"
 performer: "チョコレートプラネット"

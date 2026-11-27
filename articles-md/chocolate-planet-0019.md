@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: chocolate-planet-0019
 title: "壁"
 performer: "チョコレートプラネット"

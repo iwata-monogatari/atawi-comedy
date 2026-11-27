@@ -1,5 +1,7 @@
 # タイムマシーン3号「子供が心配」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「子供が心配」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=wvSM1sTc_u8)

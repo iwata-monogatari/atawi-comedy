@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: parpar-0047
 title: "出産祝い"
 performer: "パーパー"

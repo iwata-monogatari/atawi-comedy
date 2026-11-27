@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: chocolate-planet-0033
 title: "聞いたことないアルバイト"
 performer: "チョコレートプラネット"

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: parpar-0046
 title: "卒業旅行"
 performer: "パーパー"

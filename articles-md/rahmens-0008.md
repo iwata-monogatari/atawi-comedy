@@ -1,5 +1,7 @@
 # ラーメンズ「いろいろマン」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『STUDY』で披露されたコント「いろいろマン」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=1Sy_w9yXfHU)

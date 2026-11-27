@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: saraba-seishun-no-hikari-0014
 title: "パンのむらた"
 performer: "さらば青春の光"

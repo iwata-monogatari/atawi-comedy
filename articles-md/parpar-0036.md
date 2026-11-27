@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: parpar-0036
 title: "美術の先生"
 performer: "パーパー"

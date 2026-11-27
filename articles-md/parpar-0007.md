@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: parpar-0007
 title: "同級生"
 performer: "パーパー"

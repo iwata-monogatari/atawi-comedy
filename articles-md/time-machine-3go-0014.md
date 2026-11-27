@@ -1,5 +1,7 @@
 # タイムマシーン3号「ジョジョの奇妙な冒険」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「ジョジョの奇妙な冒険」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=pzM7de0IGKs)

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: "tokyo-hoteison-0001"
 title: "回文"
 performer: "東京ホテイソン"

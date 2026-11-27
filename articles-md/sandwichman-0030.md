@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sandwichman-0030
 title: "写真館"
 performer: "サンドウィッチマン"

@@ -1,5 +1,7 @@
 # 中川家「大型連休 旅行の計画」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2026」で披露したコント「大型連休 旅行の計画」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=gxlMIx7vlGA)

@@ -1,5 +1,7 @@
 # NON STYLE「空気がおいしい」
 
+大石セレクション：公式ネタ
+
 外に出たとき、つい口にする「空気がおいしい」。何気ない言い回しを取り上げた石田が、井上に独特の理屈をぶつけます。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=6EbAYCQlIyU)

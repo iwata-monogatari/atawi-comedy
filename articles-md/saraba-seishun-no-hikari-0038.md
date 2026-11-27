@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: saraba-seishun-no-hikari-0038
 title: "臓器売買"
 performer: "さらば青春の光"

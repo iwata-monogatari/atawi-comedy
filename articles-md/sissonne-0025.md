@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sissonne-0025
 title: "割烹SHU"
 performer: "シソンヌ"

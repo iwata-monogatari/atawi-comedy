@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: saraba-seishun-no-hikari-0002
 title: "命の授業"
 performer: "さらば青春の光"

@@ -1,5 +1,7 @@
 # 中川家「なんで？   美容室」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2024」で披露したコント「なんで？   美容室」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=auiaN3XNwcA)

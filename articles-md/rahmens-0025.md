@@ -1,5 +1,7 @@
 # ラーメンズ「ネイノーさん」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『雀』で披露されたコント「ネイノーさん」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=ko0UuEgdavc)

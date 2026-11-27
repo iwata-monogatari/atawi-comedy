@@ -1,5 +1,7 @@
 # ラーメンズ「雀」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『雀』で披露されたコント「雀」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=HssCy9vHJ8w)

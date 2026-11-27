@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: saraba-seishun-no-hikari-0029
 title: "芸術家"
 performer: "さらば青春の光"

@@ -1,5 +1,7 @@
 # ラーメンズ「王様」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『news』で披露されたコント「王様」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=WRlQ3RYd8dE)

@@ -1,5 +1,7 @@
 # ラーメンズ「超能力」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『鯨』で披露されたコント「超能力」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=t4rTFh7LxXQ)

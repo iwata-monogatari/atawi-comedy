@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: saraba-seishun-no-hikari-0008
 title: "パリヴィ"
 performer: "さらば青春の光"

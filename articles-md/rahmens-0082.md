@@ -1,5 +1,7 @@
 # ラーメンズ「読書対決 news篇」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『news』で披露されたコント「読書対決 news篇」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=AxqasBUAl5o)

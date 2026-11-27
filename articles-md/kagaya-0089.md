@@ -1,5 +1,7 @@
 # かが屋「親友」
 
+大石セレクション：公式ネタ
+
 「PLAYHOUSE1224」で披露したコント「親友」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=WVo-EkgOVYo)

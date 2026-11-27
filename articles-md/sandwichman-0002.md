@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: "sandwichman-0002"
 title: "靴屋さん"
 performer: "サンドウィッチマン"

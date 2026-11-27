@@ -1,5 +1,7 @@
 # ラーメンズ「新噺」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『ATOM』で披露されたコント「新噺」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=8ucKWs-fViw)

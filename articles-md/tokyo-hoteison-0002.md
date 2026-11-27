@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: "tokyo-hoteison-0002"
 title: "ことわざ"
 performer: "東京ホテイソン"

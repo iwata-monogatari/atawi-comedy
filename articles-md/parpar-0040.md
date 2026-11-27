@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: parpar-0040
 title: "告白"
 performer: "パーパー"

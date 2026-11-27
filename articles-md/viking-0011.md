@@ -1,5 +1,7 @@
 # バイきんぐ「アパート」
 
+大石セレクション：公式ネタ
+
 バイきんぐの公演『バイきんぐ単独ライブ「Jack」』で披露されたコント「アパート」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=tmuAHcBILiQ)

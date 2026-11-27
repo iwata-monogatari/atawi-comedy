@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: saraba-seishun-no-hikari-0033
 title: "タイ料理屋"
 performer: "さらば青春の光"

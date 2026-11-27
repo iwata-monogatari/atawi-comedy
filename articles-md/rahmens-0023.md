@@ -1,5 +1,7 @@
 # ラーメンズ「ドーデスという男」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『FLAT』で披露されたコント「ドーデスという男」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=qzqRFOdER2M)

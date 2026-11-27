@@ -1,5 +1,7 @@
 # ラーメンズ「名は体を表す」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『TOWER』で披露されたコント「名は体を表す」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=vAEitV5SPn0)

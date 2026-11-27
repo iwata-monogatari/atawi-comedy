@@ -1,5 +1,7 @@
 # タイムマシーン3号「怖い話」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「怖い話」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=RJ1Hj55nyFQ)

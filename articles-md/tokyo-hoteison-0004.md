@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: "tokyo-hoteison-0004"
 title: "体育祭"
 performer: "東京ホテイソン"

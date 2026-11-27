@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: tokyo-hoteison-0010
 title: "水族館デート"
 performer: "東京ホテイソン"

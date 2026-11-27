@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: saraba-seishun-no-hikari-0012
 title: "動くな！JASRACだ！"
 performer: "さらば青春の光"

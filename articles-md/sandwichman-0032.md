@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sandwichman-0032
 title: "喫茶店"
 performer: "サンドウィッチマン"

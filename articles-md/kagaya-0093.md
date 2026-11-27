@@ -1,5 +1,7 @@
 # かが屋「おもしろい人が好き」
 
+大石セレクション：公式ネタ
+
 「PLAYHOUSE1224」で披露したコント「おもしろい人が好き」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=CbEfp1X4jOw)

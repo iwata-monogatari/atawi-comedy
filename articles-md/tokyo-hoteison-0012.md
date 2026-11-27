@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: tokyo-hoteison-0012
 title: "遊戯王"
 performer: "東京ホテイソン"

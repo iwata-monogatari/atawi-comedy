@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: "tokyo-hoteison-0015"
 title: "デート"
 performer: "東京ホテイソン"

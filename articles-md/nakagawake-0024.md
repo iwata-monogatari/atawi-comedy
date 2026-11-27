@@ -1,5 +1,7 @@
 # 中川家「嫁の実家」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2020」で披露したコント「嫁の実家」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=Pw_x-QeKDDQ)

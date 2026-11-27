@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: parpar-0050
 title: "記憶喪失（MGC ver.）"
 performer: "パーパー"

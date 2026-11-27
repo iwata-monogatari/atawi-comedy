@@ -1,5 +1,7 @@
 # ラーメンズ「斜めの日」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『椿』で披露されたコント「斜めの日」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=52KywVY4Sq0)

@@ -1,5 +1,7 @@
 # ラーメンズ「海豹」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『FLAT』で披露されたコント「海豹」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=9dhs6jvNSv0)

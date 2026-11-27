@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: chocolate-planet-0031
 title: "聞いたことない飲食店"
 performer: "チョコレートプラネット"

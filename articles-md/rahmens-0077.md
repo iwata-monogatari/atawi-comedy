@@ -1,5 +1,7 @@
 # ラーメンズ「地球の歩き方」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『STUDY』で披露されたコント「地球の歩き方」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=Nh76bstUK6k)

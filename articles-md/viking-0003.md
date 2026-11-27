@@ -1,5 +1,7 @@
 # バイきんぐ「飲み会」
 
+大石セレクション：公式ネタ
+
 バイきんぐの公演『バイきんぐ単独ライブ「STRAIGHT」』で披露されたコント「飲み会」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=58XcCHBgUHM)

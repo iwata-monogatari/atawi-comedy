@@ -1,5 +1,7 @@
 # ラーメンズ「プレオープン」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『雀』で披露されたコント「プレオープン」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=D0CllwVkxxo)

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: nobrocktv-0008
 title: "無茶振り｜矢野ななかと「とにかくドラマチックに別れろ」"
 performer: "佐久間宣行のNOBROCK TV"

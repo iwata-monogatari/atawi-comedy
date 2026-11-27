@@ -1,5 +1,7 @@
 # タイムマシーン3号「ビビアミ太らせてみた」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「ビビアミ太らせてみた」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=DZI9t4-kkYg)

@@ -1,5 +1,7 @@
 # 中川家「OLとOLの休憩時間」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2024」で披露したコント「OLとOLの休憩時間」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=BQ_hcX5_bGE)

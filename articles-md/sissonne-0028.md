@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sissonne-0028
 title: "インドカレー"
 performer: "シソンヌ"

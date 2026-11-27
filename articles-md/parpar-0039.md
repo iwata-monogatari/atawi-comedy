@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: parpar-0039
 title: "結婚前夜"
 performer: "パーパー"

@@ -1,5 +1,7 @@
 # ラバーガール「「それSnow Manにやらせて下さい」と言われてSnow Manに何度も助けられた人」
 
+大石セレクション：公式ネタ
+
 「それSnow Manにやらせて下さい」と言われてSnow Manに何度も助けられた人。この人物設定でラバーガールが演じる、第2チャンネルのコントです。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=lQTijtbM3gk)

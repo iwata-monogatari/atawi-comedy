@@ -1,5 +1,7 @@
 # タイムマシーン3号「マネージャー」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号のコント「マネージャー」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=AGljF3SDW0Q)

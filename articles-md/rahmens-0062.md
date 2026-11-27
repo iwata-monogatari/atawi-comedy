@@ -1,5 +1,7 @@
 # ラーメンズ「私の言葉が見えますか(弱気)」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『news』で披露されたコント「私の言葉が見えますか(弱気)」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=PEAIjOmrOGo)

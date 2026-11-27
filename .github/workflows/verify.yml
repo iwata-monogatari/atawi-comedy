@@ -13,3 +13,4 @@ jobs:
         with:
           node-version: 22
       - run: node .github/scripts/verify-site.mjs
+      - run: node .github/scripts/verify-selections.mjs

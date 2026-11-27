@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: sandwichman-0008
 title: "お化け屋敷"
 performer: "サンドウィッチマン"

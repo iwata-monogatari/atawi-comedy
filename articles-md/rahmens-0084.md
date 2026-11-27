@@ -1,5 +1,7 @@
 # ラーメンズ「帝王閣ホテル応援歌」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『CLASSIC』で披露されたコント「帝王閣ホテル応援歌」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=nl46oYNJJR0)

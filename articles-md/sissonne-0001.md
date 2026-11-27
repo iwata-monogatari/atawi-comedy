@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sissonne-0001
 title: "喫茶店にて"
 performer: "シソンヌ"

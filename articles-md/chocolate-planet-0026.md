@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: chocolate-planet-0026
 title: "CPfilm「カレー屋」"
 performer: "チョコレートプラネット"

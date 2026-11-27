@@ -1,5 +1,7 @@
 # 中川家「エレベーター」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2024」で披露したコント「エレベーター」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=oof79MZ3juE)

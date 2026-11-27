@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sissonne-0035
 title: "製作発表会2013"
 performer: "シソンヌ"

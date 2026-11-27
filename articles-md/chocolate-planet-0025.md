@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: chocolate-planet-0025
 title: "人形劇（氷室病院）"
 performer: "チョコレートプラネット"

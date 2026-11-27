@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: nobrocktv-0001
 title: "世代格差｜二瓶有加 vs トレンディエンジェルの飲み会ノリセッション"
 performer: "佐久間宣行のNOBROCK TV"

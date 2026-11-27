@@ -1,5 +1,7 @@
 # ラーメンズ「タワーズ　２」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『TOWER』で披露されたコント「タワーズ　２」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=JBnKsAieAzI)

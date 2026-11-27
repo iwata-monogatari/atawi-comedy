@@ -1,5 +1,7 @@
 # 中川家「初心者歓迎！ギター教室」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2025」で披露したコント「初心者歓迎！ギター教室」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=DIYIoOhwnuU)

@@ -1,5 +1,7 @@
 # ラーメンズ「アトムより」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『ATOM』で披露されたコント「アトムより」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=_-iYi2JYZ2Y)

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: nobrocktv-0041
 title: "大暴走｜キンタロー。面接官の口喧嘩オーディション"
 performer: "佐久間宣行のNOBROCK TV"

@@ -1,5 +1,7 @@
 # バイきんぐ「オフィス」
 
+大石セレクション：公式ネタ
+
 バイきんぐの公演『バイきんぐ単独ライブ「ROYAL」』で披露されたコント「オフィス」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=mcCiMoA4np0)

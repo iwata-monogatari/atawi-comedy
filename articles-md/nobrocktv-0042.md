@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: nobrocktv-0042
 title: "豹変｜毒舌キャラの仕掛けをめぐるドッキリ"
 performer: "佐久間宣行のNOBROCK TV"

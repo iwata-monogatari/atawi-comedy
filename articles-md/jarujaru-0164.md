@@ -1,0 +1,20 @@
+# ジャルジャル「「脱退」の言い方が「ダッティダッティ」の奴」
+
+大石セレクション：公式ネタ
+
+ジャルジャル「「脱退」の言い方が「ダッティダッティ」の奴」の公式コント動画。ジャルジャルタワー JARUJARU TOWERで公開されている一本です。
+
+[公式YouTubeで見る](https://www.youtube.com/watch?v=-QDW0pXVL6A)
+
+- 動画タイトル：『「脱退」の言い方が「ダッティダッティ」の奴』ジャルジャルのネタのタネ【JARUJARUTOWER】
+- ジャンル：コント
+- 公開元：[ジャルジャルタワー JARUJARU TOWER](https://www.youtube.com/channel/UChwgNUWPM-ksOP3BbfQHS5Q)
+- 再生時間：4:47
+
+## ジャルジャルのほかのネタ
+
+- [友人を家に招いたくせに、突然「帰れー！」って言う奴](/articles/jarujaru-0165.html)
+- [怒りよりも恥ずかしさが勝つ奴〜宅配便〜](/articles/jarujaru-0166.html)
+- [働きたい気持ちだけで会社に殴り込みする奴](/articles/jarujaru-0167.html)
+
+[ジャルジャルの動画一覧](/performers/jarujaru/)

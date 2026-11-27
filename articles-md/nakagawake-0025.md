@@ -1,5 +1,7 @@
 # 中川家「[息子からの電話 ]」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2023」で披露したコント「[息子からの電話 ]」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=QRovHA6mzjw)

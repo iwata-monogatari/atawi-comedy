@@ -1,5 +1,7 @@
 # タイムマシーン3号「関ってもしかして…天才？」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「関ってもしかして…天才？」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=UoEI1VMUMxw)

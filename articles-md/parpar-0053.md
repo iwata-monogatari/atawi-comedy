@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: parpar-0053
 title: "転校"
 performer: "パーパー"

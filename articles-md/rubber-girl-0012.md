@@ -1,5 +1,7 @@
 # ラバーガール「ビューティーフォトグラフ３」
 
+大石セレクション：公式ネタ
+
 ラバーガールの公演『ラバーガールsolo live+「GIRL」』で披露されたコント「ビューティーフォトグラフ３」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=iXVSRoJMOvI)

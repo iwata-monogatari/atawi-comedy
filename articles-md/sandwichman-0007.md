@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: sandwichman-0007
 title: "警察24時"
 performer: "サンドウィッチマン"

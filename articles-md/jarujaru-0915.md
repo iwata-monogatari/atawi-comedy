@@ -1,0 +1,20 @@
+# ジャルジャル「とある業界にスカウトされる奴」
+
+大石セレクション：公式ネタ
+
+ジャルジャル「とある業界にスカウトされる奴」の公式コント動画。ジャルジャルタワー JARUJARU TOWERで公開されている一本です。
+
+[公式YouTubeで見る](https://www.youtube.com/watch?v=Ss_SQzSlYlY)
+
+- 動画タイトル：『とある業界にスカウトされる奴』ジャルジャルのネタのタネ【JARUJARUTOWER】
+- ジャンル：コント
+- 公開元：[ジャルジャルタワー JARUJARU TOWER](https://www.youtube.com/channel/UChwgNUWPM-ksOP3BbfQHS5Q)
+- 再生時間：4:13
+
+## ジャルジャルのほかのネタ
+
+- [借りた充電器ペロッとする奴](/articles/jarujaru-0916.html)
+- [「体張りコース３０分」を体験する奴](/articles/jarujaru-0917.html)
+- [新人のふりするやり手キャバ嬢の奴](/articles/jarujaru-0918.html)
+
+[ジャルジャルの動画一覧](/performers/jarujaru/)

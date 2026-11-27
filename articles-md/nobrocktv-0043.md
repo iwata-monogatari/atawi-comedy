@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: nobrocktv-0043
 title: "ダイジェスト｜NOBROCK FES 2026の裏側を撮ったらみんなずっと泣いていた"
 performer: "佐久間宣行のNOBROCK TV"

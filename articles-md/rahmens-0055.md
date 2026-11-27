@@ -1,5 +1,7 @@
 # ラーメンズ「高橋」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『椿』で披露されたコント「高橋」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=DffRzNzXIEE)

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: chocolate-planet-0010
 title: "地元"
 performer: "チョコレートプラネット"

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: saraba-seishun-no-hikari-0001
 title: "伝えたいことがあるんだ"
 performer: "さらば青春の光"

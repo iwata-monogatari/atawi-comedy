@@ -1,5 +1,7 @@
 # ラーメンズ「ホコサキ」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『STUDY』で披露されたコント「ホコサキ」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=a_UAow986jQ)

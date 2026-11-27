@@ -1,5 +1,7 @@
 # NON STYLE「Gemini」
 
+大石セレクション：公式ネタ
+
 生成AIのGeminiにネタを考えてもらい、NON STYLEの二人が実際に演じた一本。人に代わってAIが書いた言葉を、二人の掛け合いで聞けます。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=IG9PMvG3cTo)

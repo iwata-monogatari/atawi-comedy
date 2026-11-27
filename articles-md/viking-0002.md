@@ -1,5 +1,7 @@
 # バイきんぐ「夏」
 
+大石セレクション：公式ネタ
+
 バイきんぐの公演『バイきんぐ単独ライブ「ぺあ」』で披露されたコント「夏」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=FcSjj9TUw1w)

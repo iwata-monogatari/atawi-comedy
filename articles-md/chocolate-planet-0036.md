@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: chocolate-planet-0036
 title: "聞いたことないあの食べ物の由来"
 performer: "チョコレートプラネット"

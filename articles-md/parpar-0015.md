@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: parpar-0015
 title: "やり直そう"
 performer: "パーパー"

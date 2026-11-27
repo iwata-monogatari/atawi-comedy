@@ -1,5 +1,7 @@
 # ラーメンズ「50 on 5」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『TEXT』で披露されたコント「50 on 5」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=LdCEXnF8TmQ)

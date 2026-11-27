@@ -1,5 +1,7 @@
 # ラーメンズ「百万円」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『home』で披露されたコント「百万円」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=VdNJ_nfhJW8)

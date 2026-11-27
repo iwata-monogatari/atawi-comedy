@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: chocolate-planet-0011
 title: "拷問"
 performer: "チョコレートプラネット"

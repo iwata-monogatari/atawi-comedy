@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: nobrocktv-0044
 title: "即興芝居｜矢野ななか vs アンジャッシュ渡部 別れるまで出られない部屋"
 performer: "佐久間宣行のNOBROCK TV"

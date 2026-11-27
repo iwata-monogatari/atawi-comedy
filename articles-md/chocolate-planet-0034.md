@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: chocolate-planet-0034
 title: "聞いたことない代行サービス"
 performer: "チョコレートプラネット"

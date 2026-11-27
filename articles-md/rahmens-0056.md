@@ -1,5 +1,7 @@
 # ラーメンズ「採集」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『ATOM』で披露されたコント「採集」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=os_hxNF4694)

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: sandwichman-0018
 title: "新聞勧誘"
 performer: "サンドウィッチマン"

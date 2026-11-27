@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: chocolate-planet-0022
 title: "見たことない"
 performer: "チョコレートプラネット"

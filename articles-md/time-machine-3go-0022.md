@@ -1,5 +1,7 @@
 # タイムマシーン3号「肝試し」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号のコント「肝試し」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=iVIR6Yk3-GQ)

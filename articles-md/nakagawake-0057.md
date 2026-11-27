@@ -1,5 +1,7 @@
 # 中川家「続・おかんとドライブ」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2026」で披露したコント「続・おかんとドライブ」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=NCjngOYvUJ8)

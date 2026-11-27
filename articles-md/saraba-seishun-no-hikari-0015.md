@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: saraba-seishun-no-hikari-0015
 title: "終電逃させ屋"
 performer: "さらば青春の光"

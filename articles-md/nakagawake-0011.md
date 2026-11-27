@@ -1,5 +1,7 @@
 # 中川家「タクシー移動」
 
+大石セレクション：公式ネタ
+
 中川家とNON STYLEが共演。中川家の寄席2022から「タクシー移動」を紹介します。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=SAyxqtTnzZI)

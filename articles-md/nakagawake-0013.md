@@ -1,5 +1,7 @@
 # 中川家「おかんの入院」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2023」で披露したコント「おかんの入院」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=WHIc2T2oqb0)

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: reiwa-roman-0001
 title: "タイムスリップ"
 performer: "令和ロマン"

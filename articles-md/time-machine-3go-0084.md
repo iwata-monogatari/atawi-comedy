@@ -1,5 +1,7 @@
 # タイムマシーン3号「ヒルナンデス見ました」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号のコント「ヒルナンデス見ました」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=45PHz3shLV4)

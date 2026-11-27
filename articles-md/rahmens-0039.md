@@ -1,5 +1,7 @@
 # ラーメンズ「やめさせないと」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『TOWER』で披露されたコント「やめさせないと」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=Vmx6tJYC8P4)

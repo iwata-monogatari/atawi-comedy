@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: chocolate-planet-0027
 title: "CPfilm「業者」"
 performer: "チョコレートプラネット"

@@ -1,5 +1,7 @@
 # ラーメンズ「不思議の国のニポン」
 
+大石セレクション：公式ネタ
+
 公演『ALICE』の一編。いつもの「日本」を少し違う響きで呼ぶ題名が、この舞台の入口です。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=enoUCj-WNCI)

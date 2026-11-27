@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: parpar-0038
 title: "上京"
 performer: "パーパー"

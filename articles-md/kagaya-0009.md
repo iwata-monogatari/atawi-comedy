@@ -1,5 +1,7 @@
 # かが屋「S」
 
+大石セレクション：公式ネタ
+
 かが屋のオフィシャルコントch  かが屋文庫で公開されているかが屋のコント「S」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=dyNdzlrsaV4)

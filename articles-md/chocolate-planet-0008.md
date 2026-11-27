@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: chocolate-planet-0008
 title: "合わない刑事"
 performer: "チョコレートプラネット"

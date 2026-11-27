@@ -1,5 +1,7 @@
 # ラバーガール「リアルパックマン」
 
+大石セレクション：公式ネタ
+
 ラバーガールの公演『ラバーガールsolo live+「GAME」』で披露されたコント「リアルパックマン」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=-ePSLZfmZlw)

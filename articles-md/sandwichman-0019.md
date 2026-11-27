@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sandwichman-0019
 title: "ガソリンスタンド"
 performer: "サンドウィッチマン"

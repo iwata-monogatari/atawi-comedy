@@ -1,5 +1,7 @@
 # ラバーガール「キャンプ」
 
+大石セレクション：公式ネタ
+
 ラバーガールの公演『ラバーガールLIVE「インフルエンサー」』で披露されたコント「キャンプ」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=JBxGRjySZ6Y)

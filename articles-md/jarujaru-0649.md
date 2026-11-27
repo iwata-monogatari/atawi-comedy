@@ -1,0 +1,20 @@
+# ジャルジャル「旅行の思い出話、自分主体の奴」
+
+大石セレクション：公式ネタ
+
+ジャルジャル「旅行の思い出話、自分主体の奴」の公式コント動画。ジャルジャルタワー JARUJARU TOWERで公開されている一本です。
+
+[公式YouTubeで見る](https://www.youtube.com/watch?v=nQ1o_VjMYSA)
+
+- 動画タイトル：『旅行の思い出話、自分主体の奴』ジャルジャルのネタのタネ【JARUJARUTOWER】
+- ジャンル：コント
+- 公開元：[ジャルジャルタワー JARUJARU TOWER](https://www.youtube.com/channel/UChwgNUWPM-ksOP3BbfQHS5Q)
+- 再生時間：8:49
+
+## ジャルジャルのほかのネタ
+
+- [キャッチコピーの差が微妙で最適なカレー選べない奴](/articles/jarujaru-0650.html)
+- [「なんかおもしろい」から罵倒される役者志望の奴](/articles/jarujaru-0651.html)
+- [斬新泥棒な奴](/articles/jarujaru-0652.html)
+
+[ジャルジャルの動画一覧](/performers/jarujaru/)

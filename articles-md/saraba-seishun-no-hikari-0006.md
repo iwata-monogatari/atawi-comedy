@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: saraba-seishun-no-hikari-0006
 title: "オレオレ"
 performer: "さらば青春の光"

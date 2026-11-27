@@ -1,5 +1,7 @@
 # タイムマシーン3号「温泉旅館」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「温泉旅館」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=4RroOApkP-4)

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sissonne-0007
 title: "議員と記者"
 performer: "シソンヌ"

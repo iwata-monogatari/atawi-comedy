@@ -1,5 +1,7 @@
 # 中川家「街頭演説」
 
+大石セレクション：公式ネタ
+
 中川家チャンネルで公開されている中川家のコント「街頭演説」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=OoSnCF-b15Q)

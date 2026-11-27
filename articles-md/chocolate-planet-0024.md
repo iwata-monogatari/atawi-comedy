@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: chocolate-planet-0024
 title: "オンライン密室ゲーム"
 performer: "チョコレートプラネット"

@@ -1,5 +1,7 @@
 # かが屋「やさしい人」
 
+大石セレクション：公式ネタ
+
 「PLAYHOUSE1224」で披露したコント「やさしい人」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=jhgC65NHodE)

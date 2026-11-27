@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: parpar-0028
 title: "沖縄旅行"
 performer: "パーパー"

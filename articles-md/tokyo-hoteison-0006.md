@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: "tokyo-hoteison-0006"
 title: "遠足"
 performer: "東京ホテイソン"

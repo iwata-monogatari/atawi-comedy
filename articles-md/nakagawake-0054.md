@@ -1,5 +1,7 @@
 # 中川家「OLとOL 休日の昼下がり」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2026」で披露したコント「OLとOL 休日の昼下がり」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=_KDa5DTErpw)

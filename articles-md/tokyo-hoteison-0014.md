@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: "tokyo-hoteison-0014"
 title: "サッカーの実況"
 performer: "東京ホテイソン"

@@ -1,5 +1,7 @@
 # ラーメンズ「イモムシ」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『ALICE』で披露されたコント「イモムシ」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=75tyz1s7rkw)

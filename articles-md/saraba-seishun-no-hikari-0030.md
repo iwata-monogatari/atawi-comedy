@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: saraba-seishun-no-hikari-0030
 title: "催眠術"
 performer: "さらば青春の光"

@@ -1,5 +1,7 @@
 # ラーメンズ「風と桶に関する幾つかの考察」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『ALICE』で披露されたコント「風と桶に関する幾つかの考察」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=rLOD_Tt0ZpM)

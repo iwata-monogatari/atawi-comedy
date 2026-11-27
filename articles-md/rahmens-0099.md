@@ -1,5 +1,7 @@
 # ラーメンズ「QA」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『STUDY』で披露されたコント「QA」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=Sw4I46cpWmg)

@@ -1,5 +1,7 @@
 # 中川家「大阪の不動産屋」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2023」で披露したコント「大阪の不動産屋」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=q6QYAcF9Uoc)

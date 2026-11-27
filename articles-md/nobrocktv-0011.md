@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: nobrocktv-0011
 title: "ヒス大爆発｜ラランド 50ヒス50なだめチャレンジ！"
 performer: "佐久間宣行のNOBROCK TV"

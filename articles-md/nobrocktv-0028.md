@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: nobrocktv-0028
 title: "なち企画｜なち企画"
 performer: "佐久間宣行のNOBROCK TV"

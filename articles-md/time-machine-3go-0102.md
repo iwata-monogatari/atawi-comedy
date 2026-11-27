@@ -1,5 +1,7 @@
 # タイムマシーン3号「ワンパンマン」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「ワンパンマン」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=Uv8Rnto7C-8)

@@ -1,5 +1,7 @@
 # かが屋「大富豪」
 
+大石セレクション：公式ネタ
+
 「PLAYHOUSE1224」で披露したコント「大富豪」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=eLTraus-mww)

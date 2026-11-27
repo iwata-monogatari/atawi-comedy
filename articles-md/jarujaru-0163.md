@@ -1,0 +1,20 @@
+# ジャルジャル「もらい笑いした店員に「お前が笑うのは違うんとちゃうか」と指摘する奴」
+
+大石セレクション：公式ネタ
+
+ジャルジャル「もらい笑いした店員に「お前が笑うのは違うんとちゃうか」と指摘する奴」の公式コント動画。ジャルジャルタワー JARUJARU TOWERで公開されている一本です。
+
+[公式YouTubeで見る](https://www.youtube.com/watch?v=pChOCnni3dw)
+
+- 動画タイトル：『もらい笑いした店員に「お前が笑うのは違うんとちゃうか」と指摘する奴』ジャルジャルのネタのタネ【JARUJARUTOWER】
+- ジャンル：コント
+- 公開元：[ジャルジャルタワー JARUJARU TOWER](https://www.youtube.com/channel/UChwgNUWPM-ksOP3BbfQHS5Q)
+- 再生時間：4:05
+
+## ジャルジャルのほかのネタ
+
+- [「脱退」の言い方が「ダッティダッティ」の奴](/articles/jarujaru-0164.html)
+- [友人を家に招いたくせに、突然「帰れー！」って言う奴](/articles/jarujaru-0165.html)
+- [怒りよりも恥ずかしさが勝つ奴〜宅配便〜](/articles/jarujaru-0166.html)
+
+[ジャルジャルの動画一覧](/performers/jarujaru/)

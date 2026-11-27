@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: chocolate-planet-0021
 title: "トレンド"
 performer: "チョコレートプラネット"

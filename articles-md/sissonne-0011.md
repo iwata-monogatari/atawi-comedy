@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sissonne-0011
 title: "隣人"
 performer: "シソンヌ"

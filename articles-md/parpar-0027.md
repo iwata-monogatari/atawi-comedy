@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: parpar-0027
 title: "秘密を言い合う"
 performer: "パーパー"

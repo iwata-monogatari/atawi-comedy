@@ -1,0 +1,20 @@
+# ジャルジャル「チャラ男番⻑のネタ見る奴 パート50」
+
+大石セレクション：公式ネタ
+
+ジャルジャル「チャラ男番⻑のネタ見る奴 パート50」の公式コント動画。ジャルジャルタワー JARUJARU TOWERで公開されている一本です。
+
+[公式YouTubeで見る](https://www.youtube.com/watch?v=lUod1DUNzj0)
+
+- 動画タイトル：『チャラ男番⻑のネタ見る奴 パート50』ジャルジャルのネタのタネ【JARUJARUTOWER】
+- ジャンル：コント
+- 公開元：[ジャルジャルタワー JARUJARU TOWER](https://www.youtube.com/channel/UChwgNUWPM-ksOP3BbfQHS5Q)
+- 再生時間：6:33
+
+## ジャルジャルのほかのネタ
+
+- [夢で見た部屋を探しに不動産屋来る奴](/articles/jarujaru-0706.html)
+- [京都文化のほうきと言葉で帰ってほしいこと伝える奴](/articles/jarujaru-0707.html)
+- [「my ッサー自」について巻き舌で罵り合う奴](/articles/jarujaru-0708.html)
+
+[ジャルジャルの動画一覧](/performers/jarujaru/)

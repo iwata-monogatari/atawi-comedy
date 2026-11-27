@@ -1,5 +1,7 @@
 # かが屋「ため息」
 
+大石セレクション：公式ネタ
+
 「PLAYHOUSE1224」で披露したコント「ため息」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=LDJH_ejU_Gs)

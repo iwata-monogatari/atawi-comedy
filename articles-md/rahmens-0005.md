@@ -1,5 +1,7 @@
 # ラーメンズ「study」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『STUDY』で披露されたコント「study」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=y0ImMtXwfv0)

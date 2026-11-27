@@ -1,5 +1,7 @@
 # ラバーガール「引っ越し」
 
+大石セレクション：公式ネタ
+
 ラバーガールの公演『ラバーガールLIVE 「大水が出た！」』で披露されたコント「引っ越し」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=-RhomIYh8VM)

@@ -1,5 +1,7 @@
 # タイムマシーン3号「満腹宣言」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の歌ネタ「満腹宣言」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=m9DS6e4oGBk)

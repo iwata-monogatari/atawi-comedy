@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: reiwa-roman-0005
 title: "トイストーリー"
 performer: "令和ロマン"

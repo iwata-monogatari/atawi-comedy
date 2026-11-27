@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: sandwichman-0011
 title: "ラグビー"
 performer: "サンドウィッチマン"

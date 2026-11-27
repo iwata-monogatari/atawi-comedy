@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: parpar-0042
 title: "形成外科"
 performer: "パーパー"

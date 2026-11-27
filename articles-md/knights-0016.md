@@ -1,5 +1,7 @@
 # ナイツ「ショート漫才」
 
+大石セレクション：公式ネタ
+
 マセキ芸能社公式チャンネルで公開されているナイツの漫才「ショート漫才」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=jkynCaxLjrg)

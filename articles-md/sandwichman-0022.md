@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: sandwichman-0022
 title: "村に住む男"
 performer: "サンドウィッチマン"

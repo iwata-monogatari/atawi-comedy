@@ -1,5 +1,7 @@
 # 中川家「RULE /マジック特番」
 
+大石セレクション：公式ネタ
+
 中川家とサルゴリラが共演。中川家の寄席2026から「RULE /マジック特番」を紹介します。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=objfFWiFQjM)

@@ -1,0 +1,20 @@
+# ジャルジャル「「あんたが大将」みたいな曲を披露する武田鉄男って奴」
+
+大石セレクション：公式ネタ
+
+ジャルジャル「「あんたが大将」みたいな曲を披露する武田鉄男って奴」の公式コント動画。ジャルジャルタワー JARUJARU TOWERで公開されている一本です。
+
+[公式YouTubeで見る](https://www.youtube.com/watch?v=kmod9gth_pQ)
+
+- 動画タイトル：『「あんたが大将」みたいな曲を披露する武田鉄男って奴』ジャルジャルのネタのタネ【JARUJARUTOWER】
+- ジャンル：コント
+- 公開元：[ジャルジャルタワー JARUJARU TOWER](https://www.youtube.com/channel/UChwgNUWPM-ksOP3BbfQHS5Q)
+- 再生時間：6:40
+
+## ジャルジャルのほかのネタ
+
+- [就活生のくせに内定もらった時のために「このへんのおいしいお店どこですか？」て聞く奴](/articles/jarujaru-0186.html)
+- [そんな要素ないのに四股名ケツアゴ山にされた奴](/articles/jarujaru-0187.html)
+- [ボキャブラリーないツッコミの奴](/articles/jarujaru-0188.html)
+
+[ジャルジャルの動画一覧](/performers/jarujaru/)

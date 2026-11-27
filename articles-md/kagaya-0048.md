@@ -1,5 +1,7 @@
 # かが屋「UFOキャッチャー」
 
+大石セレクション：公式ネタ
+
 かが屋のオフィシャルコントch  かが屋文庫で公開されているかが屋のコント「UFOキャッチャー」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=8j9C1DVYlXE)

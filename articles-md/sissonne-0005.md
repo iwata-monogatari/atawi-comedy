@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sissonne-0005
 title: "青年とおじさんと猫"
 performer: "シソンヌ"

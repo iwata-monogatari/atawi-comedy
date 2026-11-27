@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: parpar-0031
 title: "患者と医者"
 performer: "パーパー"

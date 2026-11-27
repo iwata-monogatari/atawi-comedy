@@ -1,5 +1,7 @@
 # ラバーガール「FP」
 
+大石セレクション：公式ネタ
+
 ラバーガールの公演『ラバーガールLIVE「シャンシャン」』で披露されたコント「FP」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=tA8Wi7LEZ6Q)

@@ -1,5 +1,7 @@
 # タイムマシーン3号「はじめてのお使い」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「はじめてのお使い」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=0EZoeG_3G-k)

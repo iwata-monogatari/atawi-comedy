@@ -1,5 +1,7 @@
 # ラーメンズ「バースデー」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『鯨』で披露されたコント「バースデー」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=1izbHtJ1nLg)

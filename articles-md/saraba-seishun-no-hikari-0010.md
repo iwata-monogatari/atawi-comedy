@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: saraba-seishun-no-hikari-0010
 title: "野球人生"
 performer: "さらば青春の光"

@@ -1,5 +1,7 @@
 # ラーメンズ「バニーボーイ」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『CLASSIC』で披露されたコント「バニーボーイ」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=1bIZwVDelg0)

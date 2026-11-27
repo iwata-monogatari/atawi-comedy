@@ -1,5 +1,7 @@
 # 中川家「時代警察 カレー」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2022」で披露したコント「時代警察 カレー」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=a5REUBsGu6U)

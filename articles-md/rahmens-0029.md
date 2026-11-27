@@ -1,5 +1,7 @@
 # ラーメンズ「バッハ」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『news』で披露されたコント「バッハ」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=HNlMff8dMtY)

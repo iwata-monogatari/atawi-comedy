@@ -1,5 +1,7 @@
 # かが屋「占い師と客」
 
+大石セレクション：公式ネタ
+
 「PLAYHOUSE1224」で披露したコント「占い師と客」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=V10aweuE6BA)

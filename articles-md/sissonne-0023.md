@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sissonne-0023
 title: "飲み会のあと"
 performer: "シソンヌ"

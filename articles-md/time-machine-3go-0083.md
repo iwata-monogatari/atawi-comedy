@@ -1,5 +1,7 @@
 # タイムマシーン3号「結婚式が挙げられない」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「結婚式が挙げられない」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=VAd2-Ulza38)

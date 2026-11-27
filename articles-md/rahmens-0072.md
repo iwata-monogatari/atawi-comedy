@@ -1,5 +1,7 @@
 # ラーメンズ「心理テスト」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『椿』で披露されたコント「心理テスト」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=AHY1VjuZXyo)

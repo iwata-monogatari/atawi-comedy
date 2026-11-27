@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sandwichman-0009
 title: "蜂の巣駆除"
 performer: "サンドウィッチマン"

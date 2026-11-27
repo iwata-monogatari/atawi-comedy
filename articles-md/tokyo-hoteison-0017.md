@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: "tokyo-hoteison-0017"
 title: "お・も・て・な・し"
 performer: "東京ホテイソン"

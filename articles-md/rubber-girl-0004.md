@@ -1,5 +1,7 @@
 # ラバーガール「脱出」
 
+大石セレクション：公式ネタ
+
 ラバーガールの公演『ラバーガール solo live＋「T/V」』で披露されたコント「脱出」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=5yX3ExKQlLk)

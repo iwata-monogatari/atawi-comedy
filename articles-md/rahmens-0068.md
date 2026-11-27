@@ -1,5 +1,7 @@
 # ラーメンズ「上下関係」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『ATOM』で披露されたコント「上下関係」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=3Q8gln2Zbvg)

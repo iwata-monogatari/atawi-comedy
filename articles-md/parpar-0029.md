@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: parpar-0029
 title: "ベランダ"
 performer: "パーパー"

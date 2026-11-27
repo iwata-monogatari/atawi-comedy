@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: reiwa-roman-0006
 title: "町工場"
 performer: "令和ロマン"

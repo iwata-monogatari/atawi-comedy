@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: saraba-seishun-no-hikari-0018
 title: "調教師コメント"
 performer: "さらば青春の光"

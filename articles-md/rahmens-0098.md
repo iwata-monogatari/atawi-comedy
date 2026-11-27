@@ -1,5 +1,7 @@
 # ラーメンズ「壺バカ」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『鯨』で披露されたコント「壺バカ」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=68wk8rXPNSY)

@@ -1,0 +1,20 @@
+# ジャルジャル「先輩使って「金玉左右ギャンブル」する奴」
+
+大石セレクション：公式ネタ
+
+ジャルジャル「先輩使って「金玉左右ギャンブル」する奴」の公式コント動画。ジャルジャルタワー JARUJARU TOWERで公開されている一本です。
+
+[公式YouTubeで見る](https://www.youtube.com/watch?v=T_5NQH-KQhQ)
+
+- 動画タイトル：『先輩使って「金玉左右ギャンブル」する奴』ジャルジャルのネタのタネ【JARUJARUTOWER】
+- ジャンル：コント
+- 公開元：[ジャルジャルタワー JARUJARU TOWER](https://www.youtube.com/channel/UChwgNUWPM-ksOP3BbfQHS5Q)
+- 再生時間：5:32
+
+## ジャルジャルのほかのネタ
+
+- [ラーメン屋で生配信させてもらったくせに「まずい、何か臭うぞ」と言ってしまった奴](/articles/jarujaru-0849.html)
+- [玉裏にタトゥー入れてる奴](/articles/jarujaru-0850.html)
+- [無菌室で屁をこく奴](/articles/jarujaru-0851.html)
+
+[ジャルジャルの動画一覧](/performers/jarujaru/)

@@ -1,5 +1,7 @@
 # ラーメンズ「映画好きのふたり」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『home』で披露されたコント「映画好きのふたり」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=0Zw3Bpu4OLc)

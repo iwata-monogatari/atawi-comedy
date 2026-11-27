@@ -1,5 +1,7 @@
 # ラーメンズ「ベルボーイのホテル旅館化計画」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『CLASSIC』で披露されたコント「ベルボーイのホテル旅館化計画」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=HY0rU5WmK9k)

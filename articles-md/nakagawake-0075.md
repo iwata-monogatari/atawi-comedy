@@ -1,5 +1,7 @@
 # 中川家「CM撮影現場」
 
+大石セレクション：公式ネタ
+
 中川家とミルクボーイが共演。中川家の寄席2024から「CM撮影現場」を紹介します。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=Oz8uSMdHlFo)

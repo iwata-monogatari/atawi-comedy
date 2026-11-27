@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: sandwichman-0023
 title: "小麦が香る男"
 performer: "サンドウィッチマン"

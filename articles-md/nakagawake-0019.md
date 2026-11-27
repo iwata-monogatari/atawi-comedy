@@ -1,5 +1,7 @@
 # 中川家「一人暮らし」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2021」で披露したコント「一人暮らし」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=obzhopOubpk)

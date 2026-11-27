@@ -1,5 +1,7 @@
 # タイムマシーン3号「修学旅行」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「修学旅行」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=rc-3mpt3If0)

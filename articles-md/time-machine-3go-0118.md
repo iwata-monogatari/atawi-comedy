@@ -1,5 +1,7 @@
 # タイムマシーン3号「誕生日サプライズ」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「誕生日サプライズ」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=8xr62ib6Oxw)

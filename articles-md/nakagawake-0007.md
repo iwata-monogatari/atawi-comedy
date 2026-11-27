@@ -1,5 +1,7 @@
 # 中川家「おかんと温泉旅館にて」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席 2020」で披露したコント「おかんと温泉旅館にて」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=JALzgOlGqxg)

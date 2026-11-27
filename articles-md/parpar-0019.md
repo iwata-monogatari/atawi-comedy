@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: parpar-0019
 title: "厳しい彼女"
 performer: "パーパー"

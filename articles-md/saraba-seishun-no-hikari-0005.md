@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: saraba-seishun-no-hikari-0005
 title: "本番いきます！"
 performer: "さらば青春の光"

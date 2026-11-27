@@ -1,5 +1,7 @@
 # ラーメンズ「バニー部」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『ALICE』で披露されたコント「バニー部」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=M8KfKAsao-Y)

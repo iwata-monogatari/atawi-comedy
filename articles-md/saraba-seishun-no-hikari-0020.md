@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: saraba-seishun-no-hikari-0020
 title: "ペンション殺人事件"
 performer: "さらば青春の光"

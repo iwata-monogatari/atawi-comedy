@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: non-style-0006
 title: "ぼくの金魚"
 performer: "NON STYLE"

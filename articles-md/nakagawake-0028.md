@@ -1,5 +1,7 @@
 # 中川家「師匠と弟子」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席 2020」で披露したコント「師匠と弟子」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=b0Q5UkVLSjI)

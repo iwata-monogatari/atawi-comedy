@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: saraba-seishun-no-hikari-0021
 title: "ヒーロー"
 performer: "さらば青春の光"

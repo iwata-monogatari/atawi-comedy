@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: "tokyo-hoteison-0007"
 title: "朝の情報番組"
 performer: "東京ホテイソン"

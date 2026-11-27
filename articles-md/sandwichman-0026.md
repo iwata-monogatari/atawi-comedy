@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sandwichman-0026
 title: "面接"
 performer: "サンドウィッチマン"

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: sandwichman-0017
 title: "葬儀社"
 performer: "サンドウィッチマン"

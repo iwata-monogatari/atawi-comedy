@@ -1,5 +1,7 @@
 # ラーメンズ「無類人間」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『home』で披露されたコント「無類人間」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=x32mNzbHxVs)

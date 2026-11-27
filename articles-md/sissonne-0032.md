@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sissonne-0032
 title: "眼鏡屋"
 performer: "シソンヌ"

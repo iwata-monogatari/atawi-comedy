@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: "sandwichman-0003"
 title: "寝具店"
 performer: "サンドウィッチマン"

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sissonne-0006
 title: "ピアノの音色に誘われて"
 performer: "シソンヌ"

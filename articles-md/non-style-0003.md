@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: non-style-0003
 title: "1000万円"
 performer: "NON STYLE"

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: nobrocktv-0036
 title: "即興芝居｜なち企画"
 performer: "佐久間宣行のNOBROCK TV"

@@ -1,5 +1,7 @@
 # 中川家「となりのマダム」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2025」で披露したコント「となりのマダム」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=OuaztBkaSP8)

@@ -1,5 +1,7 @@
 # 中川家「行きつけの喫茶店」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2020」で披露したコント「行きつけの喫茶店」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=QResrM_UK6U)

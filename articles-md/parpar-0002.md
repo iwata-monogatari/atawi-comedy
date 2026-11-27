@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: parpar-0002
 title: "別れ話"
 performer: "パーパー"

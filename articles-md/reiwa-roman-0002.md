@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: reiwa-roman-0002
 title: "名字"
 performer: "令和ロマン"

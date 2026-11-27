@@ -1,5 +1,7 @@
 # 中川家「デパートの惣菜売り場」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2024」で披露したコント「デパートの惣菜売り場」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=FWXlwdgyXY4)

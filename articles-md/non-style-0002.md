@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: non-style-0002
 title: "MBGM"
 performer: "NON STYLE"

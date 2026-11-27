@@ -1,5 +1,7 @@
 # ラーメンズ「甲殻類のワルツ」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『ALICE』で披露されたコント「甲殻類のワルツ」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=bqGReJH-grU)

@@ -1,5 +1,7 @@
 # ラーメンズ「不透明な会話」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『TEXT』で披露されたコント「不透明な会話」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=IaBDGFGNYK0)

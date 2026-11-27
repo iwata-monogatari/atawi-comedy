@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sissonne-0017
 title: "名店への道"
 performer: "シソンヌ"

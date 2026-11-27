@@ -1,5 +1,7 @@
 # 中川家「台湾の占い師」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2025」で披露したコント「台湾の占い師」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=wOPVykjlm3Q)

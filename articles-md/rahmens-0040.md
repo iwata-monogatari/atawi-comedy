@@ -1,5 +1,7 @@
 # ラーメンズ「レストランそれぞれ」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『CHERRY BLOSSOM FRONT 345』で披露されたコント「レストランそれぞれ」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=BOjVFZTnEF0)

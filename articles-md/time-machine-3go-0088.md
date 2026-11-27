@@ -1,5 +1,7 @@
 # タイムマシーン3号「東京卍リベンジャーズ」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「東京卍リベンジャーズ」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=ainUtxr60SI)

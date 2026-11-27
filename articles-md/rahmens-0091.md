@@ -1,5 +1,7 @@
 # ラーメンズ「本人不在」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『CHERRY BLOSSOM FRONT 345』で披露されたコント「本人不在」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=mXLntt3ikt8)

@@ -1,5 +1,7 @@
 # NON STYLE「雪山で遭難」
 
+大石セレクション：公式ネタ
+
 舞台は遭難した雪山。公式チャンネルが、昔のNON STYLEを思い出すと紹介している漫才です。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=1bT8_fmKmj0)

@@ -65,6 +65,11 @@ for (const video of publishedVideos) {
   const articlePath = video.article_url.replace(/^\//, "");
   if (!exists(articlePath)) {
     fail(`${video.id} points to missing article file: ${video.article_url}`);
+  } else if (!readText(articlePath).includes("大石セレクション：")) {
+    fail(`${video.id} is missing its Oishi Selection label`);
+  }
+  if (!["ma", "world", "word", "official"].includes(video.rating?.selection || video.selection)) {
+    fail(`${video.id} is missing valid selection data`);
   }
 }
 

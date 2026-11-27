@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sissonne-0024
 title: "同居人の"
 performer: "シソンヌ"

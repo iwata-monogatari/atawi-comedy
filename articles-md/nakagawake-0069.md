@@ -1,5 +1,7 @@
 # 中川家「音声収録現場」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2025」で披露したコント「音声収録現場」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=G7U8hb9Niec)

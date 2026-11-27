@@ -1,5 +1,7 @@
 # タイムマシーン3号「100人の女子に聞いたデートで行きたい場所ランキング」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「100人の女子に聞いたデートで行きたい場所ランキング」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=KtB4eJnViwI)

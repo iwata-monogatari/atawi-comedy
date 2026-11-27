@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: saraba-seishun-no-hikari-0007
 title: "◯◯ビジネス"
 performer: "さらば青春の光"

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sissonne-0008
 title: "人類の、未来のために"
 performer: "シソンヌ"

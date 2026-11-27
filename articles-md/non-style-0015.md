@@ -1,5 +1,7 @@
 # NON STYLE「高級食材」
 
+大石セレクション：公式ネタ
+
 うなぎのような高級食材をめぐって、石田があれこれ物申します。食べ物に対する二人の温度差が、話の出発点です。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=HgQTd51lIEs)

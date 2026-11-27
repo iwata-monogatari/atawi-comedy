@@ -1,5 +1,7 @@
 # ラーメンズ「初男」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『FLAT』で披露されたコント「初男」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=ISfu76VTdJs)

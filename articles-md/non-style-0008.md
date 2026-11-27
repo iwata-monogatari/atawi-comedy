@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: non-style-0008
 title: "謝罪会見"
 performer: "NON STYLE"

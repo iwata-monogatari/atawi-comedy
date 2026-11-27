@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: parpar-0045
 title: "占い"
 performer: "パーパー"

@@ -1,5 +1,7 @@
 # かが屋「ママ友の一蘭」
 
+大石セレクション：公式ネタ
+
 かが屋のオフィシャルコントch  かが屋文庫で公開されているかが屋のコント「ママ友の一蘭」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=MSUW5qDyejc)

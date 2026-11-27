@@ -1,5 +1,7 @@
 # 中川家「師匠　早朝の空港にて…」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2022」で披露したコント「師匠　早朝の空港にて…」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=lWFH9KGobmg)

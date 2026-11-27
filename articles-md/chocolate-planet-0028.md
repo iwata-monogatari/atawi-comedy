@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: chocolate-planet-0028
 title: "CPfilm「トレンド」"
 performer: "チョコレートプラネット"

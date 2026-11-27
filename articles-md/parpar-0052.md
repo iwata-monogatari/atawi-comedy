@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: parpar-0052
 title: "親子"
 performer: "パーパー"

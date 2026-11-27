@@ -1,5 +1,7 @@
 # ラーメンズ「ギリジンツーリスト」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『CLASSIC』で披露されたコント「ギリジンツーリスト」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=mtvhjROePVw)

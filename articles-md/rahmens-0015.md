@@ -1,5 +1,7 @@
 # ラーメンズ「お引っ越し」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『FLAT』で披露されたコント「お引っ越し」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=-jSkIASQoPM)

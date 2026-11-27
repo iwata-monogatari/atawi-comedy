@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: nobrocktv-0006
 title: "舞台裏｜DRAW♡MEリリースイベントに密着したらとあるメンバーがずっと泣いてた"
 performer: "佐久間宣行のNOBROCK TV"

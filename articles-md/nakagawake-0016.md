@@ -1,5 +1,7 @@
 # 中川家「守口の母」
 
+大石セレクション：公式ネタ
+
 中川家チャンネルで公開されている中川家のコント「守口の母」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=IQHg0EQuRv0)

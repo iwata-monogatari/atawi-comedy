@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: chocolate-planet-0004
 title: "足踏まれ小僧"
 performer: "チョコレートプラネット"

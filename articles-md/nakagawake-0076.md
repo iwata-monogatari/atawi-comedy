@@ -1,5 +1,7 @@
 # 中川家「映画監督・巨匠」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2024」で披露したコント「映画監督・巨匠」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=eOF4l4jsIns)

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sissonne-0031
 title: "先生の本性"
 performer: "シソンヌ"

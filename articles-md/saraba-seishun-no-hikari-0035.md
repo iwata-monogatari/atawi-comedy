@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: saraba-seishun-no-hikari-0035
 title: "Farewell Ceremony／お別れ会系"
 performer: "さらば青春の光"

@@ -1,5 +1,7 @@
 # かが屋「田舎の夫婦」
 
+大石セレクション：公式ネタ
+
 「PLAYHOUSE1224」で披露したコント「田舎の夫婦」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=iOqMFyhMJ0M)

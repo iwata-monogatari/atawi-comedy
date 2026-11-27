@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: sandwichman-0021
 title: "携帯ショップ"
 performer: "サンドウィッチマン"

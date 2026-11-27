@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: saraba-seishun-no-hikari-0034
 title: "小豆島少年野球団"
 performer: "さらば青春の光"

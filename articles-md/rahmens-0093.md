@@ -1,5 +1,7 @@
 # ラーメンズ「漫画家と担当」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『home』で披露されたコント「漫画家と担当」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=jUhA-0nNVO0)

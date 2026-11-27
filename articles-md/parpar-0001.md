@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: parpar-0001
 title: "告白"
 performer: "パーパー"

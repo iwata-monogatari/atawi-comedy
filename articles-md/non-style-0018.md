@@ -1,5 +1,7 @@
 # NON STYLE「朝活」
 
+大石セレクション：公式ネタ
+
 大人の男を目指して朝活に関心を寄せる井上。純喫茶や珈琲店が思い浮かぶ朝の過ごし方に、石田が横から口を挟みます。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=V9WJIZ4Gytk)

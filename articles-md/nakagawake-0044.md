@@ -1,5 +1,7 @@
 # 中川家「雑誌の取材」
 
+大石セレクション：公式ネタ
+
 中川家とミキが共演。中川家の寄席2026から「雑誌の取材」を紹介します。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=jkaCctXnUMo)

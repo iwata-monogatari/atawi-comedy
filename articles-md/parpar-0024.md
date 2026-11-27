@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: parpar-0024
 title: "店長とバイト"
 performer: "パーパー"

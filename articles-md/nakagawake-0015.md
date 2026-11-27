@@ -1,5 +1,7 @@
 # 中川家「職務質問」
 
+大石セレクション：公式ネタ
+
 「中川家の寄席2021」で披露したコント「職務質問」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=XrhkDnSmFjU)

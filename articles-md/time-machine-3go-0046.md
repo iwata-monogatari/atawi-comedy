@@ -1,5 +1,7 @@
 # タイムマシーン3号「コーヒー飲んだら眠れなくなった男」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「コーヒー飲んだら眠れなくなった男」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=SjylbuwIenM)

@@ -1,5 +1,7 @@
 # ラーメンズ「条例」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『TEXT』で披露されたコント「条例」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=sC5T1l-yT48)

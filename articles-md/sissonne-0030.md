@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sissonne-0030
 title: "大学デビュー"
 performer: "シソンヌ"

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: sandwichman-0012
 title: "深夜のラシオ"
 performer: "サンドウィッチマン"

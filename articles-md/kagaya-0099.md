@@ -1,5 +1,7 @@
 # かが屋「サプライズの練習」
 
+大石セレクション：公式ネタ
+
 「PLAYHOUSE1224」で披露したコント「サプライズの練習」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=87yeqrs0bwg)

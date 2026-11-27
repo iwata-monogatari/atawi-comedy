@@ -1,5 +1,7 @@
 # バイきんぐ「閉店」
 
+大石セレクション：公式ネタ
+
 バイきんぐの公演『バイきんぐ単独ライブ「クローバー」』で披露されたコント「閉店」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=oQsUhlzNBZE)

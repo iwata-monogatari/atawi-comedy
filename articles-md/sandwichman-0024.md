@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: sandwichman-0024
 title: "泥棒"
 performer: "サンドウィッチマン"

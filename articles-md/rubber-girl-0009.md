@@ -1,5 +1,7 @@
 # ラバーガール「ニュース」
 
+大石セレクション：公式ネタ
+
 ラバーガールの公演『ラバーガールLIVE「お前ら愛してるぜ」』で披露されたコント「ニュース」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=ScGofXnZivg)

@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: tokyo-hoteison-0011
 title: "グーチョキパー"
 performer: "東京ホテイソン"

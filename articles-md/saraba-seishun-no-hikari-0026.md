@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: saraba-seishun-no-hikari-0026
 title: "おっさん"
 performer: "さらば青春の光"

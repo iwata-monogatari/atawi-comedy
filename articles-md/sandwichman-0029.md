@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：世界
 id: sandwichman-0029
 title: "建築士"
 performer: "サンドウィッチマン"

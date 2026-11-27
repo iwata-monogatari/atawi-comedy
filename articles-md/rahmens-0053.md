@@ -1,5 +1,7 @@
 # ラーメンズ「五重塔」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『TOWER』で披露されたコント「五重塔」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=rc6nG-Fj4Fs)

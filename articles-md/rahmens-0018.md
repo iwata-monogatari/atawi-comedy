@@ -1,5 +1,7 @@
 # ラーメンズ「ダメ人間」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『CLASSIC』で披露されたコント「ダメ人間」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=iOGjiaMcwtM)

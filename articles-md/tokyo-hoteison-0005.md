@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: "tokyo-hoteison-0005"
 title: "入学式"
 performer: "東京ホテイソン"

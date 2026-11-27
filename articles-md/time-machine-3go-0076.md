@@ -1,5 +1,7 @@
 # タイムマシーン3号「コンプライアンス」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「コンプライアンス」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=Mw3GH14Djg8)

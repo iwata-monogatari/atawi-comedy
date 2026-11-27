@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：ワード
 id: parpar-0014
 title: "訪問販売"
 performer: "パーパー"

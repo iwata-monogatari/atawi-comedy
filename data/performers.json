@@ -100,5 +100,29 @@
     "name": "ラーメンズ",
     "kana": "らーめんず",
     "type": "コンビ"
+  },
+  {
+    "id": "jarujaru",
+    "name": "ジャルジャル",
+    "kana": "じゃるじゃる",
+    "type": "コンビ"
+  },
+  {
+    "id": "hanako",
+    "name": "ハナコ",
+    "kana": "はなこ",
+    "type": "トリオ"
+  },
+  {
+    "id": "milkboy",
+    "name": "ミルクボーイ",
+    "kana": "みるくぼーい",
+    "type": "コンビ"
+  },
+  {
+    "id": "jinnai-tomonori",
+    "name": "陣内智則",
+    "kana": "じんないとものり",
+    "type": "ピン芸人"
   }
 ]

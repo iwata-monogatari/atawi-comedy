@@ -1,5 +1,7 @@
 # ラーメンズ「英語で話そう」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『news』で披露されたコント「英語で話そう」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=rOpvQT39j0s)

@@ -1,5 +1,7 @@
 # ナイツ「自己紹介」
 
+大石セレクション：公式ネタ
+
 ナイツの公演『ナイツ独演会 其の二』で披露された漫才「自己紹介」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=9lYwvpIhT1U)

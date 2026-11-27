@@ -1,5 +1,7 @@
 # ラバーガール「ZAZEN BOYSの歌詞でいつも涙腺崩壊する人」
 
+大石セレクション：公式ネタ
+
 ZAZEN BOYSの歌詞でいつも涙腺崩壊する人。この人物設定でラバーガールが演じる、第2チャンネルのコントです。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=3wcf6kz8r3U)

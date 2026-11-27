@@ -1,4 +1,6 @@
 ---
+
+大石セレクション：間
 id: parpar-0021
 title: "早く空港行きな"
 performer: "パーパー"

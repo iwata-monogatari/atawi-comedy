@@ -1,5 +1,7 @@
 # タイムマシーン3号「悪魔のド◯えもん」
 
+大石セレクション：公式ネタ
+
 タイムマシーン3号Official YouTube Channelで公開されているタイムマシーン3号の漫才「悪魔のド◯えもん」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=gEmUp1pw2yE)

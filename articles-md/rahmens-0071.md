@@ -1,5 +1,7 @@
 # ラーメンズ「新橋駅をご利用のみなさん」
 
+大石セレクション：公式ネタ
+
 ラーメンズの公演『FLAT』で披露されたコント「新橋駅をご利用のみなさん」。
 
 [公式YouTubeで見る](https://www.youtube.com/watch?v=0cYKbeKGJpw)
