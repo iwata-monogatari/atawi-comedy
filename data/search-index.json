@@ -6446,38 +6446,6 @@
     ]
   },
   {
-    "id": "lotti-0013",
-    "title": "お花畑",
-    "performer": "ロッチ",
-    "genre": "コント",
-    "release_year": 2026,
-    "decade": "2020年代",
-    "article_url": "/articles/lotti-0013.html",
-    "youtube_url": "https://www.youtube.com/watch?v=2hJaW_FozRQ",
-    "created_at": "2026-07-09T20:12:00+09:00",
-    "summary": "お花畑を、世界を入口に、場所のルールがどこまで普通で、どこから少し傾くかへ目を向けて楽しむロッチのコント。",
-    "featured_order": 9999,
-    "rating": {
-      "ma": 4,
-      "world": 5,
-      "word": 4,
-      "selection": "world"
-    },
-    "kana": [
-      "ろっち",
-      "お花畑",
-      "ロッチ"
-    ],
-    "mood_tags": [
-      "世界観に入りたい",
-      "人間味で笑いたい"
-    ],
-    "theme_tags": [
-      "コント",
-      "世界"
-    ]
-  },
-  {
     "id": "lotti-0015",
     "title": "ラーメンの狼",
     "performer": "ロッチ",
@@ -6498,38 +6466,6 @@
     "kana": [
       "ろっち",
       "ラーメンの狼",
-      "ロッチ"
-    ],
-    "mood_tags": [
-      "言葉のセンスを味わいたい",
-      "とにかく笑いたい"
-    ],
-    "theme_tags": [
-      "コント",
-      "ワード"
-    ]
-  },
-  {
-    "id": "lotti-0026",
-    "title": "ユーモアスクール",
-    "performer": "ロッチ",
-    "genre": "コント",
-    "release_year": 2026,
-    "decade": "2020年代",
-    "article_url": "/articles/lotti-0026.html",
-    "youtube_url": "https://www.youtube.com/watch?v=ofyplzdw8iU",
-    "created_at": "2026-07-09T20:25:00+09:00",
-    "summary": "ユーモアスクールを、ワードを入口に、教える側の自信と、聞く側の戸惑いがどの順番で出るかへ目を向けて楽しむロッチのコント。",
-    "featured_order": 9999,
-    "rating": {
-      "ma": 4,
-      "world": 4,
-      "word": 5,
-      "selection": "word"
-    },
-    "kana": [
-      "ろっち",
-      "ユーモアスクール",
       "ロッチ"
     ],
     "mood_tags": [
@@ -6574,38 +6510,6 @@
     ]
   },
   {
-    "id": "lotti-0031",
-    "title": "マリッジオーシャンブルー",
-    "performer": "ロッチ",
-    "genre": "コント",
-    "release_year": 2026,
-    "decade": "2020年代",
-    "article_url": "/articles/lotti-0031.html",
-    "youtube_url": "https://www.youtube.com/watch?v=5mNxHYKcfMs",
-    "created_at": "2026-07-09T20:30:00+09:00",
-    "summary": "マリッジオーシャンブルーを、世界を入口に、相手の反応を見てから言葉を選び直す短い間へ目を向けて楽しむロッチのコント。",
-    "featured_order": 9999,
-    "rating": {
-      "ma": 4,
-      "world": 5,
-      "word": 4,
-      "selection": "world"
-    },
-    "kana": [
-      "ろっち",
-      "マリッジオーシャンブルー",
-      "ロッチ"
-    ],
-    "mood_tags": [
-      "世界観に入りたい",
-      "人間味で笑いたい"
-    ],
-    "theme_tags": [
-      "コント",
-      "世界"
-    ]
-  },
-  {
     "id": "lotti-0035",
     "title": "XPhone5",
     "performer": "ロッチ",
@@ -6635,102 +6539,6 @@
     "theme_tags": [
       "コント",
       "ワード"
-    ]
-  },
-  {
-    "id": "lotti-0040",
-    "title": "プラマイゼロ",
-    "performer": "ロッチ",
-    "genre": "コント",
-    "release_year": 2026,
-    "decade": "2020年代",
-    "article_url": "/articles/lotti-0040.html",
-    "youtube_url": "https://www.youtube.com/watch?v=lpM7obBPmZU",
-    "created_at": "2026-07-09T20:39:00+09:00",
-    "summary": "プラマイゼロを、ワードを入口に、その言葉が出る前後の呼吸と、相手がすぐに受け止められない一拍へ目を向けて楽しむロッチのコント。",
-    "featured_order": 9999,
-    "rating": {
-      "ma": 4,
-      "world": 5,
-      "word": 5,
-      "selection": "word"
-    },
-    "kana": [
-      "ろっち",
-      "プラマイゼロ",
-      "ロッチ"
-    ],
-    "mood_tags": [
-      "言葉のセンスを味わいたい",
-      "とにかく笑いたい"
-    ],
-    "theme_tags": [
-      "コント",
-      "ワード"
-    ]
-  },
-  {
-    "id": "lotti-0043",
-    "title": "コマ名人 大小嶋",
-    "performer": "ロッチ",
-    "genre": "コント",
-    "release_year": 2026,
-    "decade": "2020年代",
-    "article_url": "/articles/lotti-0043.html",
-    "youtube_url": "https://www.youtube.com/watch?v=sDNtk2Etcws",
-    "created_at": "2026-07-09T20:42:00+09:00",
-    "summary": "コマ名人 大小嶋を、世界を入口に、名前が出た瞬間の反応と、その名前を周囲がどう受け止めるかへ目を向けて楽しむロッチのコント。",
-    "featured_order": 9999,
-    "rating": {
-      "ma": 4,
-      "world": 5,
-      "word": 4,
-      "selection": "world"
-    },
-    "kana": [
-      "ろっち",
-      "コマ名人 大小嶋",
-      "ロッチ"
-    ],
-    "mood_tags": [
-      "世界観に入りたい",
-      "人間味で笑いたい"
-    ],
-    "theme_tags": [
-      "コント",
-      "世界"
-    ]
-  },
-  {
-    "id": "lotti-0046",
-    "title": "中ノ森先生",
-    "performer": "ロッチ",
-    "genre": "コント",
-    "release_year": 2026,
-    "decade": "2020年代",
-    "article_url": "/articles/lotti-0046.html",
-    "youtube_url": "https://www.youtube.com/watch?v=aXd52aln8fM",
-    "created_at": "2026-07-09T20:45:00+09:00",
-    "summary": "中ノ森先生を、世界を入口に、教える側の自信と、聞く側の戸惑いがどの順番で出るかへ目を向けて楽しむロッチのコント。",
-    "featured_order": 9999,
-    "rating": {
-      "ma": 4,
-      "world": 5,
-      "word": 4,
-      "selection": "world"
-    },
-    "kana": [
-      "ろっち",
-      "中ノ森先生",
-      "ロッチ"
-    ],
-    "mood_tags": [
-      "世界観に入りたい",
-      "人間味で笑いたい"
-    ],
-    "theme_tags": [
-      "コント",
-      "世界"
     ]
   },
   {
